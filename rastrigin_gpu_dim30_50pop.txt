@@ -1,0 +1,11 @@
+//rastrigin
+Meilleure fitness obtenue après 5000 epochs: 0.00336874
+Meilleure fitness obtenue après 5000 epochs: 0.00460233
+Meilleure fitness obtenue après 5000 epochs: 0.00460233
+Meilleure fitness obtenue après 5000 epochs: 0.00513023
+Meilleure fitness obtenue après 5000 epochs: 0.00513023
+Meilleure fitness obtenue après 5000 epochs: 0.00513023
+Meilleure fitness obtenue après 5000 epochs: 0.00513023
+Meilleure fitness obtenue après 5000 epochs: 0.00513023
+Meilleure fitness obtenue après 5000 epochs: 0.00529762
+Meilleure fitness obtenue après 5000 epochs: 0.00550276
