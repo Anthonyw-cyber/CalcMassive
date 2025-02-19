@@ -65,8 +65,8 @@ __global__ void computeFitness(double *positions, double *intensities, int popSi
     int i = blockIdx.x * blockDim.x + threadIdx.x;
     if (i < popSize)
     {
-       double  fitness = 1.0 / sphereFunction(&positions[i * dim], dim);//changer la fonction ici
-        intensities[i] = 1.0 /(fitness + 1e-8);
+       double  fitness = rosenbrockFunction(&positions[i * dim], dim);//changer la fonction ici
+        intensities[i] = fitness ;
     }
 }
 __global__ void enforceBoundaries(double *positions, int popSize, int dim, double lb, double ub)
@@ -107,6 +107,15 @@ __global__ void updateFireflies(double *positions, double *intensities, double *
                 }
         }
         states[i] = localState;
+    }
+
+}
+__global__ void initPopulation(double *positions, int popSize, int dim, double lb, double ub, curandState *states) {
+    int i = blockIdx.x * blockDim.x + threadIdx.x;
+    if (i < popSize * dim) {
+        curandState localState = states[i];
+        positions[i] = lb + (ub - lb) * curand_uniform(&localState); // Génération uniforme entre lb et ub
+        states[i] = localState; // Sauvegarde de l'état
     }
 }
 
@@ -153,9 +162,9 @@ int main()
                 mt19937 gen(rd());
                 uniform_real_distribution<double> dist(lb, ub);
 
-                // Initialisation des positions aléatoires
+ // Début Initialisation des positions aléatoires
                 for (int i = 0; i < popSize * dim; i++) {
-                    positions[i] = dist(gen);
+                    positions[i] = (rand() / (double)RAND_MAX) * (ub - lb) + lb;
                 }
 
                 double *d_positions, *d_intensities, *d_betas;
@@ -172,7 +181,7 @@ int main()
                 int blocksPerGrid = (popSize + threadsPerBlock - 1) / threadsPerBlock;
                 initCurand<<<blocksPerGrid, threadsPerBlock>>>(d_states, time(NULL), popSize);
                 computeFitness<<<blocksPerGrid, threadsPerBlock>>>(d_positions, d_intensities, popSize, dim);
-
+// fin initialisation de population
                 // Création des événements CUDA pour la mesure du temps
                 cudaEvent_t start, stop;
                 cudaEventCreate(&start);
@@ -225,7 +234,7 @@ int main()
                 cudaEventElapsedTime(&milliseconds, start, stop);
 
                 printf("Meilleure fitness obtenue après %d epochs: %f\n", epochs, bestFitness,milliseconds);
-                outFile << "Meilleure fitness obtenue après " << epochs << " epochs: " << bestFitness <<"en"<<milliseconds <<"ms" endl;
+                outFile << bestFitness << endl;
 
                 cudaEventDestroy(start);
                 cudaEventDestroy(stop);
