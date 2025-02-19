@@ -5,7 +5,7 @@
 #include <random>
 #include <curand_kernel.h>
 #include <cuda_runtime.h>
-#include <sstream>  // Ajouter cet include
+#include <sstream>
 
 #ifndef M_PI
 #define M_PI 3.14159265358979323846
@@ -22,13 +22,11 @@ __device__ double sphereFunction(const double *x, int dim)
     double sum = 0.0;
     for (int i = 0; i < dim; i++)
     {
-        sum += x[i] * x[i]; // Somme des carrés des éléments
+        sum += x[i] * x[i];
     }
     return sum;
 }
 
-
-// Fonction de Rosenbrock
 __device__ double rosenbrockFunction(const double *x, int dim)
 {
     double sum = 0.0;
@@ -38,7 +36,7 @@ __device__ double rosenbrockFunction(const double *x, int dim)
     }
     return sum;
 }
-// Fonction d'Ackley
+
 __device__ double ackleyFunction(const double *x, int dim)
 {
     double sum1 = 0.0, sum2 = 0.0;
@@ -49,7 +47,7 @@ __device__ double ackleyFunction(const double *x, int dim)
     }
     return -20.0 * exp(-0.2 * sqrt(sum1 / dim)) - exp(sum2 / dim) + 20.0 + M_E;
 }
-// Fonction de Rastrigin
+
 __device__ double rastriginFunction(const double *x, int dim)
 {
     double sum = 10.0 * dim;
@@ -65,24 +63,12 @@ __global__ void computeFitness(double *positions, double *intensities, int popSi
     int i = blockIdx.x * blockDim.x + threadIdx.x;
     if (i < popSize)
     {
-       double  fitness = rosenbrockFunction(&positions[i * dim], dim);//changer la fonction ici
-        intensities[i] = fitness ;
-    }
-}
-__global__ void enforceBoundaries(double *positions, int popSize, int dim, double lb, double ub)
-{
-    int i = blockIdx.x * blockDim.x + threadIdx.x;
-    if (i < popSize)
-    {
-        for (int k = 0; k < dim; k++)
-        {
-            if (positions[i * dim + k] < lb) positions[i * dim + k] = lb;
-            if (positions[i * dim + k] > ub) positions[i * dim + k] = ub;
-        }
+        double fitness = rastriginFunction(&positions[i * dim], dim); // Change the function here if needed
+        intensities[i] = fitness;
     }
 }
 
-__global__ void updateFireflies(double *positions, double *intensities, double *betas,double beta_base, int popSize, int dim, double gamma, double alpha, double lb, double ub, curandState *states)
+__global__ void updateFireflies(double *positions, double *intensities, double *betas, double beta_base, int popSize, int dim, double gamma, double alpha, double lb, double ub, curandState *states)
 {
     int i = blockIdx.x * blockDim.x + threadIdx.x;
     if (i < popSize)
@@ -90,32 +76,33 @@ __global__ void updateFireflies(double *positions, double *intensities, double *
         curandState localState = states[i];
         for (int j = 0; j < popSize; j++)
         {
-
-                double r = 0.0;
+            double r = 0.0;
+            for (int k = 0; k < dim; k++)
+            {
+                r += (positions[i * dim + k] - positions[j * dim + k]) * (positions[i * dim + k] - positions[j * dim + k]);
+            }
+            r = sqrt(r);
+            if (intensities[j] < intensities[i])
+            {
+                betas[i] = beta_base * exp(-gamma * pow(r, 2));
                 for (int k = 0; k < dim; k++)
                 {
-                    r += (positions[i * dim + k] - positions[j * dim + k]) * (positions[i * dim + k] - positions[j * dim + k]);
-                }
-                r = sqrt(r);
-                if (intensities[j] > intensities[i]) {
-                    betas[i] = beta_base * exp(-gamma * pow(r, 2));
-                    for (int k = 0; k < dim; k++) {
-                        double E = curand_uniform(&localState); // Génération d'un nombre dans [0,1]
-                        double u = alpha * (E - 0.5);
-                        positions[i * dim + k] += betas[i] * (positions[j * dim + k] - positions[i * dim + k]) + u;
+                    double E = curand_uniform(&localState);
+                    double u = alpha * (E - 0.5);
+                    positions[i * dim + k] += betas[i] * (positions[j * dim + k] - positions[i * dim + k]) + u;
+
+                    if (positions[i * dim + k] < lb)
+                    {
+                        positions[i * dim + k] = lb;
+                    }
+                    else if (positions[i * dim + k] > ub)
+                    {
+                        positions[i * dim + k] = ub;
                     }
                 }
+            }
         }
         states[i] = localState;
-    }
-
-}
-__global__ void initPopulation(double *positions, int popSize, int dim, double lb, double ub, curandState *states) {
-    int i = blockIdx.x * blockDim.x + threadIdx.x;
-    if (i < popSize * dim) {
-        curandState localState = states[i];
-        positions[i] = lb + (ub - lb) * curand_uniform(&localState); // Génération uniforme entre lb et ub
-        states[i] = localState; // Sauvegarde de l'état
     }
 }
 
@@ -124,14 +111,14 @@ __global__ void initCurand(curandState *states, unsigned long seed, int popSize)
     int i = blockIdx.x * blockDim.x + threadIdx.x;
     if (i < popSize)
     {
-        curand_init(seed + i,0, 0, &states[i]);
+        curand_init(seed + i, 0, 0, &states[i]);
     }
 }
 
 int main()
 {
-    int dimensions[] = {10, 30, 50}; // Dimensions
-    int popSizes[] = {30, 50, 70}; // Tailles de la population
+    int dimensions[] = {10, 30, 50};
+    int popSizes[] = {30, 50, 70};
     double lb = -10.0, ub = 10.0;
     double gamma = 0.001, alpha = 0.2;
     int epochs = 5000;
@@ -139,20 +126,21 @@ int main()
 
     for (int dim : dimensions)
     {
-        for (int popSize : popSizes) {
-            for (int run = 0; run < 10; run++) {
-                // Nom du fichier en fonction de la dimension et de la population
+        for (int popSize : popSizes)
+        {
+            for (int run = 0; run < 10; run++)
+            {
                 stringstream ss;
                 ss << "results_dim_" << dim << "_pop_" << popSize << ".txt";
                 string fileName = ss.str();
                 ofstream outFile(fileName, ios::app);
 
-                if (!outFile) {
+                if (!outFile)
+                {
                     cerr << "Impossible d'ouvrir le fichier de sortie : " << fileName << endl;
                     return 1;
                 }
 
-                // Initialisation des variables
                 double bestFitness = DBL_MAX;
                 vector<double> positions(popSize * dim);
                 vector<double> intensities(popSize);
@@ -162,9 +150,9 @@ int main()
                 mt19937 gen(rd());
                 uniform_real_distribution<double> dist(lb, ub);
 
- // Début Initialisation des positions aléatoires
-                for (int i = 0; i < popSize * dim; i++) {
-                    positions[i] = (rand() / (double)RAND_MAX) * (ub - lb) + lb;
+                for (int i = 0; i < popSize * dim; i++)
+                {
+                    positions[i] = dist(gen);
                 }
 
                 double *d_positions, *d_intensities, *d_betas;
@@ -181,39 +169,41 @@ int main()
                 int blocksPerGrid = (popSize + threadsPerBlock - 1) / threadsPerBlock;
                 initCurand<<<blocksPerGrid, threadsPerBlock>>>(d_states, time(NULL), popSize);
                 computeFitness<<<blocksPerGrid, threadsPerBlock>>>(d_positions, d_intensities, popSize, dim);
-// fin initialisation de population
-                // Création des événements CUDA pour la mesure du temps
+
                 cudaEvent_t start, stop;
                 cudaEventCreate(&start);
                 cudaEventCreate(&stop);
 
-                // Démarrer la mesure du temps
                 cudaEventRecord(start);
 
-                for (int t = 0; t < epochs; t++) {
-                    updateFireflies<<<blocksPerGrid, threadsPerBlock>>>(d_positions, d_intensities, d_betas, beta_base,
-                                                                        popSize, dim, gamma, alpha, lb, ub, d_states);
-                    enforceBoundaries<<<blocksPerGrid, threadsPerBlock>>>(d_positions, popSize, dim, lb, ub);
+                for (int t = 0; t < epochs; t++)
+                {
+                    updateFireflies<<<blocksPerGrid, threadsPerBlock>>>(d_positions, d_intensities, d_betas, beta_base, popSize, dim, gamma, alpha, lb, ub, d_states);
                     computeFitness<<<blocksPerGrid, threadsPerBlock>>>(d_positions, d_intensities, popSize, dim);
                     cudaMemcpy(intensities.data(), d_intensities, popSize * sizeof(double), cudaMemcpyDeviceToHost);
 
-                    // Trouver l'index du meilleur individu (celui qui a la plus petite fitness)
                     int best_index = distance(intensities.begin(), min_element(intensities.begin(), intensities.end()));
 
-                    // Vérifier si la meilleure fitness trouvée est meilleure que l'actuelle
-                    if (intensities[best_index] < bestFitness) {
-                        bestFitness = intensities[best_index]; // Mise à jour de bestFitness
+                    if (intensities[best_index] < bestFitness)
+                    {
+                        bestFitness = intensities[best_index];
 
-                        // Ajouter une perturbation à la meilleure solution pour éviter la stagnation
-                        for (int i = 0; i < dim; i++) {
-                            double u = ((rand() / (double) RAND_MAX) - 0.5) *
-                                       alpha; // Générer une perturbation u ∈ [-0.5 * alpha, 0.5 * alpha]
-                            positions[best_index * dim + i] += u; // Appliquer la perturbation
+                        for (int i = 0; i < dim; i++)
+                        {
+                            double u = ((rand() / (double)RAND_MAX) - 0.5) * alpha;
+                            positions[best_index * dim + i] += u;
+
+                            if (positions[best_index * dim + i] < lb)
+                            {
+                                positions[best_index * dim + i] = lb;
+                            }
+                            else if (positions[best_index * dim + i] > ub)
+                            {
+                                positions[best_index * dim + i] = ub;
+                            }
                         }
 
-                        // Copier les positions mises à jour du CPU vers le GPU
-                        cudaMemcpy(d_positions, positions.data(), popSize * dim * sizeof(double),
-                                   cudaMemcpyHostToDevice);
+                        cudaMemcpy(d_positions, positions.data(), popSize * dim * sizeof(double), cudaMemcpyHostToDevice);
                     }
                 }
 
@@ -221,19 +211,18 @@ int main()
 
                 double currentBestFitness = *min_element(intensities.begin(), intensities.end());
 
-                if (currentBestFitness < bestFitness) // Condition correcte (minimisation)
+                if (currentBestFitness < bestFitness)
                 {
                     bestFitness = currentBestFitness;
                 }
-                // Arrêter la mesure du temps
+
                 cudaEventRecord(stop);
                 cudaEventSynchronize(stop);
 
-                // Calcul du temps écoulé
                 float milliseconds = 0;
                 cudaEventElapsedTime(&milliseconds, start, stop);
 
-                printf("Meilleure fitness obtenue après %d epochs: %f\n", epochs, bestFitness,milliseconds);
+                printf("Meilleure fitness obtenue après %d epochs: %f\n", epochs, bestFitness);
                 outFile << bestFitness << endl;
 
                 cudaEventDestroy(start);

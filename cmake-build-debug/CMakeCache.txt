@@ -31,7 +31,7 @@ CMAKE_COLOR_DIAGNOSTICS:BOOL=ON
 CMAKE_CUDA_ARCHITECTURES:STRING=52
 
 //CUDA compiler
-CMAKE_CUDA_COMPILER:STRING=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/nvcc.exe
+CMAKE_CUDA_COMPILER:FILEPATH=C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/nvcc.exe
 
 //Flags used by the CUDA compiler during all build types.
 CMAKE_CUDA_FLAGS:STRING=-D_WINDOWS -Xcompiler=" /GR /EHsc"
@@ -236,15 +236,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
-
-//Value Computed by CMake
-CalcMassive_BINARY_DIR:STATIC=C:/Users/awilhelm/CLionProjects/CalcMassive/cmake-build-debug
-
-//Value Computed by CMake
-CalcMassive_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-CalcMassive_SOURCE_DIR:STATIC=C:/Users/awilhelm/CLionProjects/CalcMassive
 
 //Value Computed by CMake
 FireflyCUDA_BINARY_DIR:STATIC=C:/Users/awilhelm/CLionProjects/CalcMassive/cmake-build-debug

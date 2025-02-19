@@ -8,7 +8,7 @@ static char __nv_inited_managed_rt = 0; static void **__nv_fatbinhandle_for_mana
 #endif
 
 #line 1
-#line 67 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
+#line 67 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
 #pragma warning(push)
 #pragma warning(disable: 4820)
 #line 708 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\sal.h"
@@ -525,7 +525,7 @@ return 0;
 }__pragma( pack ( pop )) 
 #line 309
 #pragma warning(pop)
-#line 68 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_types.h"
+#line 68 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_types.h"
 #if 0
 #line 68
 enum cudaRoundMode { 
@@ -540,7 +540,7 @@ cudaRoundMinInf
 #line 74
 }; 
 #endif
-#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 104
 struct char1 { 
@@ -549,7 +549,7 @@ signed char x;
 #line 107
 }; 
 #endif
-#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 109
 struct uchar1 { 
@@ -558,7 +558,7 @@ unsigned char x;
 #line 112
 }; 
 #endif
-#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 115
 struct __declspec(align(2)) char2 { 
@@ -567,7 +567,7 @@ signed char x, y;
 #line 118
 }; 
 #endif
-#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 120
 struct __declspec(align(2)) uchar2 { 
@@ -576,7 +576,7 @@ unsigned char x, y;
 #line 123
 }; 
 #endif
-#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 125
 struct char3 { 
@@ -585,7 +585,7 @@ signed char x, y, z;
 #line 128
 }; 
 #endif
-#line 130 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 130 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 130
 struct uchar3 { 
@@ -594,7 +594,7 @@ unsigned char x, y, z;
 #line 133
 }; 
 #endif
-#line 135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 135
 struct __declspec(align(4)) char4 { 
@@ -603,7 +603,7 @@ signed char x, y, z, w;
 #line 138
 }; 
 #endif
-#line 140 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 140 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 140
 struct __declspec(align(4)) uchar4 { 
@@ -612,7 +612,7 @@ unsigned char x, y, z, w;
 #line 143
 }; 
 #endif
-#line 145 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 145 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 145
 struct short1 { 
@@ -621,7 +621,7 @@ short x;
 #line 148
 }; 
 #endif
-#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 150
 struct ushort1 { 
@@ -630,7 +630,7 @@ unsigned short x;
 #line 153
 }; 
 #endif
-#line 155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 155
 struct __declspec(align(4)) short2 { 
@@ -639,7 +639,7 @@ short x, y;
 #line 158
 }; 
 #endif
-#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 160
 struct __declspec(align(4)) ushort2 { 
@@ -648,7 +648,7 @@ unsigned short x, y;
 #line 163
 }; 
 #endif
-#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 165
 struct short3 { 
@@ -657,7 +657,7 @@ short x, y, z;
 #line 168
 }; 
 #endif
-#line 170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 170
 struct ushort3 { 
@@ -666,17 +666,17 @@ unsigned short x, y, z;
 #line 173
 }; 
 #endif
-#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 175
 struct __declspec(align(8)) short4 { short x; short y; short z; short w; }; 
 #endif
-#line 176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 176
 struct __declspec(align(8)) ushort4 { unsigned short x; unsigned short y; unsigned short z; unsigned short w; }; 
 #endif
-#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 178
 struct int1 { 
@@ -685,7 +685,7 @@ int x;
 #line 181
 }; 
 #endif
-#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 183
 struct uint1 { 
@@ -694,17 +694,17 @@ unsigned x;
 #line 186
 }; 
 #endif
-#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 188
 struct __declspec(align(8)) int2 { int x; int y; }; 
 #endif
-#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 189
 struct __declspec(align(8)) uint2 { unsigned x; unsigned y; }; 
 #endif
-#line 191 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 191 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 191
 struct int3 { 
@@ -713,7 +713,7 @@ int x, y, z;
 #line 194
 }; 
 #endif
-#line 196 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 196 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 196
 struct uint3 { 
@@ -722,7 +722,7 @@ unsigned x, y, z;
 #line 199
 }; 
 #endif
-#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 201
 struct __declspec(align(16)) int4 { 
@@ -731,7 +731,7 @@ int x, y, z, w;
 #line 204
 }; 
 #endif
-#line 206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 206
 struct __declspec(align(16)) uint4 { 
@@ -740,7 +740,7 @@ unsigned x, y, z, w;
 #line 209
 }; 
 #endif
-#line 211 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 211 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 211
 struct long1 { 
@@ -749,7 +749,7 @@ long x;
 #line 214
 }; 
 #endif
-#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 216
 struct ulong1 { 
@@ -758,17 +758,17 @@ unsigned long x;
 #line 219
 }; 
 #endif
-#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 222
 struct __declspec(align(8)) long2 { long x; long y; }; 
 #endif
-#line 223 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 223 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 223
 struct __declspec(align(8)) ulong2 { unsigned long x; unsigned long y; }; 
 #endif
-#line 238 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 238 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 238
 struct long3 { 
@@ -777,7 +777,7 @@ long x, y, z;
 #line 241
 }; 
 #endif
-#line 243 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 243 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 243
 struct ulong3 { 
@@ -786,7 +786,7 @@ unsigned long x, y, z;
 #line 246
 }; 
 #endif
-#line 248 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 248 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 248
 struct __declspec(align(16)) long4 { 
@@ -795,7 +795,7 @@ long x, y, z, w;
 #line 251
 }; 
 #endif
-#line 253 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 253 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 253
 struct __declspec(align(16)) ulong4 { 
@@ -804,7 +804,7 @@ unsigned long x, y, z, w;
 #line 256
 }; 
 #endif
-#line 258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 258
 struct float1 { 
@@ -813,12 +813,12 @@ float x;
 #line 261
 }; 
 #endif
-#line 280 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 280 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 280
 struct __declspec(align(8)) float2 { float x; float y; }; 
 #endif
-#line 285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 285
 struct float3 { 
@@ -827,7 +827,7 @@ float x, y, z;
 #line 288
 }; 
 #endif
-#line 290 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 290 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 290
 struct __declspec(align(16)) float4 { 
@@ -836,7 +836,7 @@ float x, y, z, w;
 #line 293
 }; 
 #endif
-#line 295 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 295 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 295
 struct longlong1 { 
@@ -845,7 +845,7 @@ __int64 x;
 #line 298
 }; 
 #endif
-#line 300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 300
 struct ulonglong1 { 
@@ -854,7 +854,7 @@ unsigned __int64 x;
 #line 303
 }; 
 #endif
-#line 305 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 305 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 305
 struct __declspec(align(16)) longlong2 { 
@@ -863,7 +863,7 @@ __int64 x, y;
 #line 308
 }; 
 #endif
-#line 310 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 310 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 310
 struct __declspec(align(16)) ulonglong2 { 
@@ -872,7 +872,7 @@ unsigned __int64 x, y;
 #line 313
 }; 
 #endif
-#line 315 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 315 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 315
 struct longlong3 { 
@@ -881,7 +881,7 @@ __int64 x, y, z;
 #line 318
 }; 
 #endif
-#line 320 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 320 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 320
 struct ulonglong3 { 
@@ -890,7 +890,7 @@ unsigned __int64 x, y, z;
 #line 323
 }; 
 #endif
-#line 325 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 325 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 325
 struct __declspec(align(16)) longlong4 { 
@@ -899,7 +899,7 @@ __int64 x, y, z, w;
 #line 328
 }; 
 #endif
-#line 330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 330
 struct __declspec(align(16)) ulonglong4 { 
@@ -908,7 +908,7 @@ unsigned __int64 x, y, z, w;
 #line 333
 }; 
 #endif
-#line 335 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 335 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 335
 struct double1 { 
@@ -917,7 +917,7 @@ double x;
 #line 338
 }; 
 #endif
-#line 340 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 340 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 340
 struct __declspec(align(16)) double2 { 
@@ -926,7 +926,7 @@ double x, y;
 #line 343
 }; 
 #endif
-#line 345 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 345 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 345
 struct double3 { 
@@ -935,7 +935,7 @@ double x, y, z;
 #line 348
 }; 
 #endif
-#line 350 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 350 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 350
 struct __declspec(align(16)) double4 { 
@@ -944,304 +944,304 @@ double x, y, z, w;
 #line 353
 }; 
 #endif
-#line 367 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 367 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef char1 
 #line 367
 char1; 
 #endif
-#line 368 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 368 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uchar1 
 #line 368
 uchar1; 
 #endif
-#line 369 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 369 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef char2 
 #line 369
 char2; 
 #endif
-#line 370 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 370 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uchar2 
 #line 370
 uchar2; 
 #endif
-#line 371 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 371 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef char3 
 #line 371
 char3; 
 #endif
-#line 372 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 372 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uchar3 
 #line 372
 uchar3; 
 #endif
-#line 373 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 373 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef char4 
 #line 373
 char4; 
 #endif
-#line 374 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 374 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uchar4 
 #line 374
 uchar4; 
 #endif
-#line 375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef short1 
 #line 375
 short1; 
 #endif
-#line 376 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 376 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ushort1 
 #line 376
 ushort1; 
 #endif
-#line 377 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 377 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef short2 
 #line 377
 short2; 
 #endif
-#line 378 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 378 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ushort2 
 #line 378
 ushort2; 
 #endif
-#line 379 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 379 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef short3 
 #line 379
 short3; 
 #endif
-#line 380 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 380 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ushort3 
 #line 380
 ushort3; 
 #endif
-#line 381 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 381 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef short4 
 #line 381
 short4; 
 #endif
-#line 382 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 382 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ushort4 
 #line 382
 ushort4; 
 #endif
-#line 383 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 383 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef int1 
 #line 383
 int1; 
 #endif
-#line 384 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 384 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uint1 
 #line 384
 uint1; 
 #endif
-#line 385 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 385 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef int2 
 #line 385
 int2; 
 #endif
-#line 386 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 386 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uint2 
 #line 386
 uint2; 
 #endif
-#line 387 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 387 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef int3 
 #line 387
 int3; 
 #endif
-#line 388 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 388 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uint3 
 #line 388
 uint3; 
 #endif
-#line 389 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 389 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef int4 
 #line 389
 int4; 
 #endif
-#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef uint4 
 #line 390
 uint4; 
 #endif
-#line 391 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 391 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef long1 
 #line 391
 long1; 
 #endif
-#line 392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulong1 
 #line 392
 ulong1; 
 #endif
-#line 393 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 393 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef long2 
 #line 393
 long2; 
 #endif
-#line 394 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 394 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulong2 
 #line 394
 ulong2; 
 #endif
-#line 395 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 395 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef long3 
 #line 395
 long3; 
 #endif
-#line 396 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 396 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulong3 
 #line 396
 ulong3; 
 #endif
-#line 397 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 397 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef long4 
 #line 397
 long4; 
 #endif
-#line 398 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 398 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulong4 
 #line 398
 ulong4; 
 #endif
-#line 399 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 399 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef float1 
 #line 399
 float1; 
 #endif
-#line 400 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 400 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef float2 
 #line 400
 float2; 
 #endif
-#line 401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef float3 
 #line 401
 float3; 
 #endif
-#line 402 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 402 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef float4 
 #line 402
 float4; 
 #endif
-#line 403 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 403 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef longlong1 
 #line 403
 longlong1; 
 #endif
-#line 404 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 404 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulonglong1 
 #line 404
 ulonglong1; 
 #endif
-#line 405 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 405 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef longlong2 
 #line 405
 longlong2; 
 #endif
-#line 406 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 406 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulonglong2 
 #line 406
 ulonglong2; 
 #endif
-#line 407 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 407 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef longlong3 
 #line 407
 longlong3; 
 #endif
-#line 408 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 408 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulonglong3 
 #line 408
 ulonglong3; 
 #endif
-#line 409 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 409 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef longlong4 
 #line 409
 longlong4; 
 #endif
-#line 410 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 410 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef ulonglong4 
 #line 410
 ulonglong4; 
 #endif
-#line 411 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 411 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef double1 
 #line 411
 double1; 
 #endif
-#line 412 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 412 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef double2 
 #line 412
 double2; 
 #endif
-#line 413 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 413 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef double3 
 #line 413
 double3; 
 #endif
-#line 414 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 414 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef double4 
 #line 414
 double4; 
 #endif
-#line 426 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 426 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 #line 426
 struct dim3 { 
 #line 428
 unsigned x, y, z; 
-#line 440 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 440 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 }; 
 #endif
-#line 442 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_types.h"
+#line 442 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_types.h"
 #if 0
 typedef dim3 
 #line 442
@@ -1283,7 +1283,7 @@ extern uintptr_t __cdecl __threadhandle();
 }__pragma( pack ( pop )) 
 #line 63
 #pragma warning(pop)
-#line 205 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 205 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 #line 205
 enum cudaError { 
@@ -1431,2803 +1431,3043 @@ cudaErrorJitCompilationDisabled,
 cudaErrorUnsupportedExecAffinity, 
 #line 708
 cudaErrorUnsupportedDevSideSync, 
-#line 713
+#line 719
+cudaErrorContained, 
+#line 724
 cudaErrorInvalidSource = 300, 
-#line 718
+#line 729
 cudaErrorFileNotFound, 
-#line 723
+#line 734
 cudaErrorSharedObjectSymbolNotFound, 
-#line 728
+#line 739
 cudaErrorSharedObjectInitFailed, 
-#line 733
+#line 744
 cudaErrorOperatingSystem, 
-#line 740
+#line 751
 cudaErrorInvalidResourceHandle = 400, 
-#line 746
+#line 757
 cudaErrorIllegalState, 
-#line 754
+#line 765
 cudaErrorLossyQuery, 
-#line 761
+#line 772
 cudaErrorSymbolNotFound = 500, 
-#line 769
+#line 780
 cudaErrorNotReady = 600, 
-#line 777
+#line 788
 cudaErrorIllegalAddress = 700, 
-#line 786
-cudaErrorLaunchOutOfResources, 
 #line 797
+cudaErrorLaunchOutOfResources, 
+#line 808
 cudaErrorLaunchTimeout, 
-#line 803
+#line 814
 cudaErrorLaunchIncompatibleTexturing, 
-#line 810
+#line 821
 cudaErrorPeerAccessAlreadyEnabled, 
-#line 817
+#line 828
 cudaErrorPeerAccessNotEnabled, 
-#line 830
+#line 841
 cudaErrorSetOnActiveProcess = 708, 
-#line 837
+#line 848
 cudaErrorContextIsDestroyed, 
-#line 844
+#line 855
 cudaErrorAssert, 
-#line 851
+#line 862
 cudaErrorTooManyPeers, 
-#line 857
+#line 868
 cudaErrorHostMemoryAlreadyRegistered, 
-#line 863
+#line 874
 cudaErrorHostMemoryNotRegistered, 
-#line 872
+#line 883
 cudaErrorHardwareStackError, 
-#line 880
+#line 891
 cudaErrorIllegalInstruction, 
-#line 889
-cudaErrorMisalignedAddress, 
 #line 900
+cudaErrorMisalignedAddress, 
+#line 911
 cudaErrorInvalidAddressSpace, 
-#line 908
-cudaErrorInvalidPc, 
 #line 919
+cudaErrorInvalidPc, 
+#line 930
 cudaErrorLaunchFailure, 
-#line 928
-cudaErrorCooperativeLaunchTooLarge, 
-#line 933
-cudaErrorNotPermitted = 800, 
 #line 939
+cudaErrorCooperativeLaunchTooLarge, 
+#line 947
+cudaErrorTensorMemoryLeak, 
+#line 952
+cudaErrorNotPermitted = 800, 
+#line 958
 cudaErrorNotSupported, 
-#line 948
+#line 967
 cudaErrorSystemNotReady, 
-#line 955
-cudaErrorSystemDriverMismatch, 
-#line 964
-cudaErrorCompatNotSupportedOnDevice, 
-#line 969
-cudaErrorMpsConnectionFailed, 
 #line 974
+cudaErrorSystemDriverMismatch, 
+#line 983
+cudaErrorCompatNotSupportedOnDevice, 
+#line 988
+cudaErrorMpsConnectionFailed, 
+#line 993
 cudaErrorMpsRpcFailure, 
-#line 980
+#line 999
 cudaErrorMpsServerNotReady, 
-#line 985
+#line 1004
 cudaErrorMpsMaxClientsReached, 
-#line 990
+#line 1009
 cudaErrorMpsMaxConnectionsReached, 
-#line 995
+#line 1014
 cudaErrorMpsClientTerminated, 
-#line 1000
+#line 1019
 cudaErrorCdpNotSupported, 
-#line 1005
+#line 1024
 cudaErrorCdpVersionMismatch, 
-#line 1010
+#line 1029
 cudaErrorStreamCaptureUnsupported = 900, 
-#line 1016
+#line 1035
 cudaErrorStreamCaptureInvalidated, 
-#line 1022
+#line 1041
 cudaErrorStreamCaptureMerge, 
-#line 1027
-cudaErrorStreamCaptureUnmatched, 
-#line 1033
-cudaErrorStreamCaptureUnjoined, 
-#line 1040
-cudaErrorStreamCaptureIsolation, 
 #line 1046
-cudaErrorStreamCaptureImplicit, 
+cudaErrorStreamCaptureUnmatched, 
 #line 1052
-cudaErrorCapturedEvent, 
+cudaErrorStreamCaptureUnjoined, 
 #line 1059
+cudaErrorStreamCaptureIsolation, 
+#line 1065
+cudaErrorStreamCaptureImplicit, 
+#line 1071
+cudaErrorCapturedEvent, 
+#line 1078
 cudaErrorStreamCaptureWrongThread, 
-#line 1064
+#line 1083
 cudaErrorTimeout, 
-#line 1070
+#line 1089
 cudaErrorGraphExecUpdateFailure, 
-#line 1080
+#line 1099
 cudaErrorExternalDevice, 
-#line 1086
+#line 1105
 cudaErrorInvalidClusterSize, 
-#line 1092
+#line 1111
 cudaErrorFunctionNotLoaded, 
-#line 1098
-cudaErrorInvalidResourceType, 
-#line 1104
-cudaErrorInvalidResourceConfiguration, 
-#line 1109
-cudaErrorUnknown = 999, 
 #line 1117
-cudaErrorApiFailureBase = 10000
-#line 1118
-}; 
-#endif
-#line 1123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaErrorInvalidResourceType, 
 #line 1123
-enum cudaChannelFormatKind { 
-#line 1125
-cudaChannelFormatKindSigned, 
-#line 1126
-cudaChannelFormatKindUnsigned, 
-#line 1127
-cudaChannelFormatKindFloat, 
+cudaErrorInvalidResourceConfiguration, 
 #line 1128
-cudaChannelFormatKindNone, 
-#line 1129
-cudaChannelFormatKindNV12, 
-#line 1130
-cudaChannelFormatKindUnsignedNormalized8X1, 
-#line 1131
-cudaChannelFormatKindUnsignedNormalized8X2, 
-#line 1132
-cudaChannelFormatKindUnsignedNormalized8X4, 
-#line 1133
-cudaChannelFormatKindUnsignedNormalized16X1, 
-#line 1134
-cudaChannelFormatKindUnsignedNormalized16X2, 
-#line 1135
-cudaChannelFormatKindUnsignedNormalized16X4, 
+cudaErrorUnknown = 999, 
 #line 1136
-cudaChannelFormatKindSignedNormalized8X1, 
+cudaErrorApiFailureBase = 10000
 #line 1137
-cudaChannelFormatKindSignedNormalized8X2, 
-#line 1138
-cudaChannelFormatKindSignedNormalized8X4, 
-#line 1139
-cudaChannelFormatKindSignedNormalized16X1, 
-#line 1140
-cudaChannelFormatKindSignedNormalized16X2, 
-#line 1141
-cudaChannelFormatKindSignedNormalized16X4, 
+}; 
+#endif
+#line 1142 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1142
-cudaChannelFormatKindUnsignedBlockCompressed1, 
-#line 1143
-cudaChannelFormatKindUnsignedBlockCompressed1SRGB, 
+enum cudaChannelFormatKind { 
 #line 1144
-cudaChannelFormatKindUnsignedBlockCompressed2, 
+cudaChannelFormatKindSigned, 
 #line 1145
-cudaChannelFormatKindUnsignedBlockCompressed2SRGB, 
+cudaChannelFormatKindUnsigned, 
 #line 1146
-cudaChannelFormatKindUnsignedBlockCompressed3, 
+cudaChannelFormatKindFloat, 
 #line 1147
-cudaChannelFormatKindUnsignedBlockCompressed3SRGB, 
+cudaChannelFormatKindNone, 
 #line 1148
-cudaChannelFormatKindUnsignedBlockCompressed4, 
+cudaChannelFormatKindNV12, 
 #line 1149
-cudaChannelFormatKindSignedBlockCompressed4, 
+cudaChannelFormatKindUnsignedNormalized8X1, 
 #line 1150
-cudaChannelFormatKindUnsignedBlockCompressed5, 
+cudaChannelFormatKindUnsignedNormalized8X2, 
 #line 1151
-cudaChannelFormatKindSignedBlockCompressed5, 
+cudaChannelFormatKindUnsignedNormalized8X4, 
 #line 1152
-cudaChannelFormatKindUnsignedBlockCompressed6H, 
+cudaChannelFormatKindUnsignedNormalized16X1, 
 #line 1153
-cudaChannelFormatKindSignedBlockCompressed6H, 
+cudaChannelFormatKindUnsignedNormalized16X2, 
 #line 1154
-cudaChannelFormatKindUnsignedBlockCompressed7, 
+cudaChannelFormatKindUnsignedNormalized16X4, 
 #line 1155
-cudaChannelFormatKindUnsignedBlockCompressed7SRGB
+cudaChannelFormatKindSignedNormalized8X1, 
 #line 1156
-}; 
-#endif
-#line 1161 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaChannelFormatKindSignedNormalized8X2, 
+#line 1157
+cudaChannelFormatKindSignedNormalized8X4, 
+#line 1158
+cudaChannelFormatKindSignedNormalized16X1, 
+#line 1159
+cudaChannelFormatKindSignedNormalized16X2, 
+#line 1160
+cudaChannelFormatKindSignedNormalized16X4, 
 #line 1161
-struct cudaChannelFormatDesc { 
+cudaChannelFormatKindUnsignedBlockCompressed1, 
+#line 1162
+cudaChannelFormatKindUnsignedBlockCompressed1SRGB, 
 #line 1163
-int x; 
+cudaChannelFormatKindUnsignedBlockCompressed2, 
 #line 1164
-int y; 
+cudaChannelFormatKindUnsignedBlockCompressed2SRGB, 
 #line 1165
-int z; 
+cudaChannelFormatKindUnsignedBlockCompressed3, 
 #line 1166
-int w; 
+cudaChannelFormatKindUnsignedBlockCompressed3SRGB, 
 #line 1167
-cudaChannelFormatKind f; 
+cudaChannelFormatKindUnsignedBlockCompressed4, 
 #line 1168
+cudaChannelFormatKindSignedBlockCompressed4, 
+#line 1169
+cudaChannelFormatKindUnsignedBlockCompressed5, 
+#line 1170
+cudaChannelFormatKindSignedBlockCompressed5, 
+#line 1171
+cudaChannelFormatKindUnsignedBlockCompressed6H, 
+#line 1172
+cudaChannelFormatKindSignedBlockCompressed6H, 
+#line 1173
+cudaChannelFormatKindUnsignedBlockCompressed7, 
+#line 1174
+cudaChannelFormatKindUnsignedBlockCompressed7SRGB, 
+#line 1175
+cudaChannelFormatKindUnsignedNormalized1010102
+#line 1177
 }; 
 #endif
-#line 1173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-typedef struct cudaArray *cudaArray_t; 
-#line 1178
-typedef const cudaArray *cudaArray_const_t; 
-#line 1180
-struct cudaArray; 
+#line 1182 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 1182
+struct cudaChannelFormatDesc { 
+#line 1184
+int x; 
 #line 1185
-typedef struct cudaMipmappedArray *cudaMipmappedArray_t; 
-#line 1190
-typedef const cudaMipmappedArray *cudaMipmappedArray_const_t; 
-#line 1192
-struct cudaMipmappedArray; 
-#line 1202
-#if 0
-#line 1202
-struct cudaArraySparseProperties { 
-#line 1203
-struct { 
-#line 1204
-unsigned width; 
-#line 1205
-unsigned height; 
+int y; 
+#line 1186
+int z; 
+#line 1187
+int w; 
+#line 1188
+cudaChannelFormatKind f; 
+#line 1189
+}; 
+#endif
+#line 1194 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+typedef struct cudaArray *cudaArray_t; 
+#line 1199
+typedef const cudaArray *cudaArray_const_t; 
+#line 1201
+struct cudaArray; 
 #line 1206
-unsigned depth; 
-#line 1207
-} tileExtent; 
-#line 1208
-unsigned miptailFirstLevel; 
-#line 1209
-unsigned __int64 miptailSize; 
-#line 1210
-unsigned flags; 
+typedef struct cudaMipmappedArray *cudaMipmappedArray_t; 
 #line 1211
-unsigned reserved[4]; 
-#line 1212
-}; 
-#endif
-#line 1217 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+typedef const cudaMipmappedArray *cudaMipmappedArray_const_t; 
+#line 1213
+struct cudaMipmappedArray; 
+#line 1223
 #if 0
-#line 1217
-struct cudaArrayMemoryRequirements { 
-#line 1218
-size_t size; 
-#line 1219
-size_t alignment; 
-#line 1220
-unsigned reserved[4]; 
-#line 1221
-}; 
-#endif
-#line 1226 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+#line 1223
+struct cudaArraySparseProperties { 
+#line 1224
+struct { 
+#line 1225
+unsigned width; 
 #line 1226
-enum cudaMemoryType { 
+unsigned height; 
+#line 1227
+unsigned depth; 
 #line 1228
-cudaMemoryTypeUnregistered, 
+} tileExtent; 
 #line 1229
-cudaMemoryTypeHost, 
+unsigned miptailFirstLevel; 
 #line 1230
-cudaMemoryTypeDevice, 
+unsigned __int64 miptailSize; 
 #line 1231
-cudaMemoryTypeManaged
+unsigned flags; 
 #line 1232
+unsigned reserved[4]; 
+#line 1233
 }; 
 #endif
-#line 1237 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1238 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1237
-enum cudaMemcpyKind { 
+#line 1238
+struct cudaArrayMemoryRequirements { 
 #line 1239
-cudaMemcpyHostToHost, 
+size_t size; 
 #line 1240
-cudaMemcpyHostToDevice, 
+size_t alignment; 
 #line 1241
-cudaMemcpyDeviceToHost, 
+unsigned reserved[4]; 
 #line 1242
-cudaMemcpyDeviceToDevice, 
-#line 1243
-cudaMemcpyDefault
-#line 1244
 }; 
 #endif
-#line 1251 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1247
+enum cudaMemoryType { 
+#line 1249
+cudaMemoryTypeUnregistered, 
+#line 1250
+cudaMemoryTypeHost, 
 #line 1251
-struct cudaPitchedPtr { 
+cudaMemoryTypeDevice, 
+#line 1252
+cudaMemoryTypeManaged
 #line 1253
-void *ptr; 
-#line 1254
-size_t pitch; 
-#line 1255
-size_t xsize; 
-#line 1256
-size_t ysize; 
-#line 1257
 }; 
 #endif
-#line 1264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1258
+enum cudaMemcpyKind { 
+#line 1260
+cudaMemcpyHostToHost, 
+#line 1261
+cudaMemcpyHostToDevice, 
+#line 1262
+cudaMemcpyDeviceToHost, 
+#line 1263
+cudaMemcpyDeviceToDevice, 
 #line 1264
-struct cudaExtent { 
-#line 1266
-size_t width; 
-#line 1267
-size_t height; 
-#line 1268
-size_t depth; 
-#line 1269
+cudaMemcpyDefault
+#line 1265
 }; 
 #endif
-#line 1276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1272 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1272
+struct cudaPitchedPtr { 
+#line 1274
+void *ptr; 
+#line 1275
+size_t pitch; 
 #line 1276
-struct cudaPos { 
+size_t xsize; 
+#line 1277
+size_t ysize; 
 #line 1278
-size_t x; 
-#line 1279
-size_t y; 
-#line 1280
-size_t z; 
-#line 1281
 }; 
 #endif
-#line 1286 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1286
-struct cudaMemcpy3DParms { 
+#line 1285
+struct cudaExtent { 
+#line 1287
+size_t width; 
 #line 1288
-cudaArray_t srcArray; 
+size_t height; 
 #line 1289
-cudaPos srcPos; 
+size_t depth; 
 #line 1290
-cudaPitchedPtr srcPtr; 
-#line 1292
-cudaArray_t dstArray; 
-#line 1293
-cudaPos dstPos; 
-#line 1294
-cudaPitchedPtr dstPtr; 
-#line 1296
-cudaExtent extent; 
+}; 
+#endif
+#line 1297 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1297
-cudaMemcpyKind kind; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
-#line 1298
+struct cudaPos { 
+#line 1299
+size_t x; 
+#line 1300
+size_t y; 
+#line 1301
+size_t z; 
+#line 1302
 }; 
 #endif
-#line 1303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1307 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1303
-struct cudaMemcpyNodeParams { 
-#line 1304
-int flags; 
-#line 1305
-int reserved[3]; 
-#line 1306
-cudaMemcpy3DParms copyParams; 
 #line 1307
-}; 
-#endif
-#line 1312 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 1312
-struct cudaMemcpy3DPeerParms { 
-#line 1314
+struct cudaMemcpy3DParms { 
+#line 1309
 cudaArray_t srcArray; 
-#line 1315
+#line 1310
 cudaPos srcPos; 
-#line 1316
+#line 1311
 cudaPitchedPtr srcPtr; 
-#line 1317
-int srcDevice; 
-#line 1319
+#line 1313
 cudaArray_t dstArray; 
-#line 1320
+#line 1314
 cudaPos dstPos; 
-#line 1321
+#line 1315
 cudaPitchedPtr dstPtr; 
-#line 1322
-int dstDevice; 
-#line 1324
+#line 1317
 cudaExtent extent; 
+#line 1318
+cudaMemcpyKind kind; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 1319
+}; 
+#endif
+#line 1324 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 1324
+struct cudaMemcpyNodeParams { 
 #line 1325
+int flags; 
+#line 1326
+int reserved[3]; 
+#line 1327
+cudaMemcpy3DParms copyParams; 
+#line 1328
 }; 
 #endif
-#line 1330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1333 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1330
-struct cudaMemsetParams { 
-#line 1331
-void *dst; 
-#line 1332
-size_t pitch; 
 #line 1333
-unsigned value; 
-#line 1334
-unsigned elementSize; 
+struct cudaMemcpy3DPeerParms { 
 #line 1335
-size_t width; 
+cudaArray_t srcArray; 
 #line 1336
-size_t height; 
+cudaPos srcPos; 
 #line 1337
-}; 
-#endif
-#line 1342 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaPitchedPtr srcPtr; 
+#line 1338
+int srcDevice; 
+#line 1340
+cudaArray_t dstArray; 
+#line 1341
+cudaPos dstPos; 
 #line 1342
-struct cudaMemsetParamsV2 { 
+cudaPitchedPtr dstPtr; 
 #line 1343
-void *dst; 
-#line 1344
-size_t pitch; 
+int dstDevice; 
 #line 1345
-unsigned value; 
+cudaExtent extent; 
 #line 1346
-unsigned elementSize; 
-#line 1347
-size_t width; 
-#line 1348
-size_t height; 
-#line 1349
 }; 
 #endif
-#line 1354 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1351 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1351
+struct cudaMemsetParams { 
+#line 1352
+void *dst; 
+#line 1353
+size_t pitch; 
 #line 1354
-enum cudaAccessProperty { 
+unsigned value; 
 #line 1355
-cudaAccessPropertyNormal, 
+unsigned elementSize; 
 #line 1356
-cudaAccessPropertyStreaming, 
+size_t width; 
 #line 1357
-cudaAccessPropertyPersisting
+size_t height; 
 #line 1358
 }; 
 #endif
-#line 1371 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1363 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1371
-struct cudaAccessPolicyWindow { 
-#line 1372
-void *base_ptr; 
-#line 1373
-size_t num_bytes; 
-#line 1374
-float hitRatio; 
+#line 1363
+struct cudaMemsetParamsV2 { 
+#line 1364
+void *dst; 
+#line 1365
+size_t pitch; 
+#line 1366
+unsigned value; 
+#line 1367
+unsigned elementSize; 
+#line 1368
+size_t width; 
+#line 1369
+size_t height; 
+#line 1370
+}; 
+#endif
+#line 1375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1375
-cudaAccessProperty hitProp; 
+enum cudaAccessProperty { 
 #line 1376
-cudaAccessProperty missProp; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+cudaAccessPropertyNormal, 
 #line 1377
+cudaAccessPropertyStreaming, 
+#line 1378
+cudaAccessPropertyPersisting
+#line 1379
 }; 
 #endif
-#line 1389 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-typedef void (__stdcall *cudaHostFn_t)(void * userData); 
-#line 1394
+#line 1392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1392
+struct cudaAccessPolicyWindow { 
+#line 1393
+void *base_ptr; 
 #line 1394
-struct cudaHostNodeParams { 
+size_t num_bytes; 
 #line 1395
-cudaHostFn_t fn; 
+float hitRatio; 
 #line 1396
-void *userData; 
+cudaAccessProperty hitProp; 
 #line 1397
+cudaAccessProperty missProp; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 1398
 }; 
 #endif
-#line 1402 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 1402
-struct cudaHostNodeParamsV2 { 
-#line 1403
-cudaHostFn_t fn; 
-#line 1404
-void *userData; 
-#line 1405
-}; 
-#endif
-#line 1410 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 1410
-enum cudaStreamCaptureStatus { 
-#line 1411
-cudaStreamCaptureStatusNone, 
-#line 1412
-cudaStreamCaptureStatusActive, 
-#line 1413
-cudaStreamCaptureStatusInvalidated
+#line 1410 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+typedef void (__stdcall *cudaHostFn_t)(void * userData); 
 #line 1415
+#if 0
+#line 1415
+struct cudaHostNodeParams { 
+#line 1416
+cudaHostFn_t fn; 
+#line 1417
+void *userData; 
+#line 1418
 }; 
 #endif
-#line 1421 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1423 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1421
-enum cudaStreamCaptureMode { 
-#line 1422
-cudaStreamCaptureModeGlobal, 
 #line 1423
-cudaStreamCaptureModeThreadLocal, 
+struct cudaHostNodeParamsV2 { 
 #line 1424
-cudaStreamCaptureModeRelaxed
+cudaHostFn_t fn; 
 #line 1425
+void *userData; 
+#line 1426
 }; 
 #endif
-#line 1427 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1431 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1427
-enum cudaSynchronizationPolicy { 
-#line 1428
-cudaSyncPolicyAuto = 1, 
-#line 1429
-cudaSyncPolicySpin, 
-#line 1430
-cudaSyncPolicyYield, 
 #line 1431
-cudaSyncPolicyBlockingSync
+enum cudaStreamCaptureStatus { 
 #line 1432
+cudaStreamCaptureStatusNone, 
+#line 1433
+cudaStreamCaptureStatusActive, 
+#line 1434
+cudaStreamCaptureStatusInvalidated
+#line 1436
 }; 
 #endif
-#line 1437 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1442 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1437
-enum cudaClusterSchedulingPolicy { 
-#line 1438
-cudaClusterSchedulingPolicyDefault, 
-#line 1439
-cudaClusterSchedulingPolicySpread, 
-#line 1440
-cudaClusterSchedulingPolicyLoadBalancing
-#line 1441
-}; 
-#endif
-#line 1446 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+#line 1442
+enum cudaStreamCaptureMode { 
+#line 1443
+cudaStreamCaptureModeGlobal, 
+#line 1444
+cudaStreamCaptureModeThreadLocal, 
+#line 1445
+cudaStreamCaptureModeRelaxed
 #line 1446
-enum cudaStreamUpdateCaptureDependenciesFlags { 
-#line 1447
-cudaStreamAddCaptureDependencies, 
+}; 
+#endif
+#line 1448 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1448
-cudaStreamSetCaptureDependencies
+enum cudaSynchronizationPolicy { 
 #line 1449
+cudaSyncPolicyAuto = 1, 
+#line 1450
+cudaSyncPolicySpin, 
+#line 1451
+cudaSyncPolicyYield, 
+#line 1452
+cudaSyncPolicyBlockingSync
+#line 1453
 }; 
 #endif
-#line 1454 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1458 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1454
-enum cudaUserObjectFlags { 
-#line 1455
-cudaUserObjectNoDestructorSync = 1
-#line 1456
-}; 
-#endif
-#line 1461 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+#line 1458
+enum cudaClusterSchedulingPolicy { 
+#line 1459
+cudaClusterSchedulingPolicyDefault, 
+#line 1460
+cudaClusterSchedulingPolicySpread, 
 #line 1461
-enum cudaUserObjectRetainFlags { 
+cudaClusterSchedulingPolicyLoadBalancing
 #line 1462
-cudaGraphUserObjectMove = 1
-#line 1463
 }; 
 #endif
-#line 1468 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-struct cudaGraphicsResource; 
-#line 1473
+#line 1467 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1473
-enum cudaGraphicsRegisterFlags { 
+#line 1467
+enum cudaStreamUpdateCaptureDependenciesFlags { 
+#line 1468
+cudaStreamAddCaptureDependencies, 
+#line 1469
+cudaStreamSetCaptureDependencies
+#line 1470
+}; 
+#endif
+#line 1475 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1475
-cudaGraphicsRegisterFlagsNone, 
+enum cudaUserObjectFlags { 
 #line 1476
-cudaGraphicsRegisterFlagsReadOnly, 
+cudaUserObjectNoDestructorSync = 1
 #line 1477
-cudaGraphicsRegisterFlagsWriteDiscard, 
-#line 1478
-cudaGraphicsRegisterFlagsSurfaceLoadStore = 4, 
-#line 1479
-cudaGraphicsRegisterFlagsTextureGather = 8
-#line 1480
 }; 
 #endif
-#line 1485 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1482 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1485
-enum cudaGraphicsMapFlags { 
-#line 1487
-cudaGraphicsMapFlagsNone, 
-#line 1488
-cudaGraphicsMapFlagsReadOnly, 
-#line 1489
-cudaGraphicsMapFlagsWriteDiscard
-#line 1490
+#line 1482
+enum cudaUserObjectRetainFlags { 
+#line 1483
+cudaGraphUserObjectMove = 1
+#line 1484
 }; 
 #endif
-#line 1495 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1489 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+struct cudaGraphicsResource; 
+#line 1494
 #if 0
-#line 1495
-enum cudaGraphicsCubeFace { 
+#line 1494
+enum cudaGraphicsRegisterFlags { 
+#line 1496
+cudaGraphicsRegisterFlagsNone, 
 #line 1497
-cudaGraphicsCubeFacePositiveX, 
+cudaGraphicsRegisterFlagsReadOnly, 
 #line 1498
-cudaGraphicsCubeFaceNegativeX, 
+cudaGraphicsRegisterFlagsWriteDiscard, 
 #line 1499
-cudaGraphicsCubeFacePositiveY, 
+cudaGraphicsRegisterFlagsSurfaceLoadStore = 4, 
 #line 1500
-cudaGraphicsCubeFaceNegativeY, 
+cudaGraphicsRegisterFlagsTextureGather = 8
 #line 1501
-cudaGraphicsCubeFacePositiveZ, 
-#line 1502
-cudaGraphicsCubeFaceNegativeZ
-#line 1503
 }; 
 #endif
-#line 1508 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1506 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1506
+enum cudaGraphicsMapFlags { 
 #line 1508
-enum cudaResourceType { 
+cudaGraphicsMapFlagsNone, 
+#line 1509
+cudaGraphicsMapFlagsReadOnly, 
 #line 1510
-cudaResourceTypeArray, 
+cudaGraphicsMapFlagsWriteDiscard
 #line 1511
-cudaResourceTypeMipmappedArray, 
-#line 1512
-cudaResourceTypeLinear, 
-#line 1513
-cudaResourceTypePitch2D
-#line 1514
 }; 
 #endif
-#line 1519 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1516 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1516
+enum cudaGraphicsCubeFace { 
+#line 1518
+cudaGraphicsCubeFacePositiveX, 
 #line 1519
-enum cudaResourceViewFormat { 
+cudaGraphicsCubeFaceNegativeX, 
+#line 1520
+cudaGraphicsCubeFacePositiveY, 
 #line 1521
-cudaResViewFormatNone, 
+cudaGraphicsCubeFaceNegativeY, 
 #line 1522
-cudaResViewFormatUnsignedChar1, 
+cudaGraphicsCubeFacePositiveZ, 
 #line 1523
-cudaResViewFormatUnsignedChar2, 
+cudaGraphicsCubeFaceNegativeZ
 #line 1524
-cudaResViewFormatUnsignedChar4, 
-#line 1525
-cudaResViewFormatSignedChar1, 
-#line 1526
-cudaResViewFormatSignedChar2, 
-#line 1527
-cudaResViewFormatSignedChar4, 
-#line 1528
-cudaResViewFormatUnsignedShort1, 
+}; 
+#endif
+#line 1529 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1529
-cudaResViewFormatUnsignedShort2, 
-#line 1530
-cudaResViewFormatUnsignedShort4, 
+enum cudaResourceType { 
 #line 1531
-cudaResViewFormatSignedShort1, 
+cudaResourceTypeArray, 
 #line 1532
-cudaResViewFormatSignedShort2, 
+cudaResourceTypeMipmappedArray, 
 #line 1533
-cudaResViewFormatSignedShort4, 
+cudaResourceTypeLinear, 
 #line 1534
-cudaResViewFormatUnsignedInt1, 
+cudaResourceTypePitch2D
 #line 1535
-cudaResViewFormatUnsignedInt2, 
-#line 1536
-cudaResViewFormatUnsignedInt4, 
-#line 1537
-cudaResViewFormatSignedInt1, 
-#line 1538
-cudaResViewFormatSignedInt2, 
-#line 1539
-cudaResViewFormatSignedInt4, 
+}; 
+#endif
+#line 1540 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1540
-cudaResViewFormatHalf1, 
-#line 1541
-cudaResViewFormatHalf2, 
+enum cudaResourceViewFormat { 
 #line 1542
-cudaResViewFormatHalf4, 
+cudaResViewFormatNone, 
 #line 1543
-cudaResViewFormatFloat1, 
+cudaResViewFormatUnsignedChar1, 
 #line 1544
-cudaResViewFormatFloat2, 
+cudaResViewFormatUnsignedChar2, 
 #line 1545
-cudaResViewFormatFloat4, 
+cudaResViewFormatUnsignedChar4, 
 #line 1546
-cudaResViewFormatUnsignedBlockCompressed1, 
+cudaResViewFormatSignedChar1, 
 #line 1547
-cudaResViewFormatUnsignedBlockCompressed2, 
+cudaResViewFormatSignedChar2, 
 #line 1548
-cudaResViewFormatUnsignedBlockCompressed3, 
+cudaResViewFormatSignedChar4, 
 #line 1549
-cudaResViewFormatUnsignedBlockCompressed4, 
+cudaResViewFormatUnsignedShort1, 
 #line 1550
-cudaResViewFormatSignedBlockCompressed4, 
+cudaResViewFormatUnsignedShort2, 
 #line 1551
-cudaResViewFormatUnsignedBlockCompressed5, 
+cudaResViewFormatUnsignedShort4, 
 #line 1552
-cudaResViewFormatSignedBlockCompressed5, 
+cudaResViewFormatSignedShort1, 
 #line 1553
-cudaResViewFormatUnsignedBlockCompressed6H, 
+cudaResViewFormatSignedShort2, 
 #line 1554
-cudaResViewFormatSignedBlockCompressed6H, 
+cudaResViewFormatSignedShort4, 
 #line 1555
-cudaResViewFormatUnsignedBlockCompressed7
+cudaResViewFormatUnsignedInt1, 
 #line 1556
-}; 
-#endif
-#line 1561 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaResViewFormatUnsignedInt2, 
+#line 1557
+cudaResViewFormatUnsignedInt4, 
+#line 1558
+cudaResViewFormatSignedInt1, 
+#line 1559
+cudaResViewFormatSignedInt2, 
+#line 1560
+cudaResViewFormatSignedInt4, 
 #line 1561
-struct cudaResourceDesc { 
+cudaResViewFormatHalf1, 
 #line 1562
-cudaResourceType resType; 
+cudaResViewFormatHalf2, 
+#line 1563
+cudaResViewFormatHalf4, 
 #line 1564
-union { 
+cudaResViewFormatFloat1, 
 #line 1565
-struct { 
+cudaResViewFormatFloat2, 
 #line 1566
-cudaArray_t array; 
+cudaResViewFormatFloat4, 
 #line 1567
-} array; 
+cudaResViewFormatUnsignedBlockCompressed1, 
 #line 1568
-struct { 
+cudaResViewFormatUnsignedBlockCompressed2, 
 #line 1569
-cudaMipmappedArray_t mipmap; 
+cudaResViewFormatUnsignedBlockCompressed3, 
 #line 1570
-} mipmap; 
+cudaResViewFormatUnsignedBlockCompressed4, 
 #line 1571
-struct { 
+cudaResViewFormatSignedBlockCompressed4, 
 #line 1572
-void *devPtr; 
+cudaResViewFormatUnsignedBlockCompressed5, 
 #line 1573
-cudaChannelFormatDesc desc; 
+cudaResViewFormatSignedBlockCompressed5, 
 #line 1574
-size_t sizeInBytes; 
+cudaResViewFormatUnsignedBlockCompressed6H, 
 #line 1575
-} linear; 
+cudaResViewFormatSignedBlockCompressed6H, 
 #line 1576
-struct { 
+cudaResViewFormatUnsignedBlockCompressed7
 #line 1577
-void *devPtr; 
-#line 1578
-cudaChannelFormatDesc desc; 
-#line 1579
-size_t width; 
-#line 1580
-size_t height; 
-#line 1581
-size_t pitchInBytes; 
+}; 
+#endif
+#line 1582 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1582
-} pitch2D; 
+struct cudaResourceDesc { 
 #line 1583
-} res; 
-#line 1584
-}; 
-#endif
-#line 1589 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaResourceType resType; 
+#line 1585
+union { 
+#line 1586
+struct { 
+#line 1587
+cudaArray_t array; 
+#line 1588
+} array; 
 #line 1589
-struct cudaResourceViewDesc { 
+struct { 
+#line 1590
+cudaMipmappedArray_t mipmap; 
 #line 1591
-cudaResourceViewFormat format; 
+} mipmap; 
 #line 1592
-size_t width; 
+struct { 
 #line 1593
-size_t height; 
+void *devPtr; 
 #line 1594
-size_t depth; 
+cudaChannelFormatDesc desc; 
 #line 1595
-unsigned firstMipmapLevel; 
+size_t sizeInBytes; 
 #line 1596
-unsigned lastMipmapLevel; 
+} linear; 
 #line 1597
-unsigned firstLayer; 
+struct { 
 #line 1598
-unsigned lastLayer; 
+void *devPtr; 
 #line 1599
-}; 
-#endif
-#line 1604 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaChannelFormatDesc desc; 
+#line 1600
+size_t width; 
+#line 1601
+size_t height; 
+#line 1602
+size_t pitchInBytes; 
+#line 1603
+} pitch2D; 
 #line 1604
-struct cudaPointerAttributes { 
+} res; 
+#line 1605
+}; 
+#endif
+#line 1610 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1610
+struct cudaResourceViewDesc { 
+#line 1612
+cudaResourceViewFormat format; 
+#line 1613
+size_t width; 
+#line 1614
+size_t height; 
+#line 1615
+size_t depth; 
+#line 1616
+unsigned firstMipmapLevel; 
+#line 1617
+unsigned lastMipmapLevel; 
+#line 1618
+unsigned firstLayer; 
+#line 1619
+unsigned lastLayer; 
+#line 1620
+}; 
+#endif
+#line 1625 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 1625
+struct cudaPointerAttributes { 
+#line 1631
 cudaMemoryType type; 
-#line 1621
-int device; 
-#line 1627
-void *devicePointer; 
-#line 1636
-void *hostPointer; 
-#line 1637
-}; 
-#endif
-#line 1642 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
 #line 1642
+int device; 
+#line 1648
+void *devicePointer; 
+#line 1657
+void *hostPointer; 
+#line 1658
+}; 
+#endif
+#line 1663 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 1663
 struct cudaFuncAttributes { 
-#line 1649
+#line 1670
 size_t sharedSizeBytes; 
-#line 1655
+#line 1676
 size_t constSizeBytes; 
-#line 1660
+#line 1681
 size_t localSizeBytes; 
-#line 1667
+#line 1688
 int maxThreadsPerBlock; 
-#line 1672
+#line 1693
 int numRegs; 
-#line 1679
+#line 1700
 int ptxVersion; 
-#line 1686
+#line 1707
 int binaryVersion; 
-#line 1692
+#line 1713
 int cacheModeCA; 
-#line 1699
+#line 1720
 int maxDynamicSharedSizeBytes; 
-#line 1708
+#line 1729
 int preferredShmemCarveout; 
-#line 1714
+#line 1735
 int clusterDimMustBeSet; 
-#line 1725
+#line 1746
 int requiredClusterWidth; 
-#line 1726
+#line 1747
 int requiredClusterHeight; 
-#line 1727
+#line 1748
 int requiredClusterDepth; 
-#line 1733
+#line 1754
 int clusterSchedulingPolicyPreference; 
-#line 1755
-int nonPortableClusterSizeAllowed; 
-#line 1760
-int reserved[16]; 
-#line 1761
-}; 
-#endif
-#line 1766 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 1766
-enum cudaFuncAttribute { 
-#line 1768
-cudaFuncAttributeMaxDynamicSharedMemorySize = 8, 
-#line 1769
-cudaFuncAttributePreferredSharedMemoryCarveout, 
-#line 1770
-cudaFuncAttributeClusterDimMustBeSet, 
-#line 1771
-cudaFuncAttributeRequiredClusterWidth, 
-#line 1772
-cudaFuncAttributeRequiredClusterHeight, 
-#line 1773
-cudaFuncAttributeRequiredClusterDepth, 
-#line 1774
-cudaFuncAttributeNonPortableClusterSizeAllowed, 
-#line 1775
-cudaFuncAttributeClusterSchedulingPolicyPreference, 
 #line 1776
-cudaFuncAttributeMax
-#line 1777
-}; 
-#endif
-#line 1782 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+int nonPortableClusterSizeAllowed; 
+#line 1781
+int reserved[16]; 
 #line 1782
-enum cudaFuncCache { 
-#line 1784
-cudaFuncCachePreferNone, 
-#line 1785
-cudaFuncCachePreferShared, 
-#line 1786
-cudaFuncCachePreferL1, 
+}; 
+#endif
+#line 1787 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1787
-cudaFuncCachePreferEqual
-#line 1788
-}; 
-#endif
-#line 1794 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+enum cudaFuncAttribute { 
+#line 1789
+cudaFuncAttributeMaxDynamicSharedMemorySize = 8, 
+#line 1790
+cudaFuncAttributePreferredSharedMemoryCarveout, 
+#line 1791
+cudaFuncAttributeClusterDimMustBeSet, 
+#line 1792
+cudaFuncAttributeRequiredClusterWidth, 
+#line 1793
+cudaFuncAttributeRequiredClusterHeight, 
 #line 1794
-enum cudaSharedMemConfig { 
+cudaFuncAttributeRequiredClusterDepth, 
+#line 1795
+cudaFuncAttributeNonPortableClusterSizeAllowed, 
 #line 1796
-cudaSharedMemBankSizeDefault, 
+cudaFuncAttributeClusterSchedulingPolicyPreference, 
 #line 1797
-cudaSharedMemBankSizeFourByte, 
+cudaFuncAttributeMax
 #line 1798
-cudaSharedMemBankSizeEightByte
-#line 1799
 }; 
 #endif
-#line 1804 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1803 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1804
-enum cudaSharedCarveout { 
+#line 1803
+enum cudaFuncCache { 
 #line 1805
-cudaSharedmemCarveoutDefault = (-1), 
+cudaFuncCachePreferNone, 
 #line 1806
-cudaSharedmemCarveoutMaxShared = 100, 
+cudaFuncCachePreferShared, 
 #line 1807
-cudaSharedmemCarveoutMaxL1 = 0
+cudaFuncCachePreferL1, 
 #line 1808
+cudaFuncCachePreferEqual
+#line 1809
 }; 
 #endif
-#line 1813 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1815 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1813
-enum cudaComputeMode { 
 #line 1815
-cudaComputeModeDefault, 
-#line 1816
-cudaComputeModeExclusive, 
+enum cudaSharedMemConfig { 
 #line 1817
-cudaComputeModeProhibited, 
+cudaSharedMemBankSizeDefault, 
 #line 1818
-cudaComputeModeExclusiveProcess
+cudaSharedMemBankSizeFourByte, 
 #line 1819
+cudaSharedMemBankSizeEightByte
+#line 1820
 }; 
 #endif
-#line 1824 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1825 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1824
-enum cudaLimit { 
+#line 1825
+enum cudaSharedCarveout { 
 #line 1826
-cudaLimitStackSize, 
+cudaSharedmemCarveoutDefault = (-1), 
 #line 1827
-cudaLimitPrintfFifoSize, 
+cudaSharedmemCarveoutMaxShared = 100, 
 #line 1828
-cudaLimitMallocHeapSize, 
+cudaSharedmemCarveoutMaxL1 = 0
 #line 1829
-cudaLimitDevRuntimeSyncDepth, 
-#line 1830
-cudaLimitDevRuntimePendingLaunchCount, 
-#line 1831
-cudaLimitMaxL2FetchGranularity, 
-#line 1832
-cudaLimitPersistingL2CacheSize
-#line 1833
 }; 
 #endif
-#line 1838 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1834 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1834
+enum cudaComputeMode { 
+#line 1836
+cudaComputeModeDefault, 
+#line 1837
+cudaComputeModeExclusive, 
 #line 1838
-enum cudaMemoryAdvise { 
+cudaComputeModeProhibited, 
+#line 1839
+cudaComputeModeExclusiveProcess
 #line 1840
-cudaMemAdviseSetReadMostly = 1, 
-#line 1841
-cudaMemAdviseUnsetReadMostly, 
-#line 1842
-cudaMemAdviseSetPreferredLocation, 
-#line 1843
-cudaMemAdviseUnsetPreferredLocation, 
-#line 1844
-cudaMemAdviseSetAccessedBy, 
+}; 
+#endif
+#line 1845 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1845
-cudaMemAdviseUnsetAccessedBy
-#line 1846
-}; 
-#endif
-#line 1851 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+enum cudaLimit { 
+#line 1847
+cudaLimitStackSize, 
+#line 1848
+cudaLimitPrintfFifoSize, 
+#line 1849
+cudaLimitMallocHeapSize, 
+#line 1850
+cudaLimitDevRuntimeSyncDepth, 
 #line 1851
-enum cudaMemRangeAttribute { 
+cudaLimitDevRuntimePendingLaunchCount, 
+#line 1852
+cudaLimitMaxL2FetchGranularity, 
 #line 1853
-cudaMemRangeAttributeReadMostly = 1, 
+cudaLimitPersistingL2CacheSize
 #line 1854
-cudaMemRangeAttributePreferredLocation, 
-#line 1855
-cudaMemRangeAttributeAccessedBy, 
-#line 1856
-cudaMemRangeAttributeLastPrefetchLocation, 
-#line 1857
-cudaMemRangeAttributePreferredLocationType, 
-#line 1858
-cudaMemRangeAttributePreferredLocationId, 
+}; 
+#endif
+#line 1859 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1859
-cudaMemRangeAttributeLastPrefetchLocationType, 
-#line 1860
-cudaMemRangeAttributeLastPrefetchLocationId
+enum cudaMemoryAdvise { 
 #line 1861
-}; 
-#endif
-#line 1866 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaMemAdviseSetReadMostly = 1, 
+#line 1862
+cudaMemAdviseUnsetReadMostly, 
+#line 1863
+cudaMemAdviseSetPreferredLocation, 
+#line 1864
+cudaMemAdviseUnsetPreferredLocation, 
+#line 1865
+cudaMemAdviseSetAccessedBy, 
 #line 1866
-enum cudaFlushGPUDirectRDMAWritesOptions { 
+cudaMemAdviseUnsetAccessedBy
 #line 1867
-cudaFlushGPUDirectRDMAWritesOptionHost = (1 << 0), 
-#line 1868
-cudaFlushGPUDirectRDMAWritesOptionMemOps
-#line 1869
 }; 
 #endif
-#line 1874 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1872 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 1872
+enum cudaMemRangeAttribute { 
 #line 1874
-enum cudaGPUDirectRDMAWritesOrdering { 
+cudaMemRangeAttributeReadMostly = 1, 
 #line 1875
-cudaGPUDirectRDMAWritesOrderingNone, 
+cudaMemRangeAttributePreferredLocation, 
 #line 1876
-cudaGPUDirectRDMAWritesOrderingOwner = 100, 
+cudaMemRangeAttributeAccessedBy, 
 #line 1877
-cudaGPUDirectRDMAWritesOrderingAllDevices = 200
+cudaMemRangeAttributeLastPrefetchLocation, 
 #line 1878
+cudaMemRangeAttributePreferredLocationType, 
+#line 1879
+cudaMemRangeAttributePreferredLocationId, 
+#line 1880
+cudaMemRangeAttributeLastPrefetchLocationType, 
+#line 1881
+cudaMemRangeAttributeLastPrefetchLocationId
+#line 1882
 }; 
 #endif
-#line 1883 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1887 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1883
-enum cudaFlushGPUDirectRDMAWritesScope { 
-#line 1884
-cudaFlushGPUDirectRDMAWritesToOwner = 100, 
-#line 1885
-cudaFlushGPUDirectRDMAWritesToAllDevices = 200
-#line 1886
+#line 1887
+enum cudaFlushGPUDirectRDMAWritesOptions { 
+#line 1888
+cudaFlushGPUDirectRDMAWritesOptionHost = (1 << 0), 
+#line 1889
+cudaFlushGPUDirectRDMAWritesOptionMemOps
+#line 1890
 }; 
 #endif
-#line 1891 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 1895 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 1891
-enum cudaFlushGPUDirectRDMAWritesTarget { 
-#line 1892
-cudaFlushGPUDirectRDMAWritesTargetCurrentDevice
-#line 1893
-}; 
-#endif
-#line 1899 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+#line 1895
+enum cudaGPUDirectRDMAWritesOrdering { 
+#line 1896
+cudaGPUDirectRDMAWritesOrderingNone, 
+#line 1897
+cudaGPUDirectRDMAWritesOrderingOwner = 100, 
+#line 1898
+cudaGPUDirectRDMAWritesOrderingAllDevices = 200
 #line 1899
-enum cudaDeviceAttr { 
-#line 1901
-cudaDevAttrMaxThreadsPerBlock = 1, 
-#line 1902
-cudaDevAttrMaxBlockDimX, 
-#line 1903
-cudaDevAttrMaxBlockDimY, 
+}; 
+#endif
+#line 1904 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1904
-cudaDevAttrMaxBlockDimZ, 
+enum cudaFlushGPUDirectRDMAWritesScope { 
 #line 1905
-cudaDevAttrMaxGridDimX, 
+cudaFlushGPUDirectRDMAWritesToOwner = 100, 
 #line 1906
-cudaDevAttrMaxGridDimY, 
+cudaFlushGPUDirectRDMAWritesToAllDevices = 200
 #line 1907
-cudaDevAttrMaxGridDimZ, 
-#line 1908
-cudaDevAttrMaxSharedMemoryPerBlock, 
-#line 1909
-cudaDevAttrTotalConstantMemory, 
-#line 1910
-cudaDevAttrWarpSize, 
-#line 1911
-cudaDevAttrMaxPitch, 
+}; 
+#endif
+#line 1912 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1912
-cudaDevAttrMaxRegistersPerBlock, 
+enum cudaFlushGPUDirectRDMAWritesTarget { 
 #line 1913
-cudaDevAttrClockRate, 
+cudaFlushGPUDirectRDMAWritesTargetCurrentDevice
 #line 1914
-cudaDevAttrTextureAlignment, 
-#line 1915
-cudaDevAttrGpuOverlap, 
-#line 1916
-cudaDevAttrMultiProcessorCount, 
-#line 1917
-cudaDevAttrKernelExecTimeout, 
-#line 1918
-cudaDevAttrIntegrated, 
-#line 1919
-cudaDevAttrCanMapHostMemory, 
+}; 
+#endif
+#line 1920 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 1920
-cudaDevAttrComputeMode, 
-#line 1921
-cudaDevAttrMaxTexture1DWidth, 
+enum cudaDeviceAttr { 
 #line 1922
-cudaDevAttrMaxTexture2DWidth, 
+cudaDevAttrMaxThreadsPerBlock = 1, 
 #line 1923
-cudaDevAttrMaxTexture2DHeight, 
+cudaDevAttrMaxBlockDimX, 
 #line 1924
-cudaDevAttrMaxTexture3DWidth, 
+cudaDevAttrMaxBlockDimY, 
 #line 1925
-cudaDevAttrMaxTexture3DHeight, 
+cudaDevAttrMaxBlockDimZ, 
 #line 1926
-cudaDevAttrMaxTexture3DDepth, 
+cudaDevAttrMaxGridDimX, 
 #line 1927
-cudaDevAttrMaxTexture2DLayeredWidth, 
+cudaDevAttrMaxGridDimY, 
 #line 1928
-cudaDevAttrMaxTexture2DLayeredHeight, 
+cudaDevAttrMaxGridDimZ, 
 #line 1929
-cudaDevAttrMaxTexture2DLayeredLayers, 
+cudaDevAttrMaxSharedMemoryPerBlock, 
 #line 1930
-cudaDevAttrSurfaceAlignment, 
+cudaDevAttrTotalConstantMemory, 
 #line 1931
-cudaDevAttrConcurrentKernels, 
+cudaDevAttrWarpSize, 
 #line 1932
-cudaDevAttrEccEnabled, 
+cudaDevAttrMaxPitch, 
 #line 1933
-cudaDevAttrPciBusId, 
+cudaDevAttrMaxRegistersPerBlock, 
 #line 1934
-cudaDevAttrPciDeviceId, 
+cudaDevAttrClockRate, 
 #line 1935
-cudaDevAttrTccDriver, 
+cudaDevAttrTextureAlignment, 
 #line 1936
-cudaDevAttrMemoryClockRate, 
+cudaDevAttrGpuOverlap, 
 #line 1937
-cudaDevAttrGlobalMemoryBusWidth, 
+cudaDevAttrMultiProcessorCount, 
 #line 1938
-cudaDevAttrL2CacheSize, 
+cudaDevAttrKernelExecTimeout, 
 #line 1939
-cudaDevAttrMaxThreadsPerMultiProcessor, 
+cudaDevAttrIntegrated, 
 #line 1940
-cudaDevAttrAsyncEngineCount, 
+cudaDevAttrCanMapHostMemory, 
 #line 1941
-cudaDevAttrUnifiedAddressing, 
+cudaDevAttrComputeMode, 
 #line 1942
-cudaDevAttrMaxTexture1DLayeredWidth, 
+cudaDevAttrMaxTexture1DWidth, 
 #line 1943
-cudaDevAttrMaxTexture1DLayeredLayers, 
+cudaDevAttrMaxTexture2DWidth, 
 #line 1944
-cudaDevAttrMaxTexture2DGatherWidth = 45, 
+cudaDevAttrMaxTexture2DHeight, 
 #line 1945
-cudaDevAttrMaxTexture2DGatherHeight, 
+cudaDevAttrMaxTexture3DWidth, 
 #line 1946
-cudaDevAttrMaxTexture3DWidthAlt, 
+cudaDevAttrMaxTexture3DHeight, 
 #line 1947
-cudaDevAttrMaxTexture3DHeightAlt, 
+cudaDevAttrMaxTexture3DDepth, 
 #line 1948
-cudaDevAttrMaxTexture3DDepthAlt, 
+cudaDevAttrMaxTexture2DLayeredWidth, 
 #line 1949
-cudaDevAttrPciDomainId, 
+cudaDevAttrMaxTexture2DLayeredHeight, 
 #line 1950
-cudaDevAttrTexturePitchAlignment, 
+cudaDevAttrMaxTexture2DLayeredLayers, 
 #line 1951
-cudaDevAttrMaxTextureCubemapWidth, 
+cudaDevAttrSurfaceAlignment, 
 #line 1952
-cudaDevAttrMaxTextureCubemapLayeredWidth, 
+cudaDevAttrConcurrentKernels, 
 #line 1953
-cudaDevAttrMaxTextureCubemapLayeredLayers, 
+cudaDevAttrEccEnabled, 
 #line 1954
-cudaDevAttrMaxSurface1DWidth, 
+cudaDevAttrPciBusId, 
 #line 1955
-cudaDevAttrMaxSurface2DWidth, 
+cudaDevAttrPciDeviceId, 
 #line 1956
-cudaDevAttrMaxSurface2DHeight, 
+cudaDevAttrTccDriver, 
 #line 1957
-cudaDevAttrMaxSurface3DWidth, 
+cudaDevAttrMemoryClockRate, 
 #line 1958
-cudaDevAttrMaxSurface3DHeight, 
+cudaDevAttrGlobalMemoryBusWidth, 
 #line 1959
-cudaDevAttrMaxSurface3DDepth, 
+cudaDevAttrL2CacheSize, 
 #line 1960
-cudaDevAttrMaxSurface1DLayeredWidth, 
+cudaDevAttrMaxThreadsPerMultiProcessor, 
 #line 1961
-cudaDevAttrMaxSurface1DLayeredLayers, 
+cudaDevAttrAsyncEngineCount, 
 #line 1962
-cudaDevAttrMaxSurface2DLayeredWidth, 
+cudaDevAttrUnifiedAddressing, 
 #line 1963
-cudaDevAttrMaxSurface2DLayeredHeight, 
+cudaDevAttrMaxTexture1DLayeredWidth, 
 #line 1964
-cudaDevAttrMaxSurface2DLayeredLayers, 
+cudaDevAttrMaxTexture1DLayeredLayers, 
 #line 1965
-cudaDevAttrMaxSurfaceCubemapWidth, 
+cudaDevAttrMaxTexture2DGatherWidth = 45, 
 #line 1966
-cudaDevAttrMaxSurfaceCubemapLayeredWidth, 
+cudaDevAttrMaxTexture2DGatherHeight, 
 #line 1967
-cudaDevAttrMaxSurfaceCubemapLayeredLayers, 
+cudaDevAttrMaxTexture3DWidthAlt, 
 #line 1968
-cudaDevAttrMaxTexture1DLinearWidth, 
+cudaDevAttrMaxTexture3DHeightAlt, 
 #line 1969
-cudaDevAttrMaxTexture2DLinearWidth, 
+cudaDevAttrMaxTexture3DDepthAlt, 
 #line 1970
-cudaDevAttrMaxTexture2DLinearHeight, 
+cudaDevAttrPciDomainId, 
 #line 1971
-cudaDevAttrMaxTexture2DLinearPitch, 
+cudaDevAttrTexturePitchAlignment, 
 #line 1972
-cudaDevAttrMaxTexture2DMipmappedWidth, 
+cudaDevAttrMaxTextureCubemapWidth, 
 #line 1973
-cudaDevAttrMaxTexture2DMipmappedHeight, 
+cudaDevAttrMaxTextureCubemapLayeredWidth, 
 #line 1974
-cudaDevAttrComputeCapabilityMajor, 
+cudaDevAttrMaxTextureCubemapLayeredLayers, 
 #line 1975
-cudaDevAttrComputeCapabilityMinor, 
+cudaDevAttrMaxSurface1DWidth, 
 #line 1976
-cudaDevAttrMaxTexture1DMipmappedWidth, 
+cudaDevAttrMaxSurface2DWidth, 
 #line 1977
-cudaDevAttrStreamPrioritiesSupported, 
+cudaDevAttrMaxSurface2DHeight, 
 #line 1978
-cudaDevAttrGlobalL1CacheSupported, 
+cudaDevAttrMaxSurface3DWidth, 
 #line 1979
-cudaDevAttrLocalL1CacheSupported, 
+cudaDevAttrMaxSurface3DHeight, 
 #line 1980
-cudaDevAttrMaxSharedMemoryPerMultiprocessor, 
+cudaDevAttrMaxSurface3DDepth, 
 #line 1981
-cudaDevAttrMaxRegistersPerMultiprocessor, 
+cudaDevAttrMaxSurface1DLayeredWidth, 
 #line 1982
-cudaDevAttrManagedMemory, 
+cudaDevAttrMaxSurface1DLayeredLayers, 
 #line 1983
-cudaDevAttrIsMultiGpuBoard, 
+cudaDevAttrMaxSurface2DLayeredWidth, 
 #line 1984
-cudaDevAttrMultiGpuBoardGroupID, 
+cudaDevAttrMaxSurface2DLayeredHeight, 
 #line 1985
-cudaDevAttrHostNativeAtomicSupported, 
+cudaDevAttrMaxSurface2DLayeredLayers, 
 #line 1986
-cudaDevAttrSingleToDoublePrecisionPerfRatio, 
+cudaDevAttrMaxSurfaceCubemapWidth, 
 #line 1987
-cudaDevAttrPageableMemoryAccess, 
+cudaDevAttrMaxSurfaceCubemapLayeredWidth, 
 #line 1988
-cudaDevAttrConcurrentManagedAccess, 
+cudaDevAttrMaxSurfaceCubemapLayeredLayers, 
 #line 1989
-cudaDevAttrComputePreemptionSupported, 
+cudaDevAttrMaxTexture1DLinearWidth, 
 #line 1990
-cudaDevAttrCanUseHostPointerForRegisteredMem, 
+cudaDevAttrMaxTexture2DLinearWidth, 
 #line 1991
-cudaDevAttrReserved92, 
+cudaDevAttrMaxTexture2DLinearHeight, 
 #line 1992
-cudaDevAttrReserved93, 
+cudaDevAttrMaxTexture2DLinearPitch, 
 #line 1993
-cudaDevAttrReserved94, 
+cudaDevAttrMaxTexture2DMipmappedWidth, 
 #line 1994
-cudaDevAttrCooperativeLaunch, 
+cudaDevAttrMaxTexture2DMipmappedHeight, 
 #line 1995
-cudaDevAttrCooperativeMultiDeviceLaunch, 
+cudaDevAttrComputeCapabilityMajor, 
 #line 1996
-cudaDevAttrMaxSharedMemoryPerBlockOptin, 
+cudaDevAttrComputeCapabilityMinor, 
 #line 1997
-cudaDevAttrCanFlushRemoteWrites, 
+cudaDevAttrMaxTexture1DMipmappedWidth, 
 #line 1998
-cudaDevAttrHostRegisterSupported, 
+cudaDevAttrStreamPrioritiesSupported, 
 #line 1999
-cudaDevAttrPageableMemoryAccessUsesHostPageTables, 
+cudaDevAttrGlobalL1CacheSupported, 
 #line 2000
-cudaDevAttrDirectManagedMemAccessFromHost, 
+cudaDevAttrLocalL1CacheSupported, 
 #line 2001
-cudaDevAttrMaxBlocksPerMultiprocessor = 106, 
+cudaDevAttrMaxSharedMemoryPerMultiprocessor, 
 #line 2002
-cudaDevAttrMaxPersistingL2CacheSize = 108, 
+cudaDevAttrMaxRegistersPerMultiprocessor, 
 #line 2003
-cudaDevAttrMaxAccessPolicyWindowSize, 
+cudaDevAttrManagedMemory, 
 #line 2004
-cudaDevAttrReservedSharedMemoryPerBlock = 111, 
+cudaDevAttrIsMultiGpuBoard, 
 #line 2005
-cudaDevAttrSparseCudaArraySupported, 
+cudaDevAttrMultiGpuBoardGroupID, 
 #line 2006
-cudaDevAttrHostRegisterReadOnlySupported, 
+cudaDevAttrHostNativeAtomicSupported, 
 #line 2007
-cudaDevAttrTimelineSemaphoreInteropSupported, 
+cudaDevAttrSingleToDoublePrecisionPerfRatio, 
 #line 2008
-cudaDevAttrMaxTimelineSemaphoreInteropSupported = 114, 
+cudaDevAttrPageableMemoryAccess, 
 #line 2009
-cudaDevAttrMemoryPoolsSupported, 
+cudaDevAttrConcurrentManagedAccess, 
 #line 2010
-cudaDevAttrGPUDirectRDMASupported, 
+cudaDevAttrComputePreemptionSupported, 
 #line 2011
-cudaDevAttrGPUDirectRDMAFlushWritesOptions, 
+cudaDevAttrCanUseHostPointerForRegisteredMem, 
 #line 2012
-cudaDevAttrGPUDirectRDMAWritesOrdering, 
+cudaDevAttrReserved92, 
 #line 2013
-cudaDevAttrMemoryPoolSupportedHandleTypes, 
+cudaDevAttrReserved93, 
 #line 2014
-cudaDevAttrClusterLaunch, 
+cudaDevAttrReserved94, 
 #line 2015
-cudaDevAttrDeferredMappingCudaArraySupported, 
+cudaDevAttrCooperativeLaunch, 
 #line 2016
-cudaDevAttrReserved122, 
+cudaDevAttrCooperativeMultiDeviceLaunch, 
 #line 2017
-cudaDevAttrReserved123, 
+cudaDevAttrMaxSharedMemoryPerBlockOptin, 
 #line 2018
-cudaDevAttrReserved124, 
+cudaDevAttrCanFlushRemoteWrites, 
 #line 2019
-cudaDevAttrIpcEventSupport, 
+cudaDevAttrHostRegisterSupported, 
 #line 2020
-cudaDevAttrMemSyncDomainCount, 
+cudaDevAttrPageableMemoryAccessUsesHostPageTables, 
 #line 2021
-cudaDevAttrReserved127, 
+cudaDevAttrDirectManagedMemAccessFromHost, 
 #line 2022
-cudaDevAttrReserved128, 
+cudaDevAttrMaxBlocksPerMultiprocessor = 106, 
 #line 2023
-cudaDevAttrReserved129, 
+cudaDevAttrMaxPersistingL2CacheSize = 108, 
 #line 2024
-cudaDevAttrNumaConfig, 
+cudaDevAttrMaxAccessPolicyWindowSize, 
 #line 2025
-cudaDevAttrNumaId, 
+cudaDevAttrReservedSharedMemoryPerBlock = 111, 
 #line 2026
-cudaDevAttrReserved132, 
+cudaDevAttrSparseCudaArraySupported, 
 #line 2027
-cudaDevAttrMpsEnabled, 
+cudaDevAttrHostRegisterReadOnlySupported, 
 #line 2028
-cudaDevAttrHostNumaId, 
+cudaDevAttrTimelineSemaphoreInteropSupported, 
 #line 2029
-cudaDevAttrD3D12CigSupported, 
+cudaDevAttrMaxTimelineSemaphoreInteropSupported = 114, 
 #line 2030
-cudaDevAttrMax
+cudaDevAttrMemoryPoolsSupported, 
 #line 2031
-}; 
-#endif
-#line 2036 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaDevAttrGPUDirectRDMASupported, 
+#line 2032
+cudaDevAttrGPUDirectRDMAFlushWritesOptions, 
+#line 2033
+cudaDevAttrGPUDirectRDMAWritesOrdering, 
+#line 2034
+cudaDevAttrMemoryPoolSupportedHandleTypes, 
+#line 2035
+cudaDevAttrClusterLaunch, 
 #line 2036
-enum cudaMemPoolAttr { 
+cudaDevAttrDeferredMappingCudaArraySupported, 
+#line 2037
+cudaDevAttrReserved122, 
+#line 2038
+cudaDevAttrReserved123, 
+#line 2039
+cudaDevAttrReserved124, 
+#line 2040
+cudaDevAttrIpcEventSupport, 
+#line 2041
+cudaDevAttrMemSyncDomainCount, 
+#line 2042
+cudaDevAttrReserved127, 
+#line 2043
+cudaDevAttrReserved128, 
+#line 2044
+cudaDevAttrReserved129, 
+#line 2045
+cudaDevAttrNumaConfig, 
 #line 2046
-cudaMemPoolReuseFollowEventDependencies = 1, 
+cudaDevAttrNumaId, 
+#line 2047
+cudaDevAttrReserved132, 
+#line 2048
+cudaDevAttrMpsEnabled, 
+#line 2049
+cudaDevAttrHostNumaId, 
+#line 2050
+cudaDevAttrD3D12CigSupported, 
+#line 2051
+cudaDevAttrGpuPciDeviceId = 139, 
+#line 2052
+cudaDevAttrGpuPciSubsystemId, 
 #line 2053
+cudaDevAttrHostNumaMultinodeIpcSupported = 143, 
+#line 2054
+cudaDevAttrMax
+#line 2055
+}; 
+#endif
+#line 2060 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2060
+enum cudaMemPoolAttr { 
+#line 2070
+cudaMemPoolReuseFollowEventDependencies = 1, 
+#line 2077
 cudaMemPoolReuseAllowOpportunistic, 
-#line 2061
-cudaMemPoolReuseAllowInternalDependencies, 
-#line 2072
-cudaMemPoolAttrReleaseThreshold, 
-#line 2078
-cudaMemPoolAttrReservedMemCurrent, 
 #line 2085
-cudaMemPoolAttrReservedMemHigh, 
-#line 2091
-cudaMemPoolAttrUsedMemCurrent, 
-#line 2098
-cudaMemPoolAttrUsedMemHigh
-#line 2099
-}; 
-#endif
-#line 2104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2104
-enum cudaMemLocationType { 
-#line 2105
-cudaMemLocationTypeInvalid, 
-#line 2106
-cudaMemLocationTypeDevice, 
-#line 2107
-cudaMemLocationTypeHost, 
-#line 2108
-cudaMemLocationTypeHostNuma, 
+cudaMemPoolReuseAllowInternalDependencies, 
+#line 2096
+cudaMemPoolAttrReleaseThreshold, 
+#line 2102
+cudaMemPoolAttrReservedMemCurrent, 
 #line 2109
-cudaMemLocationTypeHostNumaCurrent
-#line 2110
+cudaMemPoolAttrReservedMemHigh, 
+#line 2115
+cudaMemPoolAttrUsedMemCurrent, 
+#line 2122
+cudaMemPoolAttrUsedMemHigh
+#line 2123
 }; 
 #endif
-#line 2118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2128 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2118
-struct cudaMemLocation { 
-#line 2119
-cudaMemLocationType type; 
-#line 2120
-int id; 
-#line 2121
-}; 
-#endif
-#line 2126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2126
-enum cudaMemAccessFlags { 
-#line 2127
-cudaMemAccessFlagsProtNone, 
 #line 2128
-cudaMemAccessFlagsProtRead, 
+enum cudaMemLocationType { 
 #line 2129
-cudaMemAccessFlagsProtReadWrite = 3
+cudaMemLocationTypeInvalid, 
 #line 2130
+cudaMemLocationTypeDevice, 
+#line 2131
+cudaMemLocationTypeHost, 
+#line 2132
+cudaMemLocationTypeHostNuma, 
+#line 2133
+cudaMemLocationTypeHostNumaCurrent
+#line 2134
 }; 
 #endif
-#line 2135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2142 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2135
-struct cudaMemAccessDesc { 
-#line 2136
-cudaMemLocation location; 
-#line 2137
-cudaMemAccessFlags flags; 
-#line 2138
-}; 
-#endif
-#line 2143 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+#line 2142
+struct cudaMemLocation { 
 #line 2143
-enum cudaMemAllocationType { 
+cudaMemLocationType type; 
 #line 2144
-cudaMemAllocationTypeInvalid, 
-#line 2148
-cudaMemAllocationTypePinned, 
-#line 2149
-cudaMemAllocationTypeMax = 2147483647
+int id; 
+#line 2145
+}; 
+#endif
+#line 2150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 2150
+enum cudaMemAccessFlags { 
+#line 2151
+cudaMemAccessFlagsProtNone, 
+#line 2152
+cudaMemAccessFlagsProtRead, 
+#line 2153
+cudaMemAccessFlagsProtReadWrite = 3
+#line 2154
 }; 
 #endif
-#line 2155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2155
-enum cudaMemAllocationHandleType { 
-#line 2156
-cudaMemHandleTypeNone, 
-#line 2157
-cudaMemHandleTypePosixFileDescriptor, 
-#line 2158
-cudaMemHandleTypeWin32, 
 #line 2159
-cudaMemHandleTypeWin32Kmt = 4, 
+struct cudaMemAccessDesc { 
 #line 2160
-cudaMemHandleTypeFabric = 8
-#line 2161
-}; 
-#endif
-#line 2166 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2166
-struct cudaMemPoolProps { 
-#line 2167
-cudaMemAllocationType allocType; 
-#line 2168
-cudaMemAllocationHandleType handleTypes; 
-#line 2169
 cudaMemLocation location; 
-#line 2176
-void *win32SecurityAttributes; 
-#line 2177
-size_t maxSize; 
-#line 2178
-unsigned short usage; 
+#line 2161
+cudaMemAccessFlags flags; 
+#line 2162
+}; 
+#endif
+#line 2167 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2167
+enum cudaMemAllocationType { 
+#line 2168
+cudaMemAllocationTypeInvalid, 
+#line 2172
+cudaMemAllocationTypePinned, 
+#line 2173
+cudaMemAllocationTypeMax = 2147483647
+#line 2174
+}; 
+#endif
+#line 2179 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
 #line 2179
-unsigned char reserved[54]; 
+enum cudaMemAllocationHandleType { 
 #line 2180
-}; 
-#endif
-#line 2185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+cudaMemHandleTypeNone, 
+#line 2181
+cudaMemHandleTypePosixFileDescriptor, 
+#line 2182
+cudaMemHandleTypeWin32, 
+#line 2183
+cudaMemHandleTypeWin32Kmt = 4, 
+#line 2184
+cudaMemHandleTypeFabric = 8
 #line 2185
-struct cudaMemPoolPtrExportData { 
-#line 2186
-unsigned char reserved[64]; 
-#line 2187
 }; 
 #endif
-#line 2192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2196 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2192
-struct cudaMemAllocNodeParams { 
+#line 2196
+struct cudaMemPoolProps { 
 #line 2197
-cudaMemPoolProps poolProps; 
+cudaMemAllocationType allocType; 
 #line 2198
-const cudaMemAccessDesc *accessDescs; 
+cudaMemAllocationHandleType handleTypes; 
 #line 2199
-size_t accessDescCount; 
-#line 2200
-size_t bytesize; 
-#line 2201
-void *dptr; 
-#line 2202
+cudaMemLocation location; 
+#line 2206
+void *win32SecurityAttributes; 
+#line 2207
+size_t maxSize; 
+#line 2208
+unsigned short usage; 
+#line 2209
+unsigned char reserved[54]; 
+#line 2210
 }; 
 #endif
-#line 2207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2207
-struct cudaMemAllocNodeParamsV2 { 
-#line 2212
-cudaMemPoolProps poolProps; 
-#line 2213
-const cudaMemAccessDesc *accessDescs; 
-#line 2214
-size_t accessDescCount; 
 #line 2215
-size_t bytesize; 
+struct cudaMemPoolPtrExportData { 
 #line 2216
-void *dptr; 
+unsigned char reserved[64]; 
 #line 2217
 }; 
 #endif
-#line 2222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 #line 2222
-struct cudaMemFreeNodeParams { 
-#line 2223
-void *dptr; 
-#line 2224
-}; 
-#endif
-#line 2229 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+struct cudaMemAllocNodeParams { 
+#line 2227
+cudaMemPoolProps poolProps; 
+#line 2228
+const cudaMemAccessDesc *accessDescs; 
 #line 2229
+size_t accessDescCount; 
+#line 2230
+size_t bytesize; 
+#line 2231
+void *dptr; 
+#line 2232
+}; 
+#endif
+#line 2237 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2237
+struct cudaMemAllocNodeParamsV2 { 
+#line 2242
+cudaMemPoolProps poolProps; 
+#line 2243
+const cudaMemAccessDesc *accessDescs; 
+#line 2244
+size_t accessDescCount; 
+#line 2245
+size_t bytesize; 
+#line 2246
+void *dptr; 
+#line 2247
+}; 
+#endif
+#line 2252 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2252
+struct cudaMemFreeNodeParams { 
+#line 2253
+void *dptr; 
+#line 2254
+}; 
+#endif
+#line 2259 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2259
 enum cudaGraphMemAttributeType { 
-#line 2234
-cudaGraphMemAttrUsedMemCurrent, 
-#line 2241
-cudaGraphMemAttrUsedMemHigh, 
-#line 2248
-cudaGraphMemAttrReservedMemCurrent, 
-#line 2255
-cudaGraphMemAttrReservedMemHigh
-#line 2256
-}; 
-#endif
-#line 2262 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2262
-enum cudaDeviceP2PAttr { 
-#line 2263
-cudaDevP2PAttrPerformanceRank = 1, 
 #line 2264
-cudaDevP2PAttrAccessSupported, 
-#line 2265
-cudaDevP2PAttrNativeAtomicSupported, 
-#line 2266
-cudaDevP2PAttrCudaArrayAccessSupported
-#line 2267
+cudaGraphMemAttrUsedMemCurrent, 
+#line 2271
+cudaGraphMemAttrUsedMemHigh, 
+#line 2278
+cudaGraphMemAttrReservedMemCurrent, 
+#line 2285
+cudaGraphMemAttrReservedMemHigh
+#line 2286
 }; 
 #endif
-#line 2274 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2291 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2274
-struct CUuuid_st { 
-#line 2275
-char bytes[16]; 
-#line 2276
+#line 2291
+enum cudaMemcpyFlags { 
+#line 2292
+cudaMemcpyFlagDefault, 
+#line 2297
+cudaMemcpyFlagPreferOverlapWithCompute
+#line 2298
 }; 
 #endif
-#line 2277 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2300
+enum cudaMemcpySrcAccessOrder { 
+#line 2304
+cudaMemcpySrcAccessOrderInvalid, 
+#line 2309
+cudaMemcpySrcAccessOrderStream, 
+#line 2320
+cudaMemcpySrcAccessOrderDuringApiCall, 
+#line 2329
+cudaMemcpySrcAccessOrderAny, 
+#line 2331
+cudaMemcpySrcAccessOrderMax = 2147483647
+#line 2332
+}; 
+#endif
+#line 2337 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2337
+struct cudaMemcpyAttributes { 
+#line 2338
+cudaMemcpySrcAccessOrder srcAccessOrder; 
+#line 2339
+cudaMemLocation srcLocHint; 
+#line 2340
+cudaMemLocation dstLocHint; 
+#line 2341
+unsigned flags; 
+#line 2342
+}; 
+#endif
+#line 2347 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2347
+enum cudaMemcpy3DOperandType { 
+#line 2348
+cudaMemcpyOperandTypePointer = 1, 
+#line 2349
+cudaMemcpyOperandTypeArray, 
+#line 2350
+cudaMemcpyOperandTypeMax = 2147483647
+#line 2351
+}; 
+#endif
+#line 2356 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2356
+struct cudaOffset3D { 
+#line 2357
+size_t x; 
+#line 2358
+size_t y; 
+#line 2359
+size_t z; 
+#line 2360
+}; 
+#endif
+#line 2365 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2365
+struct cudaMemcpy3DOperand { 
+#line 2366
+cudaMemcpy3DOperandType type; 
+#line 2367
+union { 
+#line 2371
+struct { 
+#line 2372
+void *ptr; 
+#line 2373
+size_t rowLength; 
+#line 2374
+size_t layerHeight; 
+#line 2375
+cudaMemLocation locHint; 
+#line 2376
+} ptr; 
+#line 2381
+struct { 
+#line 2382
+cudaArray_t array; 
+#line 2383
+cudaOffset3D offset; 
+#line 2384
+} array; 
+#line 2385
+} op; 
+#line 2386
+}; 
+#endif
+#line 2388 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2388
+struct cudaMemcpy3DBatchOp { 
+#line 2389
+cudaMemcpy3DOperand src; 
+#line 2390
+cudaMemcpy3DOperand dst; 
+#line 2391
+cudaExtent extent; 
+#line 2392
+cudaMemcpySrcAccessOrder srcAccessOrder; 
+#line 2393
+unsigned flags; 
+#line 2394
+}; 
+#endif
+#line 2400 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2400
+enum cudaDeviceP2PAttr { 
+#line 2401
+cudaDevP2PAttrPerformanceRank = 1, 
+#line 2402
+cudaDevP2PAttrAccessSupported, 
+#line 2403
+cudaDevP2PAttrNativeAtomicSupported, 
+#line 2404
+cudaDevP2PAttrCudaArrayAccessSupported
+#line 2405
+}; 
+#endif
+#line 2412 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2412
+struct CUuuid_st { 
+#line 2413
+char bytes[16]; 
+#line 2414
+}; 
+#endif
+#line 2415 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef CUuuid_st 
-#line 2277
+#line 2415
 CUuuid; 
 #endif
-#line 2279 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2417 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef CUuuid_st 
-#line 2279
+#line 2417
 cudaUUID_t; 
 #endif
-#line 2284 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2422 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2284
+#line 2422
 struct cudaDeviceProp { 
-#line 2286
+#line 2424
 char name[256]; 
-#line 2287
+#line 2425
 cudaUUID_t uuid; 
-#line 2288
+#line 2426
 char luid[8]; 
-#line 2289
+#line 2427
 unsigned luidDeviceNodeMask; 
-#line 2290
+#line 2428
 size_t totalGlobalMem; 
-#line 2291
+#line 2429
 size_t sharedMemPerBlock; 
-#line 2292
+#line 2430
 int regsPerBlock; 
-#line 2293
+#line 2431
 int warpSize; 
-#line 2294
+#line 2432
 size_t memPitch; 
-#line 2295
+#line 2433
 int maxThreadsPerBlock; 
-#line 2296
+#line 2434
 int maxThreadsDim[3]; 
-#line 2297
+#line 2435
 int maxGridSize[3]; 
-#line 2298
+#line 2436
 int clockRate; 
-#line 2299
+#line 2437
 size_t totalConstMem; 
-#line 2300
+#line 2438
 int major; 
-#line 2301
+#line 2439
 int minor; 
-#line 2302
+#line 2440
 size_t textureAlignment; 
-#line 2303
+#line 2441
 size_t texturePitchAlignment; 
-#line 2304
+#line 2442
 int deviceOverlap; 
-#line 2305
+#line 2443
 int multiProcessorCount; 
-#line 2306
+#line 2444
 int kernelExecTimeoutEnabled; 
-#line 2307
+#line 2445
 int integrated; 
-#line 2308
+#line 2446
 int canMapHostMemory; 
-#line 2309
+#line 2447
 int computeMode; 
-#line 2310
+#line 2448
 int maxTexture1D; 
-#line 2311
+#line 2449
 int maxTexture1DMipmap; 
-#line 2312
+#line 2450
 int maxTexture1DLinear; 
-#line 2313
+#line 2451
 int maxTexture2D[2]; 
-#line 2314
+#line 2452
 int maxTexture2DMipmap[2]; 
-#line 2315
+#line 2453
 int maxTexture2DLinear[3]; 
-#line 2316
+#line 2454
 int maxTexture2DGather[2]; 
-#line 2317
+#line 2455
 int maxTexture3D[3]; 
-#line 2318
+#line 2456
 int maxTexture3DAlt[3]; 
-#line 2319
+#line 2457
 int maxTextureCubemap; 
-#line 2320
+#line 2458
 int maxTexture1DLayered[2]; 
-#line 2321
+#line 2459
 int maxTexture2DLayered[3]; 
-#line 2322
+#line 2460
 int maxTextureCubemapLayered[2]; 
-#line 2323
+#line 2461
 int maxSurface1D; 
-#line 2324
+#line 2462
 int maxSurface2D[2]; 
-#line 2325
+#line 2463
 int maxSurface3D[3]; 
-#line 2326
+#line 2464
 int maxSurface1DLayered[2]; 
-#line 2327
+#line 2465
 int maxSurface2DLayered[3]; 
-#line 2328
+#line 2466
 int maxSurfaceCubemap; 
-#line 2329
+#line 2467
 int maxSurfaceCubemapLayered[2]; 
-#line 2330
+#line 2468
 size_t surfaceAlignment; 
-#line 2331
+#line 2469
 int concurrentKernels; 
-#line 2332
+#line 2470
 int ECCEnabled; 
-#line 2333
+#line 2471
 int pciBusID; 
-#line 2334
+#line 2472
 int pciDeviceID; 
-#line 2335
+#line 2473
 int pciDomainID; 
-#line 2336
+#line 2474
 int tccDriver; 
-#line 2337
+#line 2475
 int asyncEngineCount; 
-#line 2338
+#line 2476
 int unifiedAddressing; 
-#line 2339
+#line 2477
 int memoryClockRate; 
-#line 2340
+#line 2478
 int memoryBusWidth; 
-#line 2341
+#line 2479
 int l2CacheSize; 
-#line 2342
+#line 2480
 int persistingL2CacheMaxSize; 
-#line 2343
+#line 2481
 int maxThreadsPerMultiProcessor; 
-#line 2344
+#line 2482
 int streamPrioritiesSupported; 
-#line 2345
+#line 2483
 int globalL1CacheSupported; 
-#line 2346
+#line 2484
 int localL1CacheSupported; 
-#line 2347
+#line 2485
 size_t sharedMemPerMultiprocessor; 
-#line 2348
+#line 2486
 int regsPerMultiprocessor; 
-#line 2349
+#line 2487
 int managedMemory; 
-#line 2350
+#line 2488
 int isMultiGpuBoard; 
-#line 2351
+#line 2489
 int multiGpuBoardGroupID; 
-#line 2352
+#line 2490
 int hostNativeAtomicSupported; 
-#line 2353
+#line 2491
 int singleToDoublePrecisionPerfRatio; 
-#line 2354
+#line 2492
 int pageableMemoryAccess; 
-#line 2355
+#line 2493
 int concurrentManagedAccess; 
-#line 2356
+#line 2494
 int computePreemptionSupported; 
-#line 2357
+#line 2495
 int canUseHostPointerForRegisteredMem; 
-#line 2358
+#line 2496
 int cooperativeLaunch; 
-#line 2359
+#line 2497
 int cooperativeMultiDeviceLaunch; 
-#line 2360
+#line 2498
 size_t sharedMemPerBlockOptin; 
-#line 2361
+#line 2499
 int pageableMemoryAccessUsesHostPageTables; 
-#line 2362
+#line 2500
 int directManagedMemAccessFromHost; 
-#line 2363
+#line 2501
 int maxBlocksPerMultiProcessor; 
-#line 2364
+#line 2502
 int accessPolicyMaxWindowSize; 
-#line 2365
+#line 2503
 size_t reservedSharedMemPerBlock; 
-#line 2366
+#line 2504
 int hostRegisterSupported; 
-#line 2367
+#line 2505
 int sparseCudaArraySupported; 
-#line 2368
+#line 2506
 int hostRegisterReadOnlySupported; 
-#line 2369
+#line 2507
 int timelineSemaphoreInteropSupported; 
-#line 2370
+#line 2508
 int memoryPoolsSupported; 
-#line 2371
+#line 2509
 int gpuDirectRDMASupported; 
-#line 2372
+#line 2510
 unsigned gpuDirectRDMAFlushWritesOptions; 
-#line 2373
+#line 2511
 int gpuDirectRDMAWritesOrdering; 
-#line 2374
+#line 2512
 unsigned memoryPoolSupportedHandleTypes; 
-#line 2375
+#line 2513
 int deferredMappingCudaArraySupported; 
-#line 2376
+#line 2514
 int ipcEventSupported; 
-#line 2377
+#line 2515
 int clusterLaunch; 
-#line 2378
+#line 2516
 int unifiedFunctionPointers; 
-#line 2379
-int reserved2[2]; 
-#line 2380
-int reserved1[1]; 
-#line 2381
-int reserved[60]; 
-#line 2382
+#line 2517
+int reserved[63]; 
+#line 2518
 }; 
 #endif
-#line 2395 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2531 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 2392
+#line 2528
 struct cudaIpcEventHandle_st { 
-#line 2394
+#line 2530
 char reserved[64]; 
-#line 2395
+#line 2531
 } cudaIpcEventHandle_t; 
 #endif
-#line 2403 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2539 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 2400
+#line 2536
 struct cudaIpcMemHandle_st { 
-#line 2402
+#line 2538
 char reserved[64]; 
-#line 2403
+#line 2539
 } cudaIpcMemHandle_t; 
 #endif
-#line 2411 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2547 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 2408
+#line 2544
 struct cudaMemFabricHandle_st { 
-#line 2410
+#line 2546
 char reserved[64]; 
-#line 2411
+#line 2547
 } cudaMemFabricHandle_t; 
 #endif
-#line 2416 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2552 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2416
-enum cudaExternalMemoryHandleType { 
-#line 2420
-cudaExternalMemoryHandleTypeOpaqueFd = 1, 
-#line 2424
-cudaExternalMemoryHandleTypeOpaqueWin32, 
-#line 2428
-cudaExternalMemoryHandleTypeOpaqueWin32Kmt, 
-#line 2432
-cudaExternalMemoryHandleTypeD3D12Heap, 
-#line 2436
-cudaExternalMemoryHandleTypeD3D12Resource, 
-#line 2440
-cudaExternalMemoryHandleTypeD3D11Resource, 
-#line 2444
-cudaExternalMemoryHandleTypeD3D11ResourceKmt, 
-#line 2448
-cudaExternalMemoryHandleTypeNvSciBuf
-#line 2449
-}; 
-#endif
-#line 2491 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2491
-struct cudaExternalMemoryHandleDesc { 
-#line 2495
-cudaExternalMemoryHandleType type; 
-#line 2496
-union { 
-#line 2502
-int fd; 
-#line 2518
-struct { 
-#line 2522
-void *handle; 
-#line 2527
-const void *name; 
-#line 2528
-} win32; 
-#line 2533
-const void *nvSciBufObject; 
-#line 2534
-} handle; 
-#line 2538
-unsigned __int64 size; 
-#line 2542
-unsigned flags; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
-#line 2543
-}; 
-#endif
-#line 2548 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2548
-struct cudaExternalMemoryBufferDesc { 
 #line 2552
-unsigned __int64 offset; 
+enum cudaExternalMemoryHandleType { 
 #line 2556
-unsigned __int64 size; 
+cudaExternalMemoryHandleTypeOpaqueFd = 1, 
 #line 2560
-unsigned flags; 
-#line 2561
-}; 
-#endif
-#line 2566 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2566
-struct cudaExternalMemoryMipmappedArrayDesc { 
-#line 2571
-unsigned __int64 offset; 
-#line 2575
-cudaChannelFormatDesc formatDesc; 
-#line 2579
-cudaExtent extent; 
+cudaExternalMemoryHandleTypeOpaqueWin32, 
+#line 2564
+cudaExternalMemoryHandleTypeOpaqueWin32Kmt, 
+#line 2568
+cudaExternalMemoryHandleTypeD3D12Heap, 
+#line 2572
+cudaExternalMemoryHandleTypeD3D12Resource, 
+#line 2576
+cudaExternalMemoryHandleTypeD3D11Resource, 
+#line 2580
+cudaExternalMemoryHandleTypeD3D11ResourceKmt, 
 #line 2584
-unsigned flags; 
-#line 2588
-unsigned numLevels; 
-#line 2589
+cudaExternalMemoryHandleTypeNvSciBuf
+#line 2585
 }; 
 #endif
-#line 2594 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2627 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2594
-enum cudaExternalSemaphoreHandleType { 
-#line 2598
-cudaExternalSemaphoreHandleTypeOpaqueFd = 1, 
-#line 2602
-cudaExternalSemaphoreHandleTypeOpaqueWin32, 
-#line 2606
-cudaExternalSemaphoreHandleTypeOpaqueWin32Kmt, 
-#line 2610
-cudaExternalSemaphoreHandleTypeD3D12Fence, 
-#line 2614
-cudaExternalSemaphoreHandleTypeD3D11Fence, 
-#line 2618
-cudaExternalSemaphoreHandleTypeNvSciSync, 
-#line 2622
-cudaExternalSemaphoreHandleTypeKeyedMutex, 
-#line 2626
-cudaExternalSemaphoreHandleTypeKeyedMutexKmt, 
-#line 2630
-cudaExternalSemaphoreHandleTypeTimelineSemaphoreFd, 
-#line 2634
-cudaExternalSemaphoreHandleTypeTimelineSemaphoreWin32
-#line 2635
-}; 
-#endif
-#line 2640 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2640
-struct cudaExternalSemaphoreHandleDesc { 
-#line 2644
-cudaExternalSemaphoreHandleType type; 
-#line 2645
+#line 2627
+struct cudaExternalMemoryHandleDesc { 
+#line 2631
+cudaExternalMemoryHandleType type; 
+#line 2632
 union { 
-#line 2652
+#line 2638
 int fd; 
-#line 2668
+#line 2654
 struct { 
-#line 2672
+#line 2658
 void *handle; 
-#line 2677
+#line 2663
 const void *name; 
-#line 2678
+#line 2664
 } win32; 
-#line 2682
-const void *nvSciSyncObj; 
-#line 2683
+#line 2669
+const void *nvSciBufObject; 
+#line 2670
 } handle; 
-#line 2687
+#line 2674
+unsigned __int64 size; 
+#line 2678
 unsigned flags; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 2679
+}; 
+#endif
+#line 2684 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2684
+struct cudaExternalMemoryBufferDesc { 
 #line 2688
+unsigned __int64 offset; 
+#line 2692
+unsigned __int64 size; 
+#line 2696
+unsigned flags; 
+#line 2697
 }; 
 #endif
-#line 2693 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2702 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2693
-struct cudaExternalSemaphoreSignalParams_v1 { 
-#line 2694
-struct { 
-#line 2698
-struct { 
 #line 2702
-unsigned __int64 value; 
-#line 2703
-} fence; 
-#line 2704
-union { 
-#line 2709
-void *fence; 
-#line 2710
-unsigned __int64 reserved; 
+struct cudaExternalMemoryMipmappedArrayDesc { 
+#line 2707
+unsigned __int64 offset; 
 #line 2711
-} nvSciSync; 
+cudaChannelFormatDesc formatDesc; 
 #line 2715
-struct { 
-#line 2719
-unsigned __int64 key; 
+cudaExtent extent; 
 #line 2720
-} keyedMutex; 
-#line 2721
-} params; 
-#line 2732
 unsigned flags; 
-#line 2733
+#line 2724
+unsigned numLevels; 
+#line 2725
 }; 
 #endif
-#line 2738 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2730 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 2730
+enum cudaExternalSemaphoreHandleType { 
+#line 2734
+cudaExternalSemaphoreHandleTypeOpaqueFd = 1, 
 #line 2738
-struct cudaExternalSemaphoreWaitParams_v1 { 
-#line 2739
-struct { 
-#line 2743
-struct { 
-#line 2747
-unsigned __int64 value; 
-#line 2748
-} fence; 
-#line 2749
-union { 
+cudaExternalSemaphoreHandleTypeOpaqueWin32, 
+#line 2742
+cudaExternalSemaphoreHandleTypeOpaqueWin32Kmt, 
+#line 2746
+cudaExternalSemaphoreHandleTypeD3D12Fence, 
+#line 2750
+cudaExternalSemaphoreHandleTypeD3D11Fence, 
 #line 2754
-void *fence; 
-#line 2755
-unsigned __int64 reserved; 
-#line 2756
-} nvSciSync; 
-#line 2760
-struct { 
-#line 2764
-unsigned __int64 key; 
-#line 2768
-unsigned timeoutMs; 
-#line 2769
-} keyedMutex; 
+cudaExternalSemaphoreHandleTypeNvSciSync, 
+#line 2758
+cudaExternalSemaphoreHandleTypeKeyedMutex, 
+#line 2762
+cudaExternalSemaphoreHandleTypeKeyedMutexKmt, 
+#line 2766
+cudaExternalSemaphoreHandleTypeTimelineSemaphoreFd, 
 #line 2770
-} params; 
+cudaExternalSemaphoreHandleTypeTimelineSemaphoreWin32
+#line 2771
+}; 
+#endif
+#line 2776 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2776
+struct cudaExternalSemaphoreHandleDesc { 
+#line 2780
+cudaExternalSemaphoreHandleType type; 
 #line 2781
-unsigned flags; 
-#line 2782
-}; 
-#endif
-#line 2787 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2787
-struct cudaExternalSemaphoreSignalParams { 
+union { 
 #line 2788
-struct { 
-#line 2792
-struct { 
-#line 2796
-unsigned __int64 value; 
-#line 2797
-} fence; 
-#line 2798
-union { 
-#line 2803
-void *fence; 
+int fd; 
 #line 2804
-unsigned __int64 reserved; 
-#line 2805
-} nvSciSync; 
-#line 2809
 struct { 
+#line 2808
+void *handle; 
 #line 2813
-unsigned __int64 key; 
+const void *name; 
 #line 2814
-} keyedMutex; 
-#line 2815
-unsigned reserved[12]; 
-#line 2816
-} params; 
-#line 2827
-unsigned flags; 
-#line 2828
-unsigned reserved[16]; 
-#line 2829
+} win32; 
+#line 2818
+const void *nvSciSyncObj; 
+#line 2819
+} handle; 
+#line 2823
+unsigned flags; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 2824
 }; 
 #endif
-#line 2834 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2829 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 2829
+struct cudaExternalSemaphoreSignalParams_v1 { 
+#line 2830
+struct { 
 #line 2834
-struct cudaExternalSemaphoreWaitParams { 
-#line 2835
 struct { 
-#line 2839
-struct { 
-#line 2843
+#line 2838
 unsigned __int64 value; 
-#line 2844
+#line 2839
 } fence; 
-#line 2845
+#line 2840
 union { 
-#line 2850
+#line 2845
 void *fence; 
-#line 2851
+#line 2846
 unsigned __int64 reserved; 
-#line 2852
+#line 2847
 } nvSciSync; 
-#line 2856
+#line 2851
 struct { 
-#line 2860
+#line 2855
 unsigned __int64 key; 
-#line 2864
-unsigned timeoutMs; 
-#line 2865
+#line 2856
 } keyedMutex; 
-#line 2866
-unsigned reserved[10]; 
-#line 2867
+#line 2857
 } params; 
-#line 2878
+#line 2868
 unsigned flags; 
-#line 2879
-unsigned reserved[16]; 
-#line 2880
+#line 2869
 }; 
 #endif
-#line 2891 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 2874 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2874
+struct cudaExternalSemaphoreWaitParams_v1 { 
+#line 2875
+struct { 
+#line 2879
+struct { 
+#line 2883
+unsigned __int64 value; 
+#line 2884
+} fence; 
+#line 2885
+union { 
+#line 2890
+void *fence; 
+#line 2891
+unsigned __int64 reserved; 
+#line 2892
+} nvSciSync; 
+#line 2896
+struct { 
+#line 2900
+unsigned __int64 key; 
+#line 2904
+unsigned timeoutMs; 
+#line 2905
+} keyedMutex; 
+#line 2906
+} params; 
+#line 2917
+unsigned flags; 
+#line 2918
+}; 
+#endif
+#line 2923 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2923
+struct cudaExternalSemaphoreSignalParams { 
+#line 2924
+struct { 
+#line 2928
+struct { 
+#line 2932
+unsigned __int64 value; 
+#line 2933
+} fence; 
+#line 2934
+union { 
+#line 2939
+void *fence; 
+#line 2940
+unsigned __int64 reserved; 
+#line 2941
+} nvSciSync; 
+#line 2945
+struct { 
+#line 2949
+unsigned __int64 key; 
+#line 2950
+} keyedMutex; 
+#line 2951
+unsigned reserved[12]; 
+#line 2952
+} params; 
+#line 2963
+unsigned flags; 
+#line 2964
+unsigned reserved[16]; 
+#line 2965
+}; 
+#endif
+#line 2970 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 2970
+struct cudaExternalSemaphoreWaitParams { 
+#line 2971
+struct { 
+#line 2975
+struct { 
+#line 2979
+unsigned __int64 value; 
+#line 2980
+} fence; 
+#line 2981
+union { 
+#line 2986
+void *fence; 
+#line 2987
+unsigned __int64 reserved; 
+#line 2988
+} nvSciSync; 
+#line 2992
+struct { 
+#line 2996
+unsigned __int64 key; 
+#line 3000
+unsigned timeoutMs; 
+#line 3001
+} keyedMutex; 
+#line 3002
+unsigned reserved[10]; 
+#line 3003
+} params; 
+#line 3014
+unsigned flags; 
+#line 3015
+unsigned reserved[16]; 
+#line 3016
+}; 
+#endif
+#line 3027 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef cudaError 
-#line 2891
+#line 3027
 cudaError_t; 
 #endif
-#line 2896 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3032 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUstream_st *
-#line 2896
+#line 3032
 cudaStream_t; 
 #endif
-#line 2901 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3037 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUevent_st *
-#line 2901
+#line 3037
 cudaEvent_t; 
 #endif
-#line 2906 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3042 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef cudaGraphicsResource *
-#line 2906
+#line 3042
 cudaGraphicsResource_t; 
 #endif
-#line 2911 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3047 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUexternalMemory_st *
-#line 2911
+#line 3047
 cudaExternalMemory_t; 
 #endif
-#line 2916 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3052 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUexternalSemaphore_st *
-#line 2916
+#line 3052
 cudaExternalSemaphore_t; 
 #endif
-#line 2921 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3057 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUgraph_st *
-#line 2921
+#line 3057
 cudaGraph_t; 
 #endif
-#line 2926 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3062 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUgraphNode_st *
-#line 2926
+#line 3062
 cudaGraphNode_t; 
 #endif
-#line 2931 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3067 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUuserObject_st *
-#line 2931
+#line 3067
 cudaUserObject_t; 
 #endif
-#line 2936 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3072 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef unsigned __int64 
-#line 2936
+#line 3072
 cudaGraphConditionalHandle; 
 #endif
-#line 2941 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3077 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUfunc_st *
-#line 2941
+#line 3077
 cudaFunction_t; 
 #endif
-#line 2946 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3082 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUkern_st *
-#line 2946
+#line 3082
 cudaKernel_t; 
 #endif
-#line 2951 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3087 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3087
+enum cudaJitOption { 
+#line 3094
+cudaJitMaxRegisters, 
+#line 3108
+cudaJitThreadsPerBlock, 
+#line 3116
+cudaJitWallTime, 
+#line 3125
+cudaJitInfoLogBuffer, 
+#line 3134
+cudaJitInfoLogBufferSizeBytes, 
+#line 3143
+cudaJitErrorLogBuffer, 
+#line 3152
+cudaJitErrorLogBufferSizeBytes, 
+#line 3160
+cudaJitOptimizationLevel, 
+#line 3168
+cudaJitFallbackStrategy = 10, 
+#line 3176
+cudaJitGenerateDebugInfo, 
+#line 3183
+cudaJitLogVerbose, 
+#line 3190
+cudaJitGenerateLineInfo, 
+#line 3198
+cudaJitCacheMode, 
+#line 3205
+cudaJitPositionIndependentCode = 30, 
+#line 3218
+cudaJitMinCtaPerSm, 
+#line 3231
+cudaJitMaxThreadsPerBlock, 
+#line 3241
+cudaJitOverrideDirectiveValues
+#line 3242
+}; 
+#endif
+#line 3248 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3248
+enum cudaLibraryOption { 
+#line 3250
+cudaLibraryHostUniversalFunctionAndDataTable, 
+#line 3261
+cudaLibraryBinaryIsPreserved
+#line 3262
+}; 
+#endif
+#line 3264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3264
+struct cudalibraryHostUniversalFunctionAndDataTable { 
+#line 3266
+void *functionTable; 
+#line 3267
+size_t functionWindowSize; 
+#line 3268
+void *dataTable; 
+#line 3269
+size_t dataWindowSize; 
+#line 3270
+}; 
+#endif
+#line 3275 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3275
+enum cudaJit_CacheMode { 
+#line 3277
+cudaJitCacheOptionNone, 
+#line 3278
+cudaJitCacheOptionCG, 
+#line 3279
+cudaJitCacheOptionCA
+#line 3280
+}; 
+#endif
+#line 3285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3285
+enum cudaJit_Fallback { 
+#line 3287
+cudaPreferPtx, 
+#line 3289
+cudaPreferBinary
+#line 3290
+}; 
+#endif
+#line 3295 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef struct CUlib_st *
+#line 3295
+cudaLibrary_t; 
+#endif
+#line 3300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef struct CUmemPoolHandle_st *
-#line 2951
+#line 3300
 cudaMemPool_t; 
 #endif
-#line 2956 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3305 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2956
+#line 3305
 enum cudaCGScope { 
-#line 2957
+#line 3306
 cudaCGScopeInvalid, 
-#line 2958
+#line 3307
 cudaCGScopeGrid, 
-#line 2959
+#line 3308
 cudaCGScopeMultiGrid
-#line 2960
+#line 3309
 }; 
 #endif
-#line 2965 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3314 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 2965
-struct cudaLaunchParams { 
-#line 2967
-void *func; 
-#line 2968
-dim3 gridDim; 
-#line 2969
-dim3 blockDim; 
-#line 2970
-void **args; 
-#line 2971
-size_t sharedMem; 
-#line 2972
-cudaStream_t stream; 
-#line 2973
-}; 
-#endif
-#line 2978 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2978
-struct cudaKernelNodeParams { 
-#line 2979
-void *func; 
-#line 2980
-dim3 gridDim; 
-#line 2981
-dim3 blockDim; 
-#line 2982
-unsigned sharedMemBytes; 
-#line 2983
-void **kernelParams; 
-#line 2984
-void **extra; 
-#line 2985
-}; 
-#endif
-#line 2990 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 2990
-struct cudaKernelNodeParamsV2 { 
-#line 2991
-void *func; 
-#line 2997 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-uint3 gridDim; 
-#line 2998
-uint3 blockDim; 
-#line 3000 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-unsigned sharedMemBytes; 
-#line 3001
-void **kernelParams; 
-#line 3002
-void **extra; 
-#line 3003
-}; 
-#endif
-#line 3008 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3008
-struct cudaExternalSemaphoreSignalNodeParams { 
-#line 3009
-cudaExternalSemaphore_t *extSemArray; 
-#line 3010
-const cudaExternalSemaphoreSignalParams *paramsArray; 
-#line 3011
-unsigned numExtSems; 
-#line 3012
-}; 
-#endif
-#line 3017 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3017
-struct cudaExternalSemaphoreSignalNodeParamsV2 { 
-#line 3018
-cudaExternalSemaphore_t *extSemArray; 
-#line 3019
-const cudaExternalSemaphoreSignalParams *paramsArray; 
-#line 3020
-unsigned numExtSems; 
-#line 3021
-}; 
-#endif
-#line 3026 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3026
-struct cudaExternalSemaphoreWaitNodeParams { 
-#line 3027
-cudaExternalSemaphore_t *extSemArray; 
-#line 3028
-const cudaExternalSemaphoreWaitParams *paramsArray; 
-#line 3029
-unsigned numExtSems; 
-#line 3030
-}; 
-#endif
-#line 3035 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3035
-struct cudaExternalSemaphoreWaitNodeParamsV2 { 
-#line 3036
-cudaExternalSemaphore_t *extSemArray; 
-#line 3037
-const cudaExternalSemaphoreWaitParams *paramsArray; 
-#line 3038
-unsigned numExtSems; 
-#line 3039
-}; 
-#endif
-#line 3041 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3041
-enum cudaGraphConditionalHandleFlags { 
-#line 3042
-cudaGraphCondAssignDefault = 1
-#line 3043
-}; 
-#endif
-#line 3048 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3048
-enum cudaGraphConditionalNodeType { 
-#line 3049
-cudaGraphCondTypeIf, 
-#line 3050
-cudaGraphCondTypeWhile
-#line 3051
-}; 
-#endif
-#line 3056 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3056
-struct cudaConditionalNodeParams { 
-#line 3057
-cudaGraphConditionalHandle handle; 
-#line 3060
-cudaGraphConditionalNodeType type; 
-#line 3061
-unsigned size; 
-#line 3062
-cudaGraph_t *phGraph_out; 
-#line 3072
-}; 
-#endif
-#line 3077 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3077
-enum cudaGraphNodeType { 
-#line 3078
-cudaGraphNodeTypeKernel, 
-#line 3079
-cudaGraphNodeTypeMemcpy, 
-#line 3080
-cudaGraphNodeTypeMemset, 
-#line 3081
-cudaGraphNodeTypeHost, 
-#line 3082
-cudaGraphNodeTypeGraph, 
-#line 3083
-cudaGraphNodeTypeEmpty, 
-#line 3084
-cudaGraphNodeTypeWaitEvent, 
-#line 3085
-cudaGraphNodeTypeEventRecord, 
-#line 3086
-cudaGraphNodeTypeExtSemaphoreSignal, 
-#line 3087
-cudaGraphNodeTypeExtSemaphoreWait, 
-#line 3088
-cudaGraphNodeTypeMemAlloc, 
-#line 3089
-cudaGraphNodeTypeMemFree, 
-#line 3090
-cudaGraphNodeTypeConditional = 13, 
-#line 3107
-cudaGraphNodeTypeCount
-#line 3108
-}; 
-#endif
-#line 3113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3113
-struct cudaChildGraphNodeParams { 
-#line 3114
-cudaGraph_t graph; 
-#line 3116
-}; 
-#endif
-#line 3121 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3121
-struct cudaEventRecordNodeParams { 
-#line 3122
-cudaEvent_t event; 
-#line 3123
-}; 
-#endif
-#line 3128 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3128
-struct cudaEventWaitNodeParams { 
-#line 3129
-cudaEvent_t event; 
-#line 3130
-}; 
-#endif
-#line 3135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3135
-struct cudaGraphNodeParams { 
-#line 3136
-cudaGraphNodeType type; 
-#line 3137
-int reserved0[3]; 
-#line 3139
-union { 
-#line 3140
-__int64 reserved1[29]; 
-#line 3141
-cudaKernelNodeParamsV2 kernel; 
-#line 3142
-cudaMemcpyNodeParams memcpy; 
-#line 3143
-cudaMemsetParamsV2 memset; 
-#line 3144
-cudaHostNodeParamsV2 host; 
-#line 3145
-cudaChildGraphNodeParams graph; 
-#line 3146
-cudaEventWaitNodeParams eventWait; 
-#line 3147
-cudaEventRecordNodeParams eventRecord; 
-#line 3148
-cudaExternalSemaphoreSignalNodeParamsV2 extSemSignal; 
-#line 3149
-cudaExternalSemaphoreWaitNodeParamsV2 extSemWait; 
-#line 3150
-cudaMemAllocNodeParamsV2 alloc; 
-#line 3151
-cudaMemFreeNodeParams free; 
-#line 3152
-cudaConditionalNodeParams conditional; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
-#line 3153
-}; 
-#line 3155
-__int64 reserved2; 
-#line 3156
-}; 
-#endif
-#line 3168 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-typedef 
-#line 3161
-enum cudaGraphDependencyType_enum { 
-#line 3162
-cudaGraphDependencyTypeDefault, 
-#line 3163
-cudaGraphDependencyTypeProgrammatic
-#line 3168
-} cudaGraphDependencyType; 
-#endif
-#line 3198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-typedef 
-#line 3175
-struct cudaGraphEdgeData_st { 
-#line 3176
-unsigned char from_port; 
-#line 3186
-unsigned char to_port; 
-#line 3193
-unsigned char type; 
-#line 3196
-unsigned char reserved[5]; 
-#line 3198
-} cudaGraphEdgeData; 
-#endif
-#line 3219 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-typedef struct CUgraphExec_st *cudaGraphExec_t; 
-#line 3224
-#if 0
-#line 3224
-enum cudaGraphExecUpdateResult { 
-#line 3225
-cudaGraphExecUpdateSuccess, 
-#line 3226
-cudaGraphExecUpdateError, 
-#line 3227
-cudaGraphExecUpdateErrorTopologyChanged, 
-#line 3228
-cudaGraphExecUpdateErrorNodeTypeChanged, 
-#line 3229
-cudaGraphExecUpdateErrorFunctionChanged, 
-#line 3230
-cudaGraphExecUpdateErrorParametersChanged, 
-#line 3231
-cudaGraphExecUpdateErrorNotSupported, 
-#line 3232
-cudaGraphExecUpdateErrorUnsupportedFunctionChange, 
-#line 3233
-cudaGraphExecUpdateErrorAttributesChanged
-#line 3234
-}; 
-#endif
-#line 3245 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-typedef 
-#line 3239
-enum cudaGraphInstantiateResult { 
-#line 3240
-cudaGraphInstantiateSuccess, 
-#line 3241
-cudaGraphInstantiateError, 
-#line 3242
-cudaGraphInstantiateInvalidStructure, 
-#line 3243
-cudaGraphInstantiateNodeOperationNotSupported, 
-#line 3244
-cudaGraphInstantiateMultipleDevicesNotSupported
-#line 3245
-} cudaGraphInstantiateResult; 
-#endif
-#line 3256 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-typedef 
-#line 3250
-struct cudaGraphInstantiateParams_st { 
-#line 3252
-unsigned __int64 flags; 
-#line 3253
-cudaStream_t uploadStream; 
-#line 3254
-cudaGraphNode_t errNode_out; 
-#line 3255
-cudaGraphInstantiateResult result_out; 
-#line 3256
-} cudaGraphInstantiateParams; 
-#endif
-#line 3278 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-typedef 
-#line 3261
-struct cudaGraphExecUpdateResultInfo_st { 
-#line 3265
-cudaGraphExecUpdateResult result; 
-#line 3272
-cudaGraphNode_t errorNode; 
-#line 3277
-cudaGraphNode_t errorFromNode; 
-#line 3278
-} cudaGraphExecUpdateResultInfo; 
-#endif
-#line 3283 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-typedef struct CUgraphDeviceUpdatableNode_st *cudaGraphDeviceNode_t; 
-#line 3288
-#if 0
-#line 3288
-enum cudaGraphKernelNodeField { 
-#line 3290
-cudaGraphKernelNodeFieldInvalid, 
-#line 3291
-cudaGraphKernelNodeFieldGridDim, 
-#line 3292
-cudaGraphKernelNodeFieldParam, 
-#line 3293
-cudaGraphKernelNodeFieldEnabled
-#line 3294
-}; 
-#endif
-#line 3299 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
-#line 3299
-struct cudaGraphKernelNodeUpdate { 
-#line 3300
-cudaGraphDeviceNode_t node; 
-#line 3301
-cudaGraphKernelNodeField field; 
-#line 3302
-union { 
-#line 3307 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-uint3 gridDim; 
-#line 3309 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-struct { 
-#line 3310
-const void *pValue; 
-#line 3311
-size_t offset; 
-#line 3312
-size_t size; 
-#line 3313
-} param; 
 #line 3314
-unsigned isEnabled; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
-#line 3315
-} updateData; 
+struct cudaLaunchParams { 
 #line 3316
-}; 
-#endif
-#line 3322 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-#if 0
+void *func; 
+#line 3317
+dim3 gridDim; 
+#line 3318
+dim3 blockDim; 
+#line 3319
+void **args; 
+#line 3320
+size_t sharedMem; 
+#line 3321
+cudaStream_t stream; 
 #line 3322
-enum cudaGetDriverEntryPointFlags { 
-#line 3323
-cudaEnableDefault, 
-#line 3324
-cudaEnableLegacyStream, 
-#line 3325
-cudaEnablePerThreadDefaultStream
-#line 3326
 }; 
 #endif
-#line 3331 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3327 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 3327
+struct cudaKernelNodeParams { 
+#line 3328
+void *func; 
+#line 3329
+dim3 gridDim; 
+#line 3330
+dim3 blockDim; 
 #line 3331
-enum cudaDriverEntryPointQueryResult { 
+unsigned sharedMemBytes; 
 #line 3332
-cudaDriverEntryPointSuccess, 
+void **kernelParams; 
 #line 3333
-cudaDriverEntryPointSymbolNotFound, 
+void **extra; 
 #line 3334
-cudaDriverEntryPointVersionNotSufficent
-#line 3335
 }; 
 #endif
-#line 3340 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3339 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
+#line 3339
+struct cudaKernelNodeParamsV2 { 
 #line 3340
-enum cudaGraphDebugDotFlags { 
-#line 3341
-cudaGraphDebugDotFlagsVerbose = (1 << 0), 
-#line 3342
-cudaGraphDebugDotFlagsKernelNodeParams = (1 << 2), 
-#line 3343
-cudaGraphDebugDotFlagsMemcpyNodeParams = (1 << 3), 
-#line 3344
-cudaGraphDebugDotFlagsMemsetNodeParams = (1 << 4), 
-#line 3345
-cudaGraphDebugDotFlagsHostNodeParams = (1 << 5), 
-#line 3346
-cudaGraphDebugDotFlagsEventNodeParams = (1 << 6), 
+void *func; 
+#line 3346 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+uint3 gridDim; 
 #line 3347
-cudaGraphDebugDotFlagsExtSemasSignalNodeParams = (1 << 7), 
-#line 3348
-cudaGraphDebugDotFlagsExtSemasWaitNodeParams = (1 << 8), 
-#line 3349
-cudaGraphDebugDotFlagsKernelNodeAttributes = (1 << 9), 
+uint3 blockDim; 
+#line 3349 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+unsigned sharedMemBytes; 
 #line 3350
-cudaGraphDebugDotFlagsHandles = (1 << 10), 
+void **kernelParams; 
 #line 3351
-cudaGraphDebugDotFlagsConditionalNodeParams = (1 << 15)
+void **extra; 
 #line 3352
 }; 
 #endif
-#line 3357 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3357 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 #line 3357
-enum cudaGraphInstantiateFlags { 
+struct cudaExternalSemaphoreSignalNodeParams { 
 #line 3358
-cudaGraphInstantiateFlagAutoFreeOnLaunch = 1, 
+cudaExternalSemaphore_t *extSemArray; 
 #line 3359
-cudaGraphInstantiateFlagUpload, 
-#line 3362
-cudaGraphInstantiateFlagDeviceLaunch = 4, 
-#line 3365
-cudaGraphInstantiateFlagUseNodePriority = 8
-#line 3367
+const cudaExternalSemaphoreSignalParams *paramsArray; 
+#line 3360
+unsigned numExtSems; 
+#line 3361
 }; 
 #endif
-#line 3388 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3366 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-typedef 
+#line 3366
+struct cudaExternalSemaphoreSignalNodeParamsV2 { 
+#line 3367
+cudaExternalSemaphore_t *extSemArray; 
+#line 3368
+const cudaExternalSemaphoreSignalParams *paramsArray; 
+#line 3369
+unsigned numExtSems; 
+#line 3370
+}; 
+#endif
+#line 3375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3375
+struct cudaExternalSemaphoreWaitNodeParams { 
+#line 3376
+cudaExternalSemaphore_t *extSemArray; 
+#line 3377
+const cudaExternalSemaphoreWaitParams *paramsArray; 
+#line 3378
+unsigned numExtSems; 
+#line 3379
+}; 
+#endif
+#line 3384 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3384
+struct cudaExternalSemaphoreWaitNodeParamsV2 { 
 #line 3385
-enum cudaLaunchMemSyncDomain { 
+cudaExternalSemaphore_t *extSemArray; 
 #line 3386
-cudaLaunchMemSyncDomainDefault, 
+const cudaExternalSemaphoreWaitParams *paramsArray; 
 #line 3387
-cudaLaunchMemSyncDomainRemote
+unsigned numExtSems; 
 #line 3388
-} cudaLaunchMemSyncDomain; 
+}; 
 #endif
-#line 3404 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-typedef 
+#line 3390
+enum cudaGraphConditionalHandleFlags { 
+#line 3391
+cudaGraphCondAssignDefault = 1
+#line 3392
+}; 
+#endif
+#line 3397 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3397
+enum cudaGraphConditionalNodeType { 
+#line 3398
+cudaGraphCondTypeIf, 
+#line 3399
+cudaGraphCondTypeWhile, 
+#line 3400
+cudaGraphCondTypeSwitch
 #line 3401
-struct cudaLaunchMemSyncDomainMap_st { 
-#line 3402
-unsigned char default_; 
-#line 3403
-unsigned char remote; 
-#line 3404
-} cudaLaunchMemSyncDomainMap; 
+}; 
 #endif
-#line 3520 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3406 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-typedef 
-#line 3409
-enum cudaLaunchAttributeID { 
+#line 3406
+struct cudaConditionalNodeParams { 
+#line 3407
+cudaGraphConditionalHandle handle; 
 #line 3410
-cudaLaunchAttributeIgnore, 
+cudaGraphConditionalNodeType type; 
 #line 3411
-cudaLaunchAttributeAccessPolicyWindow, 
+unsigned size; 
 #line 3413
-cudaLaunchAttributeCooperative, 
-#line 3415
-cudaLaunchAttributeSynchronizationPolicy, 
-#line 3416
-cudaLaunchAttributeClusterDimension, 
-#line 3418
-cudaLaunchAttributeClusterSchedulingPolicyPreference, 
-#line 3420
-cudaLaunchAttributeProgrammaticStreamSerialization, 
-#line 3431
-cudaLaunchAttributeProgrammaticEvent, 
-#line 3457
-cudaLaunchAttributePriority, 
-#line 3459
-cudaLaunchAttributeMemSyncDomainMap, 
-#line 3461
-cudaLaunchAttributeMemSyncDomain, 
-#line 3463
-cudaLaunchAttributeLaunchCompletionEvent = 12, 
-#line 3485
-cudaLaunchAttributeDeviceUpdatableKernelNode, 
+cudaGraph_t *phGraph_out; 
+#line 3432
+}; 
+#endif
+#line 3437 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3437
+enum cudaGraphNodeType { 
+#line 3438
+cudaGraphNodeTypeKernel, 
+#line 3439
+cudaGraphNodeTypeMemcpy, 
+#line 3440
+cudaGraphNodeTypeMemset, 
+#line 3441
+cudaGraphNodeTypeHost, 
+#line 3442
+cudaGraphNodeTypeGraph, 
+#line 3443
+cudaGraphNodeTypeEmpty, 
+#line 3444
+cudaGraphNodeTypeWaitEvent, 
+#line 3445
+cudaGraphNodeTypeEventRecord, 
+#line 3446
+cudaGraphNodeTypeExtSemaphoreSignal, 
+#line 3447
+cudaGraphNodeTypeExtSemaphoreWait, 
+#line 3448
+cudaGraphNodeTypeMemAlloc, 
+#line 3449
+cudaGraphNodeTypeMemFree, 
+#line 3450
+cudaGraphNodeTypeConditional = 13, 
+#line 3467
+cudaGraphNodeTypeCount
+#line 3468
+}; 
+#endif
+#line 3473 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3473
+struct cudaChildGraphNodeParams { 
+#line 3474
+cudaGraph_t graph; 
+#line 3476
+}; 
+#endif
+#line 3481 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3481
+struct cudaEventRecordNodeParams { 
+#line 3482
+cudaEvent_t event; 
+#line 3483
+}; 
+#endif
+#line 3488 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3488
+struct cudaEventWaitNodeParams { 
+#line 3489
+cudaEvent_t event; 
+#line 3490
+}; 
+#endif
+#line 3495 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3495
+struct cudaGraphNodeParams { 
+#line 3496
+cudaGraphNodeType type; 
+#line 3497
+int reserved0[3]; 
+#line 3499
+union { 
+#line 3500
+__int64 reserved1[29]; 
+#line 3501
+cudaKernelNodeParamsV2 kernel; 
+#line 3502
+cudaMemcpyNodeParams memcpy; 
+#line 3503
+cudaMemsetParamsV2 memset; 
+#line 3504
+cudaHostNodeParamsV2 host; 
+#line 3505
+cudaChildGraphNodeParams graph; 
+#line 3506
+cudaEventWaitNodeParams eventWait; 
+#line 3507
+cudaEventRecordNodeParams eventRecord; 
+#line 3508
+cudaExternalSemaphoreSignalNodeParamsV2 extSemSignal; 
+#line 3509
+cudaExternalSemaphoreWaitNodeParamsV2 extSemWait; 
+#line 3510
+cudaMemAllocNodeParamsV2 alloc; 
+#line 3511
+cudaMemFreeNodeParams free; 
+#line 3512
+cudaConditionalNodeParams conditional; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
 #line 3513
-cudaLaunchAttributePreferredSharedMemoryCarveout
-#line 3520
-} cudaLaunchAttributeID; 
+}; 
+#line 3515
+__int64 reserved2; 
+#line 3516
+}; 
 #endif
-#line 3597 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3528 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 3525
-union cudaLaunchAttributeValue { 
-#line 3526
-char pad[64]; 
-#line 3527
-cudaAccessPolicyWindow accessPolicyWindow; 
+#line 3521
+enum cudaGraphDependencyType_enum { 
+#line 3522
+cudaGraphDependencyTypeDefault, 
+#line 3523
+cudaGraphDependencyTypeProgrammatic
 #line 3528
-int cooperative; 
-#line 3530
-cudaSynchronizationPolicy syncPolicy; 
-#line 3544
-struct { 
-#line 3545
-unsigned x; 
-#line 3546
-unsigned y; 
-#line 3547
-unsigned z; 
-#line 3548
-} clusterDim; 
-#line 3549
-cudaClusterSchedulingPolicy clusterSchedulingPolicyPreference; 
-#line 3552
-int programmaticStreamSerializationAllowed; 
-#line 3563
-struct { 
-#line 3564
-cudaEvent_t event; 
-#line 3565
-int flags; 
-#line 3566
-int triggerAtBlockStart; 
-#line 3567
-} programmaticEvent; 
-#line 3568
-int priority; 
-#line 3569
-cudaLaunchMemSyncDomainMap memSyncDomainMap; 
-#line 3572
-cudaLaunchMemSyncDomain memSyncDomain; 
-#line 3581
-struct { 
-#line 3582
-cudaEvent_t event; 
-#line 3583
-int flags; 
-#line 3584
-} launchCompletionEvent; 
-#line 3592
-struct { 
-#line 3593
-int deviceUpdatable; 
-#line 3594
-cudaGraphDeviceNode_t devNode; 
-#line 3595
-} deviceUpdatableKernelNode; 
-#line 3596
-unsigned sharedMemCarveout; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
-#line 3597
-} cudaLaunchAttributeValue; 
+} cudaGraphDependencyType; 
 #endif
-#line 3606 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3558 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 3602
-struct cudaLaunchAttribute_st { 
-#line 3603
-cudaLaunchAttributeID id; 
-#line 3604
-char pad[(8) - sizeof(cudaLaunchAttributeID)]; 
-#line 3605
-cudaLaunchAttributeValue val; 
-#line 3606
-} cudaLaunchAttribute; 
+#line 3535
+struct cudaGraphEdgeData_st { 
+#line 3536
+unsigned char from_port; 
+#line 3546
+unsigned char to_port; 
+#line 3553
+unsigned char type; 
+#line 3556
+unsigned char reserved[5]; 
+#line 3558
+} cudaGraphEdgeData; 
 #endif
-#line 3618 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3579 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+typedef struct CUgraphExec_st *cudaGraphExec_t; 
+#line 3584
+#if 0
+#line 3584
+enum cudaGraphExecUpdateResult { 
+#line 3585
+cudaGraphExecUpdateSuccess, 
+#line 3586
+cudaGraphExecUpdateError, 
+#line 3587
+cudaGraphExecUpdateErrorTopologyChanged, 
+#line 3588
+cudaGraphExecUpdateErrorNodeTypeChanged, 
+#line 3589
+cudaGraphExecUpdateErrorFunctionChanged, 
+#line 3590
+cudaGraphExecUpdateErrorParametersChanged, 
+#line 3591
+cudaGraphExecUpdateErrorNotSupported, 
+#line 3592
+cudaGraphExecUpdateErrorUnsupportedFunctionChange, 
+#line 3593
+cudaGraphExecUpdateErrorAttributesChanged
+#line 3594
+}; 
+#endif
+#line 3606 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef 
+#line 3599
+enum cudaGraphInstantiateResult { 
+#line 3600
+cudaGraphInstantiateSuccess, 
+#line 3601
+cudaGraphInstantiateError, 
+#line 3602
+cudaGraphInstantiateInvalidStructure, 
+#line 3603
+cudaGraphInstantiateNodeOperationNotSupported, 
+#line 3604
+cudaGraphInstantiateMultipleDevicesNotSupported, 
+#line 3605
+cudaGraphInstantiateConditionalHandleUnused
+#line 3606
+} cudaGraphInstantiateResult; 
+#endif
+#line 3617 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
 #line 3611
-struct cudaLaunchConfig_st { 
-#line 3612
-dim3 gridDim; 
+struct cudaGraphInstantiateParams_st { 
 #line 3613
-dim3 blockDim; 
+unsigned __int64 flags; 
 #line 3614
-size_t dynamicSmemBytes; 
+cudaStream_t uploadStream; 
 #line 3615
-cudaStream_t stream; 
+cudaGraphNode_t errNode_out; 
 #line 3616
-cudaLaunchAttribute *attrs; 
+cudaGraphInstantiateResult result_out; 
 #line 3617
-unsigned numAttrs; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
-#line 3618
-} cudaLaunchConfig_t; 
+} cudaGraphInstantiateParams; 
 #endif
-#line 3645 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 3639 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
-#line 3645
-enum cudaDeviceNumaConfig { 
-#line 3646
-cudaDeviceNumaConfigNone, 
-#line 3647
-cudaDeviceNumaConfigNumaNode
-#line 3648
+typedef 
+#line 3622
+struct cudaGraphExecUpdateResultInfo_st { 
+#line 3626
+cudaGraphExecUpdateResult result; 
+#line 3633
+cudaGraphNode_t errorNode; 
+#line 3638
+cudaGraphNode_t errorFromNode; 
+#line 3639
+} cudaGraphExecUpdateResultInfo; 
+#endif
+#line 3644 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+typedef struct CUgraphDeviceUpdatableNode_st *cudaGraphDeviceNode_t; 
+#line 3649
+#if 0
+#line 3649
+enum cudaGraphKernelNodeField { 
+#line 3651
+cudaGraphKernelNodeFieldInvalid, 
+#line 3652
+cudaGraphKernelNodeFieldGridDim, 
+#line 3653
+cudaGraphKernelNodeFieldParam, 
+#line 3654
+cudaGraphKernelNodeFieldEnabled
+#line 3655
 }; 
 #endif
-#line 3653 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
-typedef struct cudaAsyncCallbackEntry *cudaAsyncCallbackHandle_t; 
-#line 3655
-struct cudaAsyncCallbackEntry; 
+#line 3660 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3660
+struct cudaGraphKernelNodeUpdate { 
+#line 3661
+cudaGraphDeviceNode_t node; 
 #line 3662
+cudaGraphKernelNodeField field; 
+#line 3663
+union { 
+#line 3668 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+uint3 gridDim; 
+#line 3670 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+struct { 
+#line 3671
+const void *pValue; 
+#line 3672
+size_t offset; 
+#line 3673
+size_t size; 
+#line 3674
+} param; 
+#line 3675
+unsigned isEnabled; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 3676
+} updateData; 
+#line 3677
+}; 
+#endif
+#line 3683 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3683
+enum cudaGetDriverEntryPointFlags { 
+#line 3684
+cudaEnableDefault, 
+#line 3685
+cudaEnableLegacyStream, 
+#line 3686
+cudaEnablePerThreadDefaultStream
+#line 3687
+}; 
+#endif
+#line 3692 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3692
+enum cudaDriverEntryPointQueryResult { 
+#line 3693
+cudaDriverEntryPointSuccess, 
+#line 3694
+cudaDriverEntryPointSymbolNotFound, 
+#line 3695
+cudaDriverEntryPointVersionNotSufficent
+#line 3696
+}; 
+#endif
+#line 3701 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3701
+enum cudaGraphDebugDotFlags { 
+#line 3702
+cudaGraphDebugDotFlagsVerbose = (1 << 0), 
+#line 3703
+cudaGraphDebugDotFlagsKernelNodeParams = (1 << 2), 
+#line 3704
+cudaGraphDebugDotFlagsMemcpyNodeParams = (1 << 3), 
+#line 3705
+cudaGraphDebugDotFlagsMemsetNodeParams = (1 << 4), 
+#line 3706
+cudaGraphDebugDotFlagsHostNodeParams = (1 << 5), 
+#line 3707
+cudaGraphDebugDotFlagsEventNodeParams = (1 << 6), 
+#line 3708
+cudaGraphDebugDotFlagsExtSemasSignalNodeParams = (1 << 7), 
+#line 3709
+cudaGraphDebugDotFlagsExtSemasWaitNodeParams = (1 << 8), 
+#line 3710
+cudaGraphDebugDotFlagsKernelNodeAttributes = (1 << 9), 
+#line 3711
+cudaGraphDebugDotFlagsHandles = (1 << 10), 
+#line 3712
+cudaGraphDebugDotFlagsConditionalNodeParams = (1 << 15)
+#line 3713
+}; 
+#endif
+#line 3718 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 3718
+enum cudaGraphInstantiateFlags { 
+#line 3719
+cudaGraphInstantiateFlagAutoFreeOnLaunch = 1, 
+#line 3720
+cudaGraphInstantiateFlagUpload, 
+#line 3723
+cudaGraphInstantiateFlagDeviceLaunch = 4, 
+#line 3726
+cudaGraphInstantiateFlagUseNodePriority = 8
+#line 3728
+}; 
+#endif
+#line 3749 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 3660
+#line 3746
+enum cudaLaunchMemSyncDomain { 
+#line 3747
+cudaLaunchMemSyncDomainDefault, 
+#line 3748
+cudaLaunchMemSyncDomainRemote
+#line 3749
+} cudaLaunchMemSyncDomain; 
+#endif
+#line 3765 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef 
+#line 3762
+struct cudaLaunchMemSyncDomainMap_st { 
+#line 3763
+unsigned char default_; 
+#line 3764
+unsigned char remote; 
+#line 3765
+} cudaLaunchMemSyncDomainMap; 
+#endif
+#line 3917 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef 
+#line 3770
+enum cudaLaunchAttributeID { 
+#line 3771
+cudaLaunchAttributeIgnore, 
+#line 3772
+cudaLaunchAttributeAccessPolicyWindow, 
+#line 3774
+cudaLaunchAttributeCooperative, 
+#line 3776
+cudaLaunchAttributeSynchronizationPolicy, 
+#line 3777
+cudaLaunchAttributeClusterDimension, 
+#line 3779
+cudaLaunchAttributeClusterSchedulingPolicyPreference, 
+#line 3781
+cudaLaunchAttributeProgrammaticStreamSerialization, 
+#line 3792
+cudaLaunchAttributeProgrammaticEvent, 
+#line 3818
+cudaLaunchAttributePriority, 
+#line 3820
+cudaLaunchAttributeMemSyncDomainMap, 
+#line 3822
+cudaLaunchAttributeMemSyncDomain, 
+#line 3824
+cudaLaunchAttributePreferredClusterDimension, 
+#line 3860
+cudaLaunchAttributeLaunchCompletionEvent, 
+#line 3882
+cudaLaunchAttributeDeviceUpdatableKernelNode, 
+#line 3910
+cudaLaunchAttributePreferredSharedMemoryCarveout
+#line 3917
+} cudaLaunchAttributeID; 
+#endif
+#line 4013 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef 
+#line 3922
+union cudaLaunchAttributeValue { 
+#line 3923
+char pad[64]; 
+#line 3924
+cudaAccessPolicyWindow accessPolicyWindow; 
+#line 3925
+int cooperative; 
+#line 3927
+cudaSynchronizationPolicy syncPolicy; 
+#line 3941
+struct { 
+#line 3942
+unsigned x; 
+#line 3943
+unsigned y; 
+#line 3944
+unsigned z; 
+#line 3945
+} clusterDim; 
+#line 3946
+cudaClusterSchedulingPolicy clusterSchedulingPolicyPreference; 
+#line 3949
+int programmaticStreamSerializationAllowed; 
+#line 3960
+struct { 
+#line 3961
+cudaEvent_t event; 
+#line 3962
+int flags; 
+#line 3963
+int triggerAtBlockStart; 
+#line 3964
+} programmaticEvent; 
+#line 3965
+int priority; 
+#line 3966
+cudaLaunchMemSyncDomainMap memSyncDomainMap; 
+#line 3969
+cudaLaunchMemSyncDomain memSyncDomain; 
+#line 3984
+struct { 
+#line 3985
+unsigned x; 
+#line 3986
+unsigned y; 
+#line 3987
+unsigned z; 
+#line 3988
+} preferredClusterDim; 
+#line 3997
+struct { 
+#line 3998
+cudaEvent_t event; 
+#line 3999
+int flags; 
+#line 4000
+} launchCompletionEvent; 
+#line 4008
+struct { 
+#line 4009
+int deviceUpdatable; 
+#line 4010
+cudaGraphDeviceNode_t devNode; 
+#line 4011
+} deviceUpdatableKernelNode; 
+#line 4012
+unsigned sharedMemCarveout; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 4013
+} cudaLaunchAttributeValue; 
+#endif
+#line 4022 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef 
+#line 4018
+struct cudaLaunchAttribute_st { 
+#line 4019
+cudaLaunchAttributeID id; 
+#line 4020
+char pad[(8) - sizeof(cudaLaunchAttributeID)]; 
+#line 4021
+cudaLaunchAttributeValue val; 
+#line 4022
+} cudaLaunchAttribute; 
+#endif
+#line 4034 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+typedef 
+#line 4027
+struct cudaLaunchConfig_st { 
+#line 4028
+dim3 gridDim; 
+#line 4029
+dim3 blockDim; 
+#line 4030
+size_t dynamicSmemBytes; 
+#line 4031
+cudaStream_t stream; 
+#line 4032
+cudaLaunchAttribute *attrs; 
+#line 4033
+unsigned numAttrs; __pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)__pad__(volatile char:8;)
+#line 4034
+} cudaLaunchConfig_t; 
+#endif
+#line 4061 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+#if 0
+#line 4061
+enum cudaDeviceNumaConfig { 
+#line 4062
+cudaDeviceNumaConfigNone, 
+#line 4063
+cudaDeviceNumaConfigNumaNode
+#line 4064
+}; 
+#endif
+#line 4069 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
+typedef struct cudaAsyncCallbackEntry *cudaAsyncCallbackHandle_t; 
+#line 4071
+struct cudaAsyncCallbackEntry; 
+#line 4078
+#if 0
+typedef 
+#line 4076
 enum cudaAsyncNotificationType_enum { 
-#line 3661
+#line 4077
 cudaAsyncNotificationTypeOverBudget = 1
-#line 3662
+#line 4078
 } cudaAsyncNotificationType; 
 #endif
-#line 3675 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 4091 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 #if 0
 typedef 
-#line 3667
+#line 4083
 struct cudaAsyncNotificationInfo { 
-#line 3669
+#line 4085
 cudaAsyncNotificationType type; 
-#line 3670
+#line 4086
 union { 
-#line 3671
+#line 4087
 struct { 
-#line 3672
+#line 4088
 unsigned __int64 bytesOverBudget; 
-#line 3673
+#line 4089
 } overBudget; 
-#line 3674
+#line 4090
 } info; 
-#line 3675
+#line 4091
 } cudaAsyncNotificationInfo_t; 
 #endif
-#line 3677 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_types.h"
+#line 4093 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_types.h"
 typedef void (*cudaAsyncCallback)(cudaAsyncNotificationInfo_t *, void *, cudaAsyncCallbackHandle_t); 
-#line 86 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_types.h"
+#line 86 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_types.h"
 #if 0
 #line 86
 enum cudaSurfaceBoundaryMode { 
@@ -4240,7 +4480,7 @@ cudaBoundaryModeTrap
 #line 91
 }; 
 #endif
-#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_types.h"
+#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_types.h"
 #if 0
 #line 96
 enum cudaSurfaceFormatMode { 
@@ -4251,13 +4491,13 @@ cudaFormatModeAuto
 #line 100
 }; 
 #endif
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_types.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_types.h"
 #if 0
 typedef unsigned __int64 
 #line 105
 cudaSurfaceObject_t; 
 #endif
-#line 86 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_types.h"
+#line 86 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_types.h"
 #if 0
 #line 86
 enum cudaTextureAddressMode { 
@@ -4272,7 +4512,7 @@ cudaAddressModeBorder
 #line 92
 }; 
 #endif
-#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_types.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_types.h"
 #if 0
 #line 97
 enum cudaTextureFilterMode { 
@@ -4283,7 +4523,7 @@ cudaFilterModeLinear
 #line 101
 }; 
 #endif
-#line 106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_types.h"
+#line 106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_types.h"
 #if 0
 #line 106
 enum cudaTextureReadMode { 
@@ -4294,7 +4534,7 @@ cudaReadModeNormalizedFloat
 #line 110
 }; 
 #endif
-#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_types.h"
+#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_types.h"
 #if 0
 #line 115
 struct cudaTextureDesc { 
@@ -4327,13 +4567,13 @@ int seamlessCubemap;
 #line 169
 }; 
 #endif
-#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_types.h"
+#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_types.h"
 #if 0
 typedef unsigned __int64 
 #line 174
 cudaTextureObject_t; 
 #endif
-#line 89 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\library_types.h"
+#line 94 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\library_types.h"
 typedef 
 #line 57
 enum cudaDataType_t { 
@@ -4396,20 +4636,30 @@ CUDA_C_64U,
 #line 87
 CUDA_R_8F_E4M3, 
 #line 88
-CUDA_R_8F_E5M2
+CUDA_R_8F_UE4M3 = CUDA_R_8F_E4M3, 
 #line 89
-} cudaDataType; 
-#line 97
-typedef 
+CUDA_R_8F_E5M2, 
+#line 90
+CUDA_R_8F_UE8M0, 
+#line 91
+CUDA_R_6F_E2M3, 
 #line 92
-enum libraryPropertyType_t { 
+CUDA_R_6F_E3M2, 
+#line 93
+CUDA_R_4F_E2M1
 #line 94
-MAJOR_VERSION, 
-#line 95
-MINOR_VERSION, 
-#line 96
-PATCH_LEVEL
+} cudaDataType; 
+#line 102
+typedef 
 #line 97
+enum libraryPropertyType_t { 
+#line 99
+MAJOR_VERSION, 
+#line 100
+MINOR_VERSION, 
+#line 101
+PATCH_LEVEL
+#line 102
 } libraryPropertyType; 
 #line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_malloc.h"
 #pragma warning(push)
@@ -5132,7 +5382,7 @@ _onexit_t __cdecl onexit(_onexit_t _Func);
 }__pragma( pack ( pop )) 
 #line 1361
 #pragma warning(pop)
-#line 184 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 184 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 extern "C" {
 #line 191
 extern cudaError_t __stdcall __cudaDeviceSynchronizeDeprecationAvoidance(); 
@@ -5229,7 +5479,7 @@ extern cudaError_t __stdcall cudaGraphLaunch(cudaGraphExec_t graphExec, cudaStre
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 311 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 311 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static inline cudaGraphExec_t __stdcall cudaGetCurrentGraphExec() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -5244,7 +5494,7 @@ return (cudaGraphExec_t)current_graph_exec;
 #line 316
 } 
 #endif
-#line 346 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 346 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 extern cudaError_t __stdcall cudaGraphKernelNodeSetParam(cudaGraphDeviceNode_t node, size_t offset, const void * value, size_t size); 
 #line 374
 extern cudaError_t __stdcall cudaGraphKernelNodeSetEnabled(cudaGraphDeviceNode_t node, bool enable); 
@@ -5270,7 +5520,7 @@ __asm griddepcontrol.launch_dependents;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 464 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 464 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static inline void __stdcall cudaGridDependencySynchronize() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -5281,1405 +5531,1441 @@ __pragma(warning(pop))
 __asm griddepcontrol.wait;
 } 
 #endif
-#line 476 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 479 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 extern void __stdcall cudaGraphSetConditional(cudaGraphConditionalHandle handle, unsigned value); 
-#line 479
-extern unsigned __int64 __stdcall cudaCGGetIntrinsicHandle(cudaCGScope scope); 
-#line 480
-extern cudaError_t __stdcall cudaCGSynchronize(unsigned __int64 handle, unsigned flags); 
-#line 481
-extern cudaError_t __stdcall cudaCGSynchronizeGrid(unsigned __int64 handle, unsigned flags); 
 #line 482
-extern cudaError_t __stdcall cudaCGGetSize(unsigned * numThreads, unsigned * numGrids, unsigned __int64 handle); 
+extern unsigned __int64 __stdcall cudaCGGetIntrinsicHandle(cudaCGScope scope); 
 #line 483
+extern cudaError_t __stdcall cudaCGSynchronize(unsigned __int64 handle, unsigned flags); 
+#line 484
+extern cudaError_t __stdcall cudaCGSynchronizeGrid(unsigned __int64 handle, unsigned flags); 
+#line 485
+extern cudaError_t __stdcall cudaCGGetSize(unsigned * numThreads, unsigned * numGrids, unsigned __int64 handle); 
+#line 486
 extern cudaError_t __stdcall cudaCGGetRank(unsigned * threadRank, unsigned * gridRank, unsigned __int64 handle); 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 711
+#line 714
 static __inline void *__stdcall cudaGetParameterBuffer(size_t alignment, size_t size) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)alignment;(void)size;::exit(___);}
 #if 0
-#line 712
+#line 715
 { 
-#line 713
+#line 716
 return __cudaCDP2GetParameterBuffer(alignment, size); 
-#line 714
+#line 717
 } 
 #endif
 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 721 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 724 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static __inline void *__stdcall cudaGetParameterBufferV2(void *func, dim3 gridDimension, dim3 blockDimension, unsigned sharedMemSize) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)func;(void)gridDimension;(void)blockDimension;(void)sharedMemSize;::exit(___);}
 #if 0
-#line 722
+#line 725
 { 
-#line 723
+#line 726
 return __cudaCDP2GetParameterBufferV2(func, gridDimension, blockDimension, sharedMemSize); 
-#line 724
+#line 727
 } 
 #endif
 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 731 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 734 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static __inline cudaError_t __stdcall cudaLaunchDevice_ptsz(void *func, void *parameterBuffer, dim3 gridDimension, dim3 blockDimension, unsigned sharedMemSize, cudaStream_t stream) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)func;(void)parameterBuffer;(void)gridDimension;(void)blockDimension;(void)sharedMemSize;(void)stream;::exit(___);}
 #if 0
-#line 732
+#line 735
 { 
-#line 733
+#line 736
 return __cudaCDP2LaunchDevice_ptsz(func, parameterBuffer, gridDimension, blockDimension, sharedMemSize, stream); 
-#line 734
+#line 737
 } 
 #endif
 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 736 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 739 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static __inline cudaError_t __stdcall cudaLaunchDeviceV2_ptsz(void *parameterBuffer, cudaStream_t stream) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)parameterBuffer;(void)stream;::exit(___);}
 #if 0
-#line 737
+#line 740
 { 
-#line 738
+#line 741
 return __cudaCDP2LaunchDeviceV2_ptsz(parameterBuffer, stream); 
-#line 739
+#line 742
 } 
 #endif
 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 797 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 800 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static __inline cudaError_t __stdcall cudaLaunchDevice(void *func, void *parameterBuffer, dim3 gridDimension, dim3 blockDimension, unsigned sharedMemSize, cudaStream_t stream) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)func;(void)parameterBuffer;(void)gridDimension;(void)blockDimension;(void)sharedMemSize;(void)stream;::exit(___);}
 #if 0
-#line 798
+#line 801
 { 
-#line 799
+#line 802
 return __cudaCDP2LaunchDevice(func, parameterBuffer, gridDimension, blockDimension, sharedMemSize, stream); 
-#line 800
+#line 803
 } 
 #endif
 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 802 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 805 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 static __inline cudaError_t __stdcall cudaLaunchDeviceV2(void *parameterBuffer, cudaStream_t stream) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)parameterBuffer;(void)stream;::exit(___);}
 #if 0
-#line 803
+#line 806
 { 
-#line 804
+#line 807
 return __cudaCDP2LaunchDeviceV2(parameterBuffer, stream); 
-#line 805
+#line 808
 } 
 #endif
-#line 859 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_device_runtime_api.h"
+#line 862 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_device_runtime_api.h"
 }
-#line 865
-template< class T> static __inline cudaError_t cudaMalloc(T ** devPtr, size_t size); 
-#line 866
-template< class T> static __inline cudaError_t cudaFuncGetAttributes(cudaFuncAttributes * attr, T * entry); 
-#line 867
-template< class T> static __inline cudaError_t cudaOccupancyMaxActiveBlocksPerMultiprocessor(int * numBlocks, T func, int blockSize, size_t dynamicSmemSize); 
 #line 868
+template< class T> static __inline cudaError_t cudaMalloc(T ** devPtr, size_t size); 
+#line 869
+template< class T> static __inline cudaError_t cudaFuncGetAttributes(cudaFuncAttributes * attr, T * entry); 
+#line 870
+template< class T> static __inline cudaError_t cudaOccupancyMaxActiveBlocksPerMultiprocessor(int * numBlocks, T func, int blockSize, size_t dynamicSmemSize); 
+#line 871
 template< class T> static __inline cudaError_t cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(int * numBlocks, T func, int blockSize, size_t dynamicSmemSize, unsigned flags); 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 898
+#line 901
 template< class T> static __inline ::cudaError_t __stdcall 
-#line 899
+#line 902
 cudaGraphKernelNodeSetParam(::cudaGraphDeviceNode_t node, ::size_t offset, const T &value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)node;(void)offset;(void)value;::exit(___);}
 #if 0
-#line 900
+#line 903
 { 
-#line 901
+#line 904
 return cudaGraphKernelNodeSetParam(node, offset, &value, sizeof(T)); 
-#line 902
+#line 905
 } 
 #endif
-#line 284 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
+#line 287 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
 extern "C" {
-#line 331 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
+#line 334 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
 extern cudaError_t __stdcall cudaDeviceReset(); 
-#line 353
-extern cudaError_t __stdcall cudaDeviceSynchronize(); 
-#line 439
-extern cudaError_t __stdcall cudaDeviceSetLimit(cudaLimit limit, size_t value); 
-#line 475
-extern cudaError_t __stdcall cudaDeviceGetLimit(size_t * pValue, cudaLimit limit); 
-#line 498
-extern cudaError_t __stdcall cudaDeviceGetTexture1DLinearMaxWidth(size_t * maxWidthInElements, const cudaChannelFormatDesc * fmtDesc, int device); 
-#line 532 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaDeviceGetCacheConfig(cudaFuncCache * pCacheConfig); 
-#line 569
-extern cudaError_t __stdcall cudaDeviceGetStreamPriorityRange(int * leastPriority, int * greatestPriority); 
-#line 613
-extern cudaError_t __stdcall cudaDeviceSetCacheConfig(cudaFuncCache cacheConfig); 
-#line 640
-extern cudaError_t __stdcall cudaDeviceGetByPCIBusId(int * device, const char * pciBusId); 
-#line 670
-extern cudaError_t __stdcall cudaDeviceGetPCIBusId(char * pciBusId, int len, int device); 
-#line 721
-extern cudaError_t __stdcall cudaIpcGetEventHandle(cudaIpcEventHandle_t * handle, cudaEvent_t event); 
-#line 765
-extern cudaError_t __stdcall cudaIpcOpenEventHandle(cudaEvent_t * event, cudaIpcEventHandle_t handle); 
-#line 810
-extern cudaError_t __stdcall cudaIpcGetMemHandle(cudaIpcMemHandle_t * handle, void * devPtr); 
-#line 877
-extern cudaError_t __stdcall cudaIpcOpenMemHandle(void ** devPtr, cudaIpcMemHandle_t handle, unsigned flags); 
-#line 916
-extern cudaError_t __stdcall cudaIpcCloseMemHandle(void * devPtr); 
-#line 948
-extern cudaError_t __stdcall cudaDeviceFlushGPUDirectRDMAWrites(cudaFlushGPUDirectRDMAWritesTarget target, cudaFlushGPUDirectRDMAWritesScope scope); 
-#line 986 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaDeviceRegisterAsyncNotification(int device, cudaAsyncCallback callbackFunc, void * userData, cudaAsyncCallbackHandle_t * callback); 
-#line 1009
-extern cudaError_t __stdcall cudaDeviceUnregisterAsyncNotification(int device, cudaAsyncCallbackHandle_t callback); 
-#line 1056
-__declspec(deprecated) extern cudaError_t __stdcall cudaDeviceGetSharedMemConfig(cudaSharedMemConfig * pConfig); 
-#line 1102
-__declspec(deprecated) extern cudaError_t __stdcall cudaDeviceSetSharedMemConfig(cudaSharedMemConfig config); 
-#line 1143
-__declspec(deprecated) extern cudaError_t __stdcall cudaThreadExit(); 
-#line 1169
-__declspec(deprecated) extern cudaError_t __stdcall cudaThreadSynchronize(); 
-#line 1218
-__declspec(deprecated) extern cudaError_t __stdcall cudaThreadSetLimit(cudaLimit limit, size_t value); 
-#line 1251
-__declspec(deprecated) extern cudaError_t __stdcall cudaThreadGetLimit(size_t * pValue, cudaLimit limit); 
-#line 1287
-__declspec(deprecated) extern cudaError_t __stdcall cudaThreadGetCacheConfig(cudaFuncCache * pCacheConfig); 
-#line 1334
-__declspec(deprecated) extern cudaError_t __stdcall cudaThreadSetCacheConfig(cudaFuncCache cacheConfig); 
-#line 1399
-extern cudaError_t __stdcall cudaGetLastError(); 
-#line 1450
-extern cudaError_t __stdcall cudaPeekAtLastError(); 
-#line 1466
-extern const char *__stdcall cudaGetErrorName(cudaError_t error); 
-#line 1482
-extern const char *__stdcall cudaGetErrorString(cudaError_t error); 
-#line 1511
-extern cudaError_t __stdcall cudaGetDeviceCount(int * count); 
-#line 1816
-extern cudaError_t __stdcall cudaGetDeviceProperties_v2(cudaDeviceProp * prop, int device); 
-#line 2020
-extern cudaError_t __stdcall cudaDeviceGetAttribute(int * value, cudaDeviceAttr attr, int device); 
-#line 2038
-extern cudaError_t __stdcall cudaDeviceGetDefaultMemPool(cudaMemPool_t * memPool, int device); 
-#line 2062
-extern cudaError_t __stdcall cudaDeviceSetMemPool(int device, cudaMemPool_t memPool); 
-#line 2082
-extern cudaError_t __stdcall cudaDeviceGetMemPool(cudaMemPool_t * memPool, int device); 
-#line 2144
-extern cudaError_t __stdcall cudaDeviceGetNvSciSyncAttributes(void * nvSciSyncAttrList, int device, int flags); 
-#line 2184
-extern cudaError_t __stdcall cudaDeviceGetP2PAttribute(int * value, cudaDeviceP2PAttr attr, int srcDevice, int dstDevice); 
-#line 2206
-extern cudaError_t __stdcall cudaChooseDevice(int * device, const cudaDeviceProp * prop); 
-#line 2235
-extern cudaError_t __stdcall cudaInitDevice(int device, unsigned deviceFlags, unsigned flags); 
-#line 2281
-extern cudaError_t __stdcall cudaSetDevice(int device); 
-#line 2303
-extern cudaError_t __stdcall cudaGetDevice(int * device); 
-#line 2334
-extern cudaError_t __stdcall cudaSetValidDevices(int * device_arr, int len); 
-#line 2404
-extern cudaError_t __stdcall cudaSetDeviceFlags(unsigned flags); 
-#line 2449
-extern cudaError_t __stdcall cudaGetDeviceFlags(unsigned * flags); 
-#line 2492
-extern cudaError_t __stdcall cudaStreamCreate(cudaStream_t * pStream); 
-#line 2527
-extern cudaError_t __stdcall cudaStreamCreateWithFlags(cudaStream_t * pStream, unsigned flags); 
-#line 2579
-extern cudaError_t __stdcall cudaStreamCreateWithPriority(cudaStream_t * pStream, unsigned flags, int priority); 
-#line 2606
-extern cudaError_t __stdcall cudaStreamGetPriority(cudaStream_t hStream, int * priority); 
-#line 2631
-extern cudaError_t __stdcall cudaStreamGetFlags(cudaStream_t hStream, unsigned * flags); 
-#line 2668
-extern cudaError_t __stdcall cudaStreamGetId(cudaStream_t hStream, unsigned __int64 * streamId); 
-#line 2683
-extern cudaError_t __stdcall cudaCtxResetPersistingL2Cache(); 
-#line 2703
-extern cudaError_t __stdcall cudaStreamCopyAttributes(cudaStream_t dst, cudaStream_t src); 
-#line 2724
-extern cudaError_t __stdcall cudaStreamGetAttribute(cudaStream_t hStream, cudaLaunchAttributeID attr, cudaLaunchAttributeValue * value_out); 
-#line 2748
-extern cudaError_t __stdcall cudaStreamSetAttribute(cudaStream_t hStream, cudaLaunchAttributeID attr, const cudaLaunchAttributeValue * value); 
-#line 2782
-extern cudaError_t __stdcall cudaStreamDestroy(cudaStream_t stream); 
-#line 2813
-extern cudaError_t __stdcall cudaStreamWaitEvent(cudaStream_t stream, cudaEvent_t event, unsigned flags = 0); 
-#line 2821
-typedef void (__stdcall *cudaStreamCallback_t)(cudaStream_t stream, cudaError_t status, void * userData); 
-#line 2888
-extern cudaError_t __stdcall cudaStreamAddCallback(cudaStream_t stream, cudaStreamCallback_t callback, void * userData, unsigned flags); 
-#line 2912
-extern cudaError_t __stdcall cudaStreamSynchronize(cudaStream_t stream); 
-#line 2937
-extern cudaError_t __stdcall cudaStreamQuery(cudaStream_t stream); 
-#line 3021
-extern cudaError_t __stdcall cudaStreamAttachMemAsync(cudaStream_t stream, void * devPtr, size_t length = 0, unsigned flags = 4); 
-#line 3060 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaStreamBeginCapture(cudaStream_t stream, cudaStreamCaptureMode mode); 
-#line 3101
-extern cudaError_t __stdcall cudaStreamBeginCaptureToGraph(cudaStream_t stream, cudaGraph_t graph, const cudaGraphNode_t * dependencies, const cudaGraphEdgeData * dependencyData, size_t numDependencies, cudaStreamCaptureMode mode); 
-#line 3152
-extern cudaError_t __stdcall cudaThreadExchangeStreamCaptureMode(cudaStreamCaptureMode * mode); 
-#line 3181
-extern cudaError_t __stdcall cudaStreamEndCapture(cudaStream_t stream, cudaGraph_t * pGraph); 
-#line 3219
-extern cudaError_t __stdcall cudaStreamIsCapturing(cudaStream_t stream, cudaStreamCaptureStatus * pCaptureStatus); 
-#line 3269
-extern cudaError_t __stdcall cudaStreamGetCaptureInfo_v2(cudaStream_t stream, cudaStreamCaptureStatus * captureStatus_out, unsigned __int64 * id_out = 0, cudaGraph_t * graph_out = 0, const cudaGraphNode_t ** dependencies_out = 0, size_t * numDependencies_out = 0); 
-#line 3328
-extern cudaError_t __stdcall cudaStreamGetCaptureInfo_v3(cudaStream_t stream, cudaStreamCaptureStatus * captureStatus_out, unsigned __int64 * id_out = 0, cudaGraph_t * graph_out = 0, const cudaGraphNode_t ** dependencies_out = 0, const cudaGraphEdgeData ** edgeData_out = 0, size_t * numDependencies_out = 0); 
-#line 3368
-extern cudaError_t __stdcall cudaStreamUpdateCaptureDependencies(cudaStream_t stream, cudaGraphNode_t * dependencies, size_t numDependencies, unsigned flags = 0); 
-#line 3403
-extern cudaError_t __stdcall cudaStreamUpdateCaptureDependencies_v2(cudaStream_t stream, cudaGraphNode_t * dependencies, const cudaGraphEdgeData * dependencyData, size_t numDependencies, unsigned flags = 0); 
-#line 3440
-extern cudaError_t __stdcall cudaEventCreate(cudaEvent_t * event); 
-#line 3477
-extern cudaError_t __stdcall cudaEventCreateWithFlags(cudaEvent_t * event, unsigned flags); 
-#line 3518
-extern cudaError_t __stdcall cudaEventRecord(cudaEvent_t event, cudaStream_t stream = 0); 
-#line 3566
-extern cudaError_t __stdcall cudaEventRecordWithFlags(cudaEvent_t event, cudaStream_t stream = 0, unsigned flags = 0); 
-#line 3599 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaEventQuery(cudaEvent_t event); 
-#line 3630
-extern cudaError_t __stdcall cudaEventSynchronize(cudaEvent_t event); 
-#line 3660
-extern cudaError_t __stdcall cudaEventDestroy(cudaEvent_t event); 
-#line 3705
-extern cudaError_t __stdcall cudaEventElapsedTime(float * ms, cudaEvent_t start, cudaEvent_t end); 
-#line 3886
-extern cudaError_t __stdcall cudaImportExternalMemory(cudaExternalMemory_t * extMem_out, const cudaExternalMemoryHandleDesc * memHandleDesc); 
-#line 3941
-extern cudaError_t __stdcall cudaExternalMemoryGetMappedBuffer(void ** devPtr, cudaExternalMemory_t extMem, const cudaExternalMemoryBufferDesc * bufferDesc); 
-#line 4001
-extern cudaError_t __stdcall cudaExternalMemoryGetMappedMipmappedArray(cudaMipmappedArray_t * mipmap, cudaExternalMemory_t extMem, const cudaExternalMemoryMipmappedArrayDesc * mipmapDesc); 
-#line 4025
-extern cudaError_t __stdcall cudaDestroyExternalMemory(cudaExternalMemory_t extMem); 
-#line 4179
-extern cudaError_t __stdcall cudaImportExternalSemaphore(cudaExternalSemaphore_t * extSem_out, const cudaExternalSemaphoreHandleDesc * semHandleDesc); 
-#line 4262
-extern cudaError_t __stdcall cudaSignalExternalSemaphoresAsync_v2(const cudaExternalSemaphore_t * extSemArray, const cudaExternalSemaphoreSignalParams * paramsArray, unsigned numExtSems, cudaStream_t stream = 0); 
-#line 4338
-extern cudaError_t __stdcall cudaWaitExternalSemaphoresAsync_v2(const cudaExternalSemaphore_t * extSemArray, const cudaExternalSemaphoreWaitParams * paramsArray, unsigned numExtSems, cudaStream_t stream = 0); 
-#line 4361
-extern cudaError_t __stdcall cudaDestroyExternalSemaphore(cudaExternalSemaphore_t extSem); 
-#line 4428
-extern cudaError_t __stdcall cudaLaunchKernel(const void * func, dim3 gridDim, dim3 blockDim, void ** args, size_t sharedMem, cudaStream_t stream); 
-#line 4490
-extern cudaError_t __stdcall cudaLaunchKernelExC(const cudaLaunchConfig_t * config, const void * func, void ** args); 
-#line 4547
-extern cudaError_t __stdcall cudaLaunchCooperativeKernel(const void * func, dim3 gridDim, dim3 blockDim, void ** args, size_t sharedMem, cudaStream_t stream); 
-#line 4648
-__declspec(deprecated) extern cudaError_t __stdcall cudaLaunchCooperativeKernelMultiDevice(cudaLaunchParams * launchParamsList, unsigned numDevices, unsigned flags = 0); 
-#line 4693
-extern cudaError_t __stdcall cudaFuncSetCacheConfig(const void * func, cudaFuncCache cacheConfig); 
-#line 4727
-extern cudaError_t __stdcall cudaFuncGetAttributes(cudaFuncAttributes * attr, const void * func); 
-#line 4785
-extern cudaError_t __stdcall cudaFuncSetAttribute(const void * func, cudaFuncAttribute attr, int value); 
-#line 4809
-extern cudaError_t __stdcall cudaFuncGetName(const char ** name, const void * func); 
-#line 4831
-extern cudaError_t __stdcall cudaFuncGetParamInfo(const void * func, size_t paramIndex, size_t * paramOffset, size_t * paramSize); 
-#line 4855
-__declspec(deprecated) extern cudaError_t __stdcall cudaSetDoubleForDevice(double * d); 
-#line 4879
-__declspec(deprecated) extern cudaError_t __stdcall cudaSetDoubleForHost(double * d); 
-#line 4945
-extern cudaError_t __stdcall cudaLaunchHostFunc(cudaStream_t stream, cudaHostFn_t fn, void * userData); 
-#line 5019
-__declspec(deprecated) extern cudaError_t __stdcall cudaFuncSetSharedMemConfig(const void * func, cudaSharedMemConfig config); 
-#line 5075
-extern cudaError_t __stdcall cudaOccupancyMaxActiveBlocksPerMultiprocessor(int * numBlocks, const void * func, int blockSize, size_t dynamicSMemSize); 
-#line 5104
-extern cudaError_t __stdcall cudaOccupancyAvailableDynamicSMemPerBlock(size_t * dynamicSmemSize, const void * func, int numBlocks, int blockSize); 
-#line 5149
-extern cudaError_t __stdcall cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(int * numBlocks, const void * func, int blockSize, size_t dynamicSMemSize, unsigned flags); 
-#line 5184
-extern cudaError_t __stdcall cudaOccupancyMaxPotentialClusterSize(int * clusterSize, const void * func, const cudaLaunchConfig_t * launchConfig); 
-#line 5223
-extern cudaError_t __stdcall cudaOccupancyMaxActiveClusters(int * numClusters, const void * func, const cudaLaunchConfig_t * launchConfig); 
-#line 5343
-extern cudaError_t __stdcall cudaMallocManaged(void ** devPtr, size_t size, unsigned flags = 1); 
-#line 5376 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaMalloc(void ** devPtr, size_t size); 
-#line 5413
-extern cudaError_t __stdcall cudaMallocHost(void ** ptr, size_t size); 
-#line 5456
-extern cudaError_t __stdcall cudaMallocPitch(void ** devPtr, size_t * pitch, size_t width, size_t height); 
-#line 5508
-extern cudaError_t __stdcall cudaMallocArray(cudaArray_t * array, const cudaChannelFormatDesc * desc, size_t width, size_t height = 0, unsigned flags = 0); 
-#line 5547
-extern cudaError_t __stdcall cudaFree(void * devPtr); 
-#line 5570
-extern cudaError_t __stdcall cudaFreeHost(void * ptr); 
-#line 5593
-extern cudaError_t __stdcall cudaFreeArray(cudaArray_t array); 
-#line 5616
-extern cudaError_t __stdcall cudaFreeMipmappedArray(cudaMipmappedArray_t mipmappedArray); 
-#line 5682
-extern cudaError_t __stdcall cudaHostAlloc(void ** pHost, size_t size, unsigned flags); 
-#line 5779
-extern cudaError_t __stdcall cudaHostRegister(void * ptr, size_t size, unsigned flags); 
-#line 5802
-extern cudaError_t __stdcall cudaHostUnregister(void * ptr); 
-#line 5847
-extern cudaError_t __stdcall cudaHostGetDevicePointer(void ** pDevice, void * pHost, unsigned flags); 
-#line 5869
-extern cudaError_t __stdcall cudaHostGetFlags(unsigned * pFlags, void * pHost); 
-#line 5908
-extern cudaError_t __stdcall cudaMalloc3D(cudaPitchedPtr * pitchedDevPtr, cudaExtent extent); 
-#line 6053
-extern cudaError_t __stdcall cudaMalloc3DArray(cudaArray_t * array, const cudaChannelFormatDesc * desc, cudaExtent extent, unsigned flags = 0); 
-#line 6198
-extern cudaError_t __stdcall cudaMallocMipmappedArray(cudaMipmappedArray_t * mipmappedArray, const cudaChannelFormatDesc * desc, cudaExtent extent, unsigned numLevels, unsigned flags = 0); 
-#line 6231
-extern cudaError_t __stdcall cudaGetMipmappedArrayLevel(cudaArray_t * levelArray, cudaMipmappedArray_const_t mipmappedArray, unsigned level); 
-#line 6336
-extern cudaError_t __stdcall cudaMemcpy3D(const cudaMemcpy3DParms * p); 
-#line 6368
-extern cudaError_t __stdcall cudaMemcpy3DPeer(const cudaMemcpy3DPeerParms * p); 
-#line 6486
-extern cudaError_t __stdcall cudaMemcpy3DAsync(const cudaMemcpy3DParms * p, cudaStream_t stream = 0); 
-#line 6513
-extern cudaError_t __stdcall cudaMemcpy3DPeerAsync(const cudaMemcpy3DPeerParms * p, cudaStream_t stream = 0); 
-#line 6547
-extern cudaError_t __stdcall cudaMemGetInfo(size_t * free, size_t * total); 
-#line 6573
-extern cudaError_t __stdcall cudaArrayGetInfo(cudaChannelFormatDesc * desc, cudaExtent * extent, unsigned * flags, cudaArray_t array); 
-#line 6602
-extern cudaError_t __stdcall cudaArrayGetPlane(cudaArray_t * pPlaneArray, cudaArray_t hArray, unsigned planeIdx); 
-#line 6625
-extern cudaError_t __stdcall cudaArrayGetMemoryRequirements(cudaArrayMemoryRequirements * memoryRequirements, cudaArray_t array, int device); 
-#line 6649
-extern cudaError_t __stdcall cudaMipmappedArrayGetMemoryRequirements(cudaArrayMemoryRequirements * memoryRequirements, cudaMipmappedArray_t mipmap, int device); 
-#line 6677
-extern cudaError_t __stdcall cudaArrayGetSparseProperties(cudaArraySparseProperties * sparseProperties, cudaArray_t array); 
-#line 6707 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaMipmappedArrayGetSparseProperties(cudaArraySparseProperties * sparseProperties, cudaMipmappedArray_t mipmap); 
-#line 6752 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaMemcpy(void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
-#line 6787
-extern cudaError_t __stdcall cudaMemcpyPeer(void * dst, int dstDevice, const void * src, int srcDevice, size_t count); 
-#line 6836
-extern cudaError_t __stdcall cudaMemcpy2D(void * dst, size_t dpitch, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind); 
-#line 6886
-extern cudaError_t __stdcall cudaMemcpy2DToArray(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind); 
-#line 6936
-extern cudaError_t __stdcall cudaMemcpy2DFromArray(void * dst, size_t dpitch, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t width, size_t height, cudaMemcpyKind kind); 
-#line 6983
-extern cudaError_t __stdcall cudaMemcpy2DArrayToArray(cudaArray_t dst, size_t wOffsetDst, size_t hOffsetDst, cudaArray_const_t src, size_t wOffsetSrc, size_t hOffsetSrc, size_t width, size_t height, cudaMemcpyKind kind = cudaMemcpyDeviceToDevice); 
-#line 7026
-extern cudaError_t __stdcall cudaMemcpyToSymbol(const void * symbol, const void * src, size_t count, size_t offset = 0, cudaMemcpyKind kind = cudaMemcpyHostToDevice); 
-#line 7070
-extern cudaError_t __stdcall cudaMemcpyFromSymbol(void * dst, const void * symbol, size_t count, size_t offset = 0, cudaMemcpyKind kind = cudaMemcpyDeviceToHost); 
-#line 7127
-extern cudaError_t __stdcall cudaMemcpyAsync(void * dst, const void * src, size_t count, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 7162
-extern cudaError_t __stdcall cudaMemcpyPeerAsync(void * dst, int dstDevice, const void * src, int srcDevice, size_t count, cudaStream_t stream = 0); 
-#line 7225
-extern cudaError_t __stdcall cudaMemcpy2DAsync(void * dst, size_t dpitch, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 7283
-extern cudaError_t __stdcall cudaMemcpy2DToArrayAsync(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 7340
-extern cudaError_t __stdcall cudaMemcpy2DFromArrayAsync(void * dst, size_t dpitch, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t width, size_t height, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 7391
-extern cudaError_t __stdcall cudaMemcpyToSymbolAsync(const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 7442
-extern cudaError_t __stdcall cudaMemcpyFromSymbolAsync(void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 7471
-extern cudaError_t __stdcall cudaMemset(void * devPtr, int value, size_t count); 
-#line 7505
-extern cudaError_t __stdcall cudaMemset2D(void * devPtr, size_t pitch, int value, size_t width, size_t height); 
-#line 7551
-extern cudaError_t __stdcall cudaMemset3D(cudaPitchedPtr pitchedDevPtr, int value, cudaExtent extent); 
-#line 7587
-extern cudaError_t __stdcall cudaMemsetAsync(void * devPtr, int value, size_t count, cudaStream_t stream = 0); 
-#line 7628
-extern cudaError_t __stdcall cudaMemset2DAsync(void * devPtr, size_t pitch, int value, size_t width, size_t height, cudaStream_t stream = 0); 
-#line 7681
-extern cudaError_t __stdcall cudaMemset3DAsync(cudaPitchedPtr pitchedDevPtr, int value, cudaExtent extent, cudaStream_t stream = 0); 
-#line 7709
-extern cudaError_t __stdcall cudaGetSymbolAddress(void ** devPtr, const void * symbol); 
-#line 7736
-extern cudaError_t __stdcall cudaGetSymbolSize(size_t * size, const void * symbol); 
-#line 7808
-extern cudaError_t __stdcall cudaMemPrefetchAsync(const void * devPtr, size_t count, int dstDevice, cudaStream_t stream = 0); 
-#line 7889
-extern cudaError_t __stdcall cudaMemPrefetchAsync_v2(const void * devPtr, size_t count, cudaMemLocation location, unsigned flags, cudaStream_t stream = 0); 
-#line 8003
-extern cudaError_t __stdcall cudaMemAdvise(const void * devPtr, size_t count, cudaMemoryAdvise advice, int device); 
-#line 8126
-extern cudaError_t __stdcall cudaMemAdvise_v2(const void * devPtr, size_t count, cudaMemoryAdvise advice, cudaMemLocation location); 
-#line 8208
-extern cudaError_t __stdcall cudaMemRangeGetAttribute(void * data, size_t dataSize, cudaMemRangeAttribute attribute, const void * devPtr, size_t count); 
-#line 8251
-extern cudaError_t __stdcall cudaMemRangeGetAttributes(void ** data, size_t * dataSizes, cudaMemRangeAttribute * attributes, size_t numAttributes, const void * devPtr, size_t count); 
-#line 8311
-__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyToArray(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t count, cudaMemcpyKind kind); 
-#line 8353
-__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyFromArray(void * dst, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t count, cudaMemcpyKind kind); 
-#line 8396
-__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyArrayToArray(cudaArray_t dst, size_t wOffsetDst, size_t hOffsetDst, cudaArray_const_t src, size_t wOffsetSrc, size_t hOffsetSrc, size_t count, cudaMemcpyKind kind = cudaMemcpyDeviceToDevice); 
-#line 8447
-__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyToArrayAsync(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t count, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 8497
-__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyFromArrayAsync(void * dst, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t count, cudaMemcpyKind kind, cudaStream_t stream = 0); 
-#line 8566
-extern cudaError_t __stdcall cudaMallocAsync(void ** devPtr, size_t size, cudaStream_t hStream); 
-#line 8592
-extern cudaError_t __stdcall cudaFreeAsync(void * devPtr, cudaStream_t hStream); 
-#line 8617
-extern cudaError_t __stdcall cudaMemPoolTrimTo(cudaMemPool_t memPool, size_t minBytesToKeep); 
-#line 8661
-extern cudaError_t __stdcall cudaMemPoolSetAttribute(cudaMemPool_t memPool, cudaMemPoolAttr attr, void * value); 
-#line 8709
-extern cudaError_t __stdcall cudaMemPoolGetAttribute(cudaMemPool_t memPool, cudaMemPoolAttr attr, void * value); 
-#line 8724
-extern cudaError_t __stdcall cudaMemPoolSetAccess(cudaMemPool_t memPool, const cudaMemAccessDesc * descList, size_t count); 
-#line 8737
-extern cudaError_t __stdcall cudaMemPoolGetAccess(cudaMemAccessFlags * flags, cudaMemPool_t memPool, cudaMemLocation * location); 
-#line 8777
-extern cudaError_t __stdcall cudaMemPoolCreate(cudaMemPool_t * memPool, const cudaMemPoolProps * poolProps); 
-#line 8799
-extern cudaError_t __stdcall cudaMemPoolDestroy(cudaMemPool_t memPool); 
-#line 8835
-extern cudaError_t __stdcall cudaMallocFromPoolAsync(void ** ptr, size_t size, cudaMemPool_t memPool, cudaStream_t stream); 
-#line 8860
-extern cudaError_t __stdcall cudaMemPoolExportToShareableHandle(void * shareableHandle, cudaMemPool_t memPool, cudaMemAllocationHandleType handleType, unsigned flags); 
-#line 8887
-extern cudaError_t __stdcall cudaMemPoolImportFromShareableHandle(cudaMemPool_t * memPool, void * shareableHandle, cudaMemAllocationHandleType handleType, unsigned flags); 
-#line 8910
-extern cudaError_t __stdcall cudaMemPoolExportPointer(cudaMemPoolPtrExportData * exportData, void * ptr); 
-#line 8939
-extern cudaError_t __stdcall cudaMemPoolImportPointer(void ** ptr, cudaMemPool_t memPool, cudaMemPoolPtrExportData * exportData); 
-#line 9092
-extern cudaError_t __stdcall cudaPointerGetAttributes(cudaPointerAttributes * attributes, const void * ptr); 
-#line 9133
-extern cudaError_t __stdcall cudaDeviceCanAccessPeer(int * canAccessPeer, int device, int peerDevice); 
-#line 9175
-extern cudaError_t __stdcall cudaDeviceEnablePeerAccess(int peerDevice, unsigned flags); 
-#line 9197
-extern cudaError_t __stdcall cudaDeviceDisablePeerAccess(int peerDevice); 
-#line 9261
-extern cudaError_t __stdcall cudaGraphicsUnregisterResource(cudaGraphicsResource_t resource); 
-#line 9296
-extern cudaError_t __stdcall cudaGraphicsResourceSetMapFlags(cudaGraphicsResource_t resource, unsigned flags); 
-#line 9335
-extern cudaError_t __stdcall cudaGraphicsMapResources(int count, cudaGraphicsResource_t * resources, cudaStream_t stream = 0); 
-#line 9370
-extern cudaError_t __stdcall cudaGraphicsUnmapResources(int count, cudaGraphicsResource_t * resources, cudaStream_t stream = 0); 
-#line 9402
-extern cudaError_t __stdcall cudaGraphicsResourceGetMappedPointer(void ** devPtr, size_t * size, cudaGraphicsResource_t resource); 
-#line 9440
-extern cudaError_t __stdcall cudaGraphicsSubResourceGetMappedArray(cudaArray_t * array, cudaGraphicsResource_t resource, unsigned arrayIndex, unsigned mipLevel); 
-#line 9469
-extern cudaError_t __stdcall cudaGraphicsResourceGetMappedMipmappedArray(cudaMipmappedArray_t * mipmappedArray, cudaGraphicsResource_t resource); 
-#line 9504
-extern cudaError_t __stdcall cudaGetChannelDesc(cudaChannelFormatDesc * desc, cudaArray_const_t array); 
-#line 9534
-extern cudaChannelFormatDesc __stdcall cudaCreateChannelDesc(int x, int y, int z, int w, cudaChannelFormatKind f); 
-#line 9759
-extern cudaError_t __stdcall cudaCreateTextureObject(cudaTextureObject_t * pTexObject, const cudaResourceDesc * pResDesc, const cudaTextureDesc * pTexDesc, const cudaResourceViewDesc * pResViewDesc); 
-#line 9779
-extern cudaError_t __stdcall cudaDestroyTextureObject(cudaTextureObject_t texObject); 
-#line 9799
-extern cudaError_t __stdcall cudaGetTextureObjectResourceDesc(cudaResourceDesc * pResDesc, cudaTextureObject_t texObject); 
-#line 9819
-extern cudaError_t __stdcall cudaGetTextureObjectTextureDesc(cudaTextureDesc * pTexDesc, cudaTextureObject_t texObject); 
-#line 9840
-extern cudaError_t __stdcall cudaGetTextureObjectResourceViewDesc(cudaResourceViewDesc * pResViewDesc, cudaTextureObject_t texObject); 
-#line 9885
-extern cudaError_t __stdcall cudaCreateSurfaceObject(cudaSurfaceObject_t * pSurfObject, const cudaResourceDesc * pResDesc); 
-#line 9905
-extern cudaError_t __stdcall cudaDestroySurfaceObject(cudaSurfaceObject_t surfObject); 
-#line 9924
-extern cudaError_t __stdcall cudaGetSurfaceObjectResourceDesc(cudaResourceDesc * pResDesc, cudaSurfaceObject_t surfObject); 
-#line 9958
-extern cudaError_t __stdcall cudaDriverGetVersion(int * driverVersion); 
-#line 9987
-extern cudaError_t __stdcall cudaRuntimeGetVersion(int * runtimeVersion); 
-#line 10034
-extern cudaError_t __stdcall cudaGraphCreate(cudaGraph_t * pGraph, unsigned flags); 
-#line 10132
-extern cudaError_t __stdcall cudaGraphAddKernelNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaKernelNodeParams * pNodeParams); 
-#line 10165
-extern cudaError_t __stdcall cudaGraphKernelNodeGetParams(cudaGraphNode_t node, cudaKernelNodeParams * pNodeParams); 
-#line 10191
-extern cudaError_t __stdcall cudaGraphKernelNodeSetParams(cudaGraphNode_t node, const cudaKernelNodeParams * pNodeParams); 
-#line 10211
-extern cudaError_t __stdcall cudaGraphKernelNodeCopyAttributes(cudaGraphNode_t hSrc, cudaGraphNode_t hDst); 
-#line 10234
-extern cudaError_t __stdcall cudaGraphKernelNodeGetAttribute(cudaGraphNode_t hNode, cudaLaunchAttributeID attr, cudaLaunchAttributeValue * value_out); 
-#line 10258
-extern cudaError_t __stdcall cudaGraphKernelNodeSetAttribute(cudaGraphNode_t hNode, cudaLaunchAttributeID attr, const cudaLaunchAttributeValue * value); 
-#line 10309
-extern cudaError_t __stdcall cudaGraphAddMemcpyNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaMemcpy3DParms * pCopyParams); 
-#line 10368
-extern cudaError_t __stdcall cudaGraphAddMemcpyNodeToSymbol(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind); 
-#line 10437 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddMemcpyNodeFromSymbol(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind); 
-#line 10505 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddMemcpyNode1D(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
-#line 10537 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphMemcpyNodeGetParams(cudaGraphNode_t node, cudaMemcpy3DParms * pNodeParams); 
-#line 10564
-extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParams(cudaGraphNode_t node, const cudaMemcpy3DParms * pNodeParams); 
-#line 10603
-extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParamsToSymbol(cudaGraphNode_t node, const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind); 
-#line 10649 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParamsFromSymbol(cudaGraphNode_t node, void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind); 
-#line 10695 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParams1D(cudaGraphNode_t node, void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
-#line 10743 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddMemsetNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaMemsetParams * pMemsetParams); 
-#line 10766
-extern cudaError_t __stdcall cudaGraphMemsetNodeGetParams(cudaGraphNode_t node, cudaMemsetParams * pNodeParams); 
-#line 10790
-extern cudaError_t __stdcall cudaGraphMemsetNodeSetParams(cudaGraphNode_t node, const cudaMemsetParams * pNodeParams); 
-#line 10832
-extern cudaError_t __stdcall cudaGraphAddHostNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaHostNodeParams * pNodeParams); 
-#line 10855
-extern cudaError_t __stdcall cudaGraphHostNodeGetParams(cudaGraphNode_t node, cudaHostNodeParams * pNodeParams); 
-#line 10879
-extern cudaError_t __stdcall cudaGraphHostNodeSetParams(cudaGraphNode_t node, const cudaHostNodeParams * pNodeParams); 
-#line 10920
-extern cudaError_t __stdcall cudaGraphAddChildGraphNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaGraph_t childGraph); 
-#line 10947
-extern cudaError_t __stdcall cudaGraphChildGraphNodeGetGraph(cudaGraphNode_t node, cudaGraph_t * pGraph); 
-#line 10985
-extern cudaError_t __stdcall cudaGraphAddEmptyNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies); 
-#line 11029
-extern cudaError_t __stdcall cudaGraphAddEventRecordNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaEvent_t event); 
-#line 11056 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphEventRecordNodeGetEvent(cudaGraphNode_t node, cudaEvent_t * event_out); 
-#line 11084 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphEventRecordNodeSetEvent(cudaGraphNode_t node, cudaEvent_t event); 
-#line 11131 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddEventWaitNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaEvent_t event); 
-#line 11158 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphEventWaitNodeGetEvent(cudaGraphNode_t node, cudaEvent_t * event_out); 
-#line 11186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphEventWaitNodeSetEvent(cudaGraphNode_t node, cudaEvent_t event); 
-#line 11236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddExternalSemaphoresSignalNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaExternalSemaphoreSignalNodeParams * nodeParams); 
-#line 11269 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExternalSemaphoresSignalNodeGetParams(cudaGraphNode_t hNode, cudaExternalSemaphoreSignalNodeParams * params_out); 
-#line 11297 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExternalSemaphoresSignalNodeSetParams(cudaGraphNode_t hNode, const cudaExternalSemaphoreSignalNodeParams * nodeParams); 
-#line 11347 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddExternalSemaphoresWaitNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaExternalSemaphoreWaitNodeParams * nodeParams); 
-#line 11380 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExternalSemaphoresWaitNodeGetParams(cudaGraphNode_t hNode, cudaExternalSemaphoreWaitNodeParams * params_out); 
-#line 11408 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExternalSemaphoresWaitNodeSetParams(cudaGraphNode_t hNode, const cudaExternalSemaphoreWaitNodeParams * nodeParams); 
-#line 11486 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddMemAllocNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaMemAllocNodeParams * nodeParams); 
-#line 11513 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphMemAllocNodeGetParams(cudaGraphNode_t node, cudaMemAllocNodeParams * params_out); 
-#line 11574 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphAddMemFreeNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, void * dptr); 
-#line 11598 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphMemFreeNodeGetParams(cudaGraphNode_t node, void * dptr_out); 
-#line 11626 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaDeviceGraphMemTrim(int device); 
-#line 11663 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaDeviceGetGraphMemAttribute(int device, cudaGraphMemAttributeType attr, void * value); 
-#line 11697 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaDeviceSetGraphMemAttribute(int device, cudaGraphMemAttributeType attr, void * value); 
-#line 11725 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphClone(cudaGraph_t * pGraphClone, cudaGraph_t originalGraph); 
-#line 11753
-extern cudaError_t __stdcall cudaGraphNodeFindInClone(cudaGraphNode_t * pNode, cudaGraphNode_t originalNode, cudaGraph_t clonedGraph); 
-#line 11784
-extern cudaError_t __stdcall cudaGraphNodeGetType(cudaGraphNode_t node, cudaGraphNodeType * pType); 
-#line 11815
-extern cudaError_t __stdcall cudaGraphGetNodes(cudaGraph_t graph, cudaGraphNode_t * nodes, size_t * numNodes); 
-#line 11846
-extern cudaError_t __stdcall cudaGraphGetRootNodes(cudaGraph_t graph, cudaGraphNode_t * pRootNodes, size_t * pNumRootNodes); 
-#line 11880
-extern cudaError_t __stdcall cudaGraphGetEdges(cudaGraph_t graph, cudaGraphNode_t * from, cudaGraphNode_t * to, size_t * numEdges); 
-#line 11920
-extern cudaError_t __stdcall cudaGraphGetEdges_v2(cudaGraph_t graph, cudaGraphNode_t * from, cudaGraphNode_t * to, cudaGraphEdgeData * edgeData, size_t * numEdges); 
-#line 11951
-extern cudaError_t __stdcall cudaGraphNodeGetDependencies(cudaGraphNode_t node, cudaGraphNode_t * pDependencies, size_t * pNumDependencies); 
-#line 11988
-extern cudaError_t __stdcall cudaGraphNodeGetDependencies_v2(cudaGraphNode_t node, cudaGraphNode_t * pDependencies, cudaGraphEdgeData * edgeData, size_t * pNumDependencies); 
-#line 12020
-extern cudaError_t __stdcall cudaGraphNodeGetDependentNodes(cudaGraphNode_t node, cudaGraphNode_t * pDependentNodes, size_t * pNumDependentNodes); 
-#line 12058
-extern cudaError_t __stdcall cudaGraphNodeGetDependentNodes_v2(cudaGraphNode_t node, cudaGraphNode_t * pDependentNodes, cudaGraphEdgeData * edgeData, size_t * pNumDependentNodes); 
-#line 12089
-extern cudaError_t __stdcall cudaGraphAddDependencies(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, size_t numDependencies); 
-#line 12121
-extern cudaError_t __stdcall cudaGraphAddDependencies_v2(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, const cudaGraphEdgeData * edgeData, size_t numDependencies); 
-#line 12152
-extern cudaError_t __stdcall cudaGraphRemoveDependencies(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, size_t numDependencies); 
-#line 12187
-extern cudaError_t __stdcall cudaGraphRemoveDependencies_v2(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, const cudaGraphEdgeData * edgeData, size_t numDependencies); 
-#line 12217
-extern cudaError_t __stdcall cudaGraphDestroyNode(cudaGraphNode_t node); 
-#line 12288
-extern cudaError_t __stdcall cudaGraphInstantiate(cudaGraphExec_t * pGraphExec, cudaGraph_t graph, unsigned __int64 flags = 0); 
-#line 12361
-extern cudaError_t __stdcall cudaGraphInstantiateWithFlags(cudaGraphExec_t * pGraphExec, cudaGraph_t graph, unsigned __int64 flags = 0); 
-#line 12468 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphInstantiateWithParams(cudaGraphExec_t * pGraphExec, cudaGraph_t graph, cudaGraphInstantiateParams * instantiateParams); 
-#line 12493
-extern cudaError_t __stdcall cudaGraphExecGetFlags(cudaGraphExec_t graphExec, unsigned __int64 * flags); 
-#line 12552
-extern cudaError_t __stdcall cudaGraphExecKernelNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaKernelNodeParams * pNodeParams); 
-#line 12603
-extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaMemcpy3DParms * pNodeParams); 
-#line 12658
-extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParamsToSymbol(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind); 
-#line 12721 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParamsFromSymbol(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind); 
-#line 12782 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParams1D(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
-#line 12841 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecMemsetNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaMemsetParams * pNodeParams); 
-#line 12881
-extern cudaError_t __stdcall cudaGraphExecHostNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaHostNodeParams * pNodeParams); 
-#line 12928
-extern cudaError_t __stdcall cudaGraphExecChildGraphNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, cudaGraph_t childGraph); 
-#line 12973 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecEventRecordNodeSetEvent(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, cudaEvent_t event); 
-#line 13018 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecEventWaitNodeSetEvent(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, cudaEvent_t event); 
-#line 13066 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecExternalSemaphoresSignalNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, const cudaExternalSemaphoreSignalNodeParams * nodeParams); 
-#line 13114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecExternalSemaphoresWaitNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, const cudaExternalSemaphoreWaitNodeParams * nodeParams); 
-#line 13154 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphNodeSetEnabled(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, unsigned isEnabled); 
-#line 13188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphNodeGetEnabled(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, unsigned * isEnabled); 
-#line 13282 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphExecUpdate(cudaGraphExec_t hGraphExec, cudaGraph_t hGraph, cudaGraphExecUpdateResultInfo * resultInfo); 
-#line 13307
-extern cudaError_t __stdcall cudaGraphUpload(cudaGraphExec_t graphExec, cudaStream_t stream); 
-#line 13338 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGraphLaunch(cudaGraphExec_t graphExec, cudaStream_t stream); 
-#line 13361
-extern cudaError_t __stdcall cudaGraphExecDestroy(cudaGraphExec_t graphExec); 
-#line 13382
-extern cudaError_t __stdcall cudaGraphDestroy(cudaGraph_t graph); 
-#line 13401
-extern cudaError_t __stdcall cudaGraphDebugDotPrint(cudaGraph_t graph, const char * path, unsigned flags); 
-#line 13437
-extern cudaError_t __stdcall cudaUserObjectCreate(cudaUserObject_t * object_out, void * ptr, cudaHostFn_t destroy, unsigned initialRefcount, unsigned flags); 
-#line 13461
-extern cudaError_t __stdcall cudaUserObjectRetain(cudaUserObject_t object, unsigned count = 1); 
-#line 13489
-extern cudaError_t __stdcall cudaUserObjectRelease(cudaUserObject_t object, unsigned count = 1); 
-#line 13517
-extern cudaError_t __stdcall cudaGraphRetainUserObject(cudaGraph_t graph, cudaUserObject_t object, unsigned count = 1, unsigned flags = 0); 
-#line 13542
-extern cudaError_t __stdcall cudaGraphReleaseUserObject(cudaGraph_t graph, cudaUserObject_t object, unsigned count = 1); 
-#line 13584
-extern cudaError_t __stdcall cudaGraphAddNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaGraphNodeParams * nodeParams); 
-#line 13628
-extern cudaError_t __stdcall cudaGraphAddNode_v2(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, const cudaGraphEdgeData * dependencyData, size_t numDependencies, cudaGraphNodeParams * nodeParams); 
-#line 13657
-extern cudaError_t __stdcall cudaGraphNodeSetParams(cudaGraphNode_t node, cudaGraphNodeParams * nodeParams); 
-#line 13706
-extern cudaError_t __stdcall cudaGraphExecNodeSetParams(cudaGraphExec_t graphExec, cudaGraphNode_t node, cudaGraphNodeParams * nodeParams); 
-#line 13732
-extern cudaError_t __stdcall cudaGraphConditionalHandleCreate(cudaGraphConditionalHandle * pHandle_out, cudaGraph_t graph, unsigned defaultLaunchValue = 0, unsigned flags = 0); 
-#line 13813
-extern cudaError_t __stdcall cudaGetDriverEntryPoint(const char * symbol, void ** funcPtr, unsigned __int64 flags, cudaDriverEntryPointQueryResult * driverStatus = 0); 
-#line 13889 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGetDriverEntryPointByVersion(const char * symbol, void ** funcPtr, unsigned cudaVersion, unsigned __int64 flags, cudaDriverEntryPointQueryResult * driverStatus = 0); 
-#line 13897 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-extern cudaError_t __stdcall cudaGetExportTable(const void ** ppExportTable, const cudaUUID_t * pExportTableId); 
-#line 14076
-extern cudaError_t cudaGetFuncBySymbol(cudaFunction_t * functionPtr, const void * symbolPtr); 
-#line 14092
-extern cudaError_t __stdcall cudaGetKernel(cudaKernel_t * kernelPtr, const void * entryFuncAddr); 
-#line 14264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\cuda_runtime_api.h"
-}
-#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\channel_descriptor.h"
-template< class T> __inline ::cudaChannelFormatDesc cudaCreateChannelDesc() 
-#line 118
-{ 
-#line 119
-return cudaCreateChannelDesc(0, 0, 0, 0, cudaChannelFormatKindNone); 
-#line 120
-} 
-#line 122
-static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf() 
-#line 123
-{ 
-#line 124
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 126
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
-#line 127
-} 
-#line 129
-static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf1() 
-#line 130
-{ 
-#line 131
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 133
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
-#line 134
-} 
-#line 136
-static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf2() 
-#line 137
-{ 
-#line 138
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 140
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindFloat); 
-#line 141
-} 
-#line 143
-static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf4() 
-#line 144
-{ 
-#line 145
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 147
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindFloat); 
-#line 148
-} 
-#line 150
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char> () 
-#line 151
-{ 
-#line 152
-int e = (((int)sizeof(char)) * 8); 
-#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\channel_descriptor.h"
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\channel_descriptor.h"
-} 
-#line 161
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< signed char> () 
-#line 162
-{ 
-#line 163
-int e = (((int)sizeof(signed char)) * 8); 
-#line 165
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 166
-} 
-#line 168
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned char> () 
-#line 169
-{ 
-#line 170
-int e = (((int)sizeof(unsigned char)) * 8); 
-#line 172
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 173
-} 
-#line 175
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char1> () 
-#line 176
-{ 
-#line 177
-int e = (((int)sizeof(signed char)) * 8); 
-#line 179
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 180
-} 
-#line 182
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uchar1> () 
-#line 183
-{ 
-#line 184
-int e = (((int)sizeof(unsigned char)) * 8); 
-#line 186
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 187
-} 
-#line 189
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char2> () 
-#line 190
-{ 
-#line 191
-int e = (((int)sizeof(signed char)) * 8); 
-#line 193
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
-#line 194
-} 
-#line 196
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uchar2> () 
-#line 197
-{ 
-#line 198
-int e = (((int)sizeof(unsigned char)) * 8); 
-#line 200
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 201
-} 
-#line 203
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char4> () 
-#line 204
-{ 
-#line 205
-int e = (((int)sizeof(signed char)) * 8); 
-#line 207
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
-#line 208
-} 
-#line 210
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uchar4> () 
-#line 211
-{ 
-#line 212
-int e = (((int)sizeof(unsigned char)) * 8); 
-#line 214
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
-#line 215
-} 
-#line 217
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short> () 
-#line 218
-{ 
-#line 219
-int e = (((int)sizeof(short)) * 8); 
-#line 221
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 222
-} 
-#line 224
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned short> () 
-#line 225
-{ 
-#line 226
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 228
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 229
-} 
-#line 231
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short1> () 
-#line 232
-{ 
-#line 233
-int e = (((int)sizeof(short)) * 8); 
-#line 235
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 236
-} 
-#line 238
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ushort1> () 
-#line 239
-{ 
-#line 240
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 242
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 243
-} 
-#line 245
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short2> () 
-#line 246
-{ 
-#line 247
-int e = (((int)sizeof(short)) * 8); 
-#line 249
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
-#line 250
-} 
-#line 252
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ushort2> () 
-#line 253
-{ 
-#line 254
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 256
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 257
-} 
-#line 259
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short4> () 
-#line 260
-{ 
-#line 261
-int e = (((int)sizeof(short)) * 8); 
-#line 263
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
-#line 264
-} 
-#line 266
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ushort4> () 
-#line 267
-{ 
-#line 268
-int e = (((int)sizeof(unsigned short)) * 8); 
-#line 270
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
-#line 271
-} 
-#line 273
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int> () 
-#line 274
-{ 
-#line 275
-int e = (((int)sizeof(int)) * 8); 
-#line 277
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 278
-} 
-#line 280
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned> () 
-#line 281
-{ 
-#line 282
-int e = (((int)sizeof(unsigned)) * 8); 
-#line 284
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 285
-} 
-#line 287
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int1> () 
-#line 288
-{ 
-#line 289
-int e = (((int)sizeof(int)) * 8); 
-#line 291
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 292
-} 
-#line 294
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uint1> () 
-#line 295
-{ 
-#line 296
-int e = (((int)sizeof(unsigned)) * 8); 
-#line 298
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 299
-} 
-#line 301
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int2> () 
-#line 302
-{ 
-#line 303
-int e = (((int)sizeof(int)) * 8); 
-#line 305
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
-#line 306
-} 
-#line 308
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uint2> () 
-#line 309
-{ 
-#line 310
-int e = (((int)sizeof(unsigned)) * 8); 
-#line 312
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 313
-} 
-#line 315
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int4> () 
-#line 316
-{ 
-#line 317
-int e = (((int)sizeof(int)) * 8); 
-#line 319
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
-#line 320
-} 
-#line 322
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uint4> () 
-#line 323
-{ 
-#line 324
-int e = (((int)sizeof(unsigned)) * 8); 
-#line 326
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
-#line 327
-} 
-#line 331
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long> () 
-#line 332
-{ 
-#line 333
-int e = (((int)sizeof(long)) * 8); 
-#line 335
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 336
-} 
-#line 338
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned long> () 
-#line 339
-{ 
-#line 340
-int e = (((int)sizeof(unsigned long)) * 8); 
-#line 342
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 343
-} 
-#line 345
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long1> () 
-#line 346
-{ 
-#line 347
-int e = (((int)sizeof(long)) * 8); 
-#line 349
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
-#line 350
-} 
-#line 352
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ulong1> () 
-#line 353
-{ 
-#line 354
-int e = (((int)sizeof(unsigned long)) * 8); 
 #line 356
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 357
-} 
-#line 359
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long2> () 
-#line 360
-{ 
-#line 361
-int e = (((int)sizeof(long)) * 8); 
-#line 363
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
-#line 364
-} 
-#line 366
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ulong2> () 
-#line 367
-{ 
-#line 368
-int e = (((int)sizeof(unsigned long)) * 8); 
-#line 370
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
-#line 371
-} 
-#line 373
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long4> () 
-#line 374
-{ 
-#line 375
-int e = (((int)sizeof(long)) * 8); 
-#line 377
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
-#line 378
-} 
-#line 380
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ulong4> () 
-#line 381
-{ 
-#line 382
-int e = (((int)sizeof(unsigned long)) * 8); 
-#line 384
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
-#line 385
-} 
-#line 389 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\channel_descriptor.h"
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float> () 
-#line 390
-{ 
-#line 391
-int e = (((int)sizeof(float)) * 8); 
-#line 393
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
-#line 394
-} 
-#line 396
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float1> () 
-#line 397
-{ 
-#line 398
-int e = (((int)sizeof(float)) * 8); 
-#line 400
-return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
-#line 401
-} 
-#line 403
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float2> () 
-#line 404
-{ 
-#line 405
-int e = (((int)sizeof(float)) * 8); 
-#line 407
-return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindFloat); 
-#line 408
-} 
-#line 410
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float4> () 
-#line 411
-{ 
-#line 412
-int e = (((int)sizeof(float)) * 8); 
-#line 414
-return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindFloat); 
-#line 415
-} 
-#line 417
-static __inline cudaChannelFormatDesc cudaCreateChannelDescNV12() 
-#line 418
-{ 
-#line 419
-int e = (((int)sizeof(char)) * 8); 
-#line 421
-return cudaCreateChannelDesc(e, e, e, 0, cudaChannelFormatKindNV12); 
-#line 422
-} 
-#line 424
-template< cudaChannelFormatKind > __inline ::cudaChannelFormatDesc cudaCreateChannelDesc() 
-#line 425
-{ 
-#line 426
-return cudaCreateChannelDesc(0, 0, 0, 0, cudaChannelFormatKindNone); 
-#line 427
-} 
-#line 430
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized8X1> () 
-#line 431
-{ 
-#line 432
-return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindSignedNormalized8X1); 
-#line 433
-} 
-#line 435
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized8X2> () 
-#line 436
-{ 
-#line 437
-return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindSignedNormalized8X2); 
-#line 438
-} 
-#line 440
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized8X4> () 
-#line 441
-{ 
+extern cudaError_t __stdcall cudaDeviceSynchronize(); 
 #line 442
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindSignedNormalized8X4); 
-#line 443
-} 
-#line 446
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized8X1> () 
-#line 447
-{ 
-#line 448
-return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindUnsignedNormalized8X1); 
-#line 449
-} 
-#line 451
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized8X2> () 
-#line 452
-{ 
-#line 453
-return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindUnsignedNormalized8X2); 
-#line 454
-} 
-#line 456
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized8X4> () 
-#line 457
-{ 
-#line 458
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedNormalized8X4); 
-#line 459
-} 
-#line 462
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized16X1> () 
-#line 463
-{ 
-#line 464
-return cudaCreateChannelDesc(16, 0, 0, 0, cudaChannelFormatKindSignedNormalized16X1); 
-#line 465
-} 
-#line 467
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized16X2> () 
-#line 468
-{ 
-#line 469
-return cudaCreateChannelDesc(16, 16, 0, 0, cudaChannelFormatKindSignedNormalized16X2); 
-#line 470
-} 
-#line 472
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized16X4> () 
-#line 473
-{ 
-#line 474
-return cudaCreateChannelDesc(16, 16, 16, 16, cudaChannelFormatKindSignedNormalized16X4); 
-#line 475
-} 
+extern cudaError_t __stdcall cudaDeviceSetLimit(cudaLimit limit, size_t value); 
 #line 478
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized16X1> () 
-#line 479
-{ 
-#line 480
-return cudaCreateChannelDesc(16, 0, 0, 0, cudaChannelFormatKindUnsignedNormalized16X1); 
-#line 481
-} 
-#line 483
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized16X2> () 
-#line 484
-{ 
-#line 485
-return cudaCreateChannelDesc(16, 16, 0, 0, cudaChannelFormatKindUnsignedNormalized16X2); 
-#line 486
-} 
-#line 488
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized16X4> () 
-#line 489
-{ 
-#line 490
-return cudaCreateChannelDesc(16, 16, 16, 16, cudaChannelFormatKindUnsignedNormalized16X4); 
-#line 491
-} 
-#line 494
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindNV12> () 
-#line 495
-{ 
-#line 496
-return cudaCreateChannelDesc(8, 8, 8, 0, cudaChannelFormatKindNV12); 
-#line 497
-} 
-#line 500
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed1> () 
+extern cudaError_t __stdcall cudaDeviceGetLimit(size_t * pValue, cudaLimit limit); 
 #line 501
-{ 
-#line 502
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed1); 
-#line 503
-} 
-#line 506
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed1SRGB> () 
-#line 507
-{ 
-#line 508
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed1SRGB); 
-#line 509
-} 
-#line 512
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed2> () 
-#line 513
-{ 
-#line 514
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed2); 
-#line 515
-} 
-#line 518
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed2SRGB> () 
-#line 519
-{ 
-#line 520
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed2SRGB); 
-#line 521
-} 
-#line 524
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed3> () 
-#line 525
-{ 
-#line 526
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed3); 
-#line 527
-} 
-#line 530
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed3SRGB> () 
-#line 531
-{ 
-#line 532
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed3SRGB); 
-#line 533
-} 
-#line 536
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed4> () 
-#line 537
-{ 
-#line 538
-return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindUnsignedBlockCompressed4); 
-#line 539
-} 
-#line 542
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedBlockCompressed4> () 
-#line 543
-{ 
-#line 544
-return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindSignedBlockCompressed4); 
-#line 545
-} 
-#line 548
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed5> () 
-#line 549
-{ 
-#line 550
-return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindUnsignedBlockCompressed5); 
-#line 551
-} 
-#line 554
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedBlockCompressed5> () 
-#line 555
-{ 
-#line 556
-return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindSignedBlockCompressed5); 
-#line 557
-} 
-#line 560
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed6H> () 
-#line 561
-{ 
-#line 562
-return cudaCreateChannelDesc(16, 16, 16, 0, cudaChannelFormatKindUnsignedBlockCompressed6H); 
-#line 563
-} 
-#line 566
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedBlockCompressed6H> () 
-#line 567
-{ 
-#line 568
-return cudaCreateChannelDesc(16, 16, 16, 0, cudaChannelFormatKindSignedBlockCompressed6H); 
-#line 569
-} 
+extern cudaError_t __stdcall cudaDeviceGetTexture1DLinearMaxWidth(size_t * maxWidthInElements, const cudaChannelFormatDesc * fmtDesc, int device); 
+#line 535 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaDeviceGetCacheConfig(cudaFuncCache * pCacheConfig); 
 #line 572
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed7> () 
-#line 573
+extern cudaError_t __stdcall cudaDeviceGetStreamPriorityRange(int * leastPriority, int * greatestPriority); 
+#line 616
+extern cudaError_t __stdcall cudaDeviceSetCacheConfig(cudaFuncCache cacheConfig); 
+#line 643
+extern cudaError_t __stdcall cudaDeviceGetByPCIBusId(int * device, const char * pciBusId); 
+#line 673
+extern cudaError_t __stdcall cudaDeviceGetPCIBusId(char * pciBusId, int len, int device); 
+#line 724
+extern cudaError_t __stdcall cudaIpcGetEventHandle(cudaIpcEventHandle_t * handle, cudaEvent_t event); 
+#line 768
+extern cudaError_t __stdcall cudaIpcOpenEventHandle(cudaEvent_t * event, cudaIpcEventHandle_t handle); 
+#line 813
+extern cudaError_t __stdcall cudaIpcGetMemHandle(cudaIpcMemHandle_t * handle, void * devPtr); 
+#line 880
+extern cudaError_t __stdcall cudaIpcOpenMemHandle(void ** devPtr, cudaIpcMemHandle_t handle, unsigned flags); 
+#line 919
+extern cudaError_t __stdcall cudaIpcCloseMemHandle(void * devPtr); 
+#line 951
+extern cudaError_t __stdcall cudaDeviceFlushGPUDirectRDMAWrites(cudaFlushGPUDirectRDMAWritesTarget target, cudaFlushGPUDirectRDMAWritesScope scope); 
+#line 989 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaDeviceRegisterAsyncNotification(int device, cudaAsyncCallback callbackFunc, void * userData, cudaAsyncCallbackHandle_t * callback); 
+#line 1012
+extern cudaError_t __stdcall cudaDeviceUnregisterAsyncNotification(int device, cudaAsyncCallbackHandle_t callback); 
+#line 1059
+__declspec(deprecated) extern cudaError_t __stdcall cudaDeviceGetSharedMemConfig(cudaSharedMemConfig * pConfig); 
+#line 1105
+__declspec(deprecated) extern cudaError_t __stdcall cudaDeviceSetSharedMemConfig(cudaSharedMemConfig config); 
+#line 1146
+__declspec(deprecated) extern cudaError_t __stdcall cudaThreadExit(); 
+#line 1172
+__declspec(deprecated) extern cudaError_t __stdcall cudaThreadSynchronize(); 
+#line 1221
+__declspec(deprecated) extern cudaError_t __stdcall cudaThreadSetLimit(cudaLimit limit, size_t value); 
+#line 1254
+__declspec(deprecated) extern cudaError_t __stdcall cudaThreadGetLimit(size_t * pValue, cudaLimit limit); 
+#line 1290
+__declspec(deprecated) extern cudaError_t __stdcall cudaThreadGetCacheConfig(cudaFuncCache * pCacheConfig); 
+#line 1337
+__declspec(deprecated) extern cudaError_t __stdcall cudaThreadSetCacheConfig(cudaFuncCache cacheConfig); 
+#line 1402
+extern cudaError_t __stdcall cudaGetLastError(); 
+#line 1453
+extern cudaError_t __stdcall cudaPeekAtLastError(); 
+#line 1469
+extern const char *__stdcall cudaGetErrorName(cudaError_t error); 
+#line 1485
+extern const char *__stdcall cudaGetErrorString(cudaError_t error); 
+#line 1514
+extern cudaError_t __stdcall cudaGetDeviceCount(int * count); 
+#line 1818
+extern cudaError_t __stdcall cudaGetDeviceProperties_v2(cudaDeviceProp * prop, int device); 
+#line 2024
+extern cudaError_t __stdcall cudaDeviceGetAttribute(int * value, cudaDeviceAttr attr, int device); 
+#line 2042
+extern cudaError_t __stdcall cudaDeviceGetDefaultMemPool(cudaMemPool_t * memPool, int device); 
+#line 2066
+extern cudaError_t __stdcall cudaDeviceSetMemPool(int device, cudaMemPool_t memPool); 
+#line 2086
+extern cudaError_t __stdcall cudaDeviceGetMemPool(cudaMemPool_t * memPool, int device); 
+#line 2148
+extern cudaError_t __stdcall cudaDeviceGetNvSciSyncAttributes(void * nvSciSyncAttrList, int device, int flags); 
+#line 2188
+extern cudaError_t __stdcall cudaDeviceGetP2PAttribute(int * value, cudaDeviceP2PAttr attr, int srcDevice, int dstDevice); 
+#line 2210
+extern cudaError_t __stdcall cudaChooseDevice(int * device, const cudaDeviceProp * prop); 
+#line 2239
+extern cudaError_t __stdcall cudaInitDevice(int device, unsigned deviceFlags, unsigned flags); 
+#line 2285
+extern cudaError_t __stdcall cudaSetDevice(int device); 
+#line 2307
+extern cudaError_t __stdcall cudaGetDevice(int * device); 
+#line 2338
+extern cudaError_t __stdcall cudaSetValidDevices(int * device_arr, int len); 
+#line 2408
+extern cudaError_t __stdcall cudaSetDeviceFlags(unsigned flags); 
+#line 2453
+extern cudaError_t __stdcall cudaGetDeviceFlags(unsigned * flags); 
+#line 2497
+extern cudaError_t __stdcall cudaStreamCreate(cudaStream_t * pStream); 
+#line 2533
+extern cudaError_t __stdcall cudaStreamCreateWithFlags(cudaStream_t * pStream, unsigned flags); 
+#line 2585
+extern cudaError_t __stdcall cudaStreamCreateWithPriority(cudaStream_t * pStream, unsigned flags, int priority); 
+#line 2613
+extern cudaError_t __stdcall cudaStreamGetPriority(cudaStream_t hStream, int * priority); 
+#line 2639
+extern cudaError_t __stdcall cudaStreamGetFlags(cudaStream_t hStream, unsigned * flags); 
+#line 2676
+extern cudaError_t __stdcall cudaStreamGetId(cudaStream_t hStream, unsigned __int64 * streamId); 
+#line 2702
+extern cudaError_t __stdcall cudaStreamGetDevice(cudaStream_t hStream, int * device); 
+#line 2717
+extern cudaError_t __stdcall cudaCtxResetPersistingL2Cache(); 
+#line 2737
+extern cudaError_t __stdcall cudaStreamCopyAttributes(cudaStream_t dst, cudaStream_t src); 
+#line 2758
+extern cudaError_t __stdcall cudaStreamGetAttribute(cudaStream_t hStream, cudaLaunchAttributeID attr, cudaLaunchAttributeValue * value_out); 
+#line 2782
+extern cudaError_t __stdcall cudaStreamSetAttribute(cudaStream_t hStream, cudaLaunchAttributeID attr, const cudaLaunchAttributeValue * value); 
+#line 2816
+extern cudaError_t __stdcall cudaStreamDestroy(cudaStream_t stream); 
+#line 2847
+extern cudaError_t __stdcall cudaStreamWaitEvent(cudaStream_t stream, cudaEvent_t event, unsigned flags = 0); 
+#line 2855
+typedef void (__stdcall *cudaStreamCallback_t)(cudaStream_t stream, cudaError_t status, void * userData); 
+#line 2922
+extern cudaError_t __stdcall cudaStreamAddCallback(cudaStream_t stream, cudaStreamCallback_t callback, void * userData, unsigned flags); 
+#line 2946
+extern cudaError_t __stdcall cudaStreamSynchronize(cudaStream_t stream); 
+#line 2971
+extern cudaError_t __stdcall cudaStreamQuery(cudaStream_t stream); 
+#line 3055
+extern cudaError_t __stdcall cudaStreamAttachMemAsync(cudaStream_t stream, void * devPtr, size_t length = 0, unsigned flags = 4); 
+#line 3094 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaStreamBeginCapture(cudaStream_t stream, cudaStreamCaptureMode mode); 
+#line 3135
+extern cudaError_t __stdcall cudaStreamBeginCaptureToGraph(cudaStream_t stream, cudaGraph_t graph, const cudaGraphNode_t * dependencies, const cudaGraphEdgeData * dependencyData, size_t numDependencies, cudaStreamCaptureMode mode); 
+#line 3186
+extern cudaError_t __stdcall cudaThreadExchangeStreamCaptureMode(cudaStreamCaptureMode * mode); 
+#line 3215
+extern cudaError_t __stdcall cudaStreamEndCapture(cudaStream_t stream, cudaGraph_t * pGraph); 
+#line 3253
+extern cudaError_t __stdcall cudaStreamIsCapturing(cudaStream_t stream, cudaStreamCaptureStatus * pCaptureStatus); 
+#line 3303
+extern cudaError_t __stdcall cudaStreamGetCaptureInfo_v2(cudaStream_t stream, cudaStreamCaptureStatus * captureStatus_out, unsigned __int64 * id_out = 0, cudaGraph_t * graph_out = 0, const cudaGraphNode_t ** dependencies_out = 0, size_t * numDependencies_out = 0); 
+#line 3362
+extern cudaError_t __stdcall cudaStreamGetCaptureInfo_v3(cudaStream_t stream, cudaStreamCaptureStatus * captureStatus_out, unsigned __int64 * id_out = 0, cudaGraph_t * graph_out = 0, const cudaGraphNode_t ** dependencies_out = 0, const cudaGraphEdgeData ** edgeData_out = 0, size_t * numDependencies_out = 0); 
+#line 3402
+extern cudaError_t __stdcall cudaStreamUpdateCaptureDependencies(cudaStream_t stream, cudaGraphNode_t * dependencies, size_t numDependencies, unsigned flags = 0); 
+#line 3437
+extern cudaError_t __stdcall cudaStreamUpdateCaptureDependencies_v2(cudaStream_t stream, cudaGraphNode_t * dependencies, const cudaGraphEdgeData * dependencyData, size_t numDependencies, unsigned flags = 0); 
+#line 3474
+extern cudaError_t __stdcall cudaEventCreate(cudaEvent_t * event); 
+#line 3511
+extern cudaError_t __stdcall cudaEventCreateWithFlags(cudaEvent_t * event, unsigned flags); 
+#line 3552
+extern cudaError_t __stdcall cudaEventRecord(cudaEvent_t event, cudaStream_t stream = 0); 
+#line 3600
+extern cudaError_t __stdcall cudaEventRecordWithFlags(cudaEvent_t event, cudaStream_t stream = 0, unsigned flags = 0); 
+#line 3633 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaEventQuery(cudaEvent_t event); 
+#line 3664
+extern cudaError_t __stdcall cudaEventSynchronize(cudaEvent_t event); 
+#line 3694
+extern cudaError_t __stdcall cudaEventDestroy(cudaEvent_t event); 
+#line 3739
+extern cudaError_t __stdcall cudaEventElapsedTime(float * ms, cudaEvent_t start, cudaEvent_t end); 
+#line 3787
+extern cudaError_t __stdcall cudaEventElapsedTime_v2(float * ms, cudaEvent_t start, cudaEvent_t end); 
+#line 3968
+extern cudaError_t __stdcall cudaImportExternalMemory(cudaExternalMemory_t * extMem_out, const cudaExternalMemoryHandleDesc * memHandleDesc); 
+#line 4023
+extern cudaError_t __stdcall cudaExternalMemoryGetMappedBuffer(void ** devPtr, cudaExternalMemory_t extMem, const cudaExternalMemoryBufferDesc * bufferDesc); 
+#line 4083
+extern cudaError_t __stdcall cudaExternalMemoryGetMappedMipmappedArray(cudaMipmappedArray_t * mipmap, cudaExternalMemory_t extMem, const cudaExternalMemoryMipmappedArrayDesc * mipmapDesc); 
+#line 4107
+extern cudaError_t __stdcall cudaDestroyExternalMemory(cudaExternalMemory_t extMem); 
+#line 4261
+extern cudaError_t __stdcall cudaImportExternalSemaphore(cudaExternalSemaphore_t * extSem_out, const cudaExternalSemaphoreHandleDesc * semHandleDesc); 
+#line 4344
+extern cudaError_t __stdcall cudaSignalExternalSemaphoresAsync_v2(const cudaExternalSemaphore_t * extSemArray, const cudaExternalSemaphoreSignalParams * paramsArray, unsigned numExtSems, cudaStream_t stream = 0); 
+#line 4420
+extern cudaError_t __stdcall cudaWaitExternalSemaphoresAsync_v2(const cudaExternalSemaphore_t * extSemArray, const cudaExternalSemaphoreWaitParams * paramsArray, unsigned numExtSems, cudaStream_t stream = 0); 
+#line 4443
+extern cudaError_t __stdcall cudaDestroyExternalSemaphore(cudaExternalSemaphore_t extSem); 
+#line 4511
+extern cudaError_t __stdcall cudaLaunchKernel(const void * func, dim3 gridDim, dim3 blockDim, void ** args, size_t sharedMem, cudaStream_t stream); 
+#line 4574
+extern cudaError_t __stdcall cudaLaunchKernelExC(const cudaLaunchConfig_t * config, const void * func, void ** args); 
+#line 4632
+extern cudaError_t __stdcall cudaLaunchCooperativeKernel(const void * func, dim3 gridDim, dim3 blockDim, void ** args, size_t sharedMem, cudaStream_t stream); 
+#line 4733
+__declspec(deprecated) extern cudaError_t __stdcall cudaLaunchCooperativeKernelMultiDevice(cudaLaunchParams * launchParamsList, unsigned numDevices, unsigned flags = 0); 
+#line 4783
+extern cudaError_t __stdcall cudaFuncSetCacheConfig(const void * func, cudaFuncCache cacheConfig); 
+#line 4818
+extern cudaError_t __stdcall cudaFuncGetAttributes(cudaFuncAttributes * attr, const void * func); 
+#line 4877
+extern cudaError_t __stdcall cudaFuncSetAttribute(const void * func, cudaFuncAttribute attr, int value); 
+#line 4903
+extern cudaError_t __stdcall cudaFuncGetName(const char ** name, const void * func); 
+#line 4926
+extern cudaError_t __stdcall cudaFuncGetParamInfo(const void * func, size_t paramIndex, size_t * paramOffset, size_t * paramSize); 
+#line 4950
+__declspec(deprecated) extern cudaError_t __stdcall cudaSetDoubleForDevice(double * d); 
+#line 4974
+__declspec(deprecated) extern cudaError_t __stdcall cudaSetDoubleForHost(double * d); 
+#line 5040
+extern cudaError_t __stdcall cudaLaunchHostFunc(cudaStream_t stream, cudaHostFn_t fn, void * userData); 
+#line 5114
+__declspec(deprecated) extern cudaError_t __stdcall cudaFuncSetSharedMemConfig(const void * func, cudaSharedMemConfig config); 
+#line 5171
+extern cudaError_t __stdcall cudaOccupancyMaxActiveBlocksPerMultiprocessor(int * numBlocks, const void * func, int blockSize, size_t dynamicSMemSize); 
+#line 5201
+extern cudaError_t __stdcall cudaOccupancyAvailableDynamicSMemPerBlock(size_t * dynamicSmemSize, const void * func, int numBlocks, int blockSize); 
+#line 5247
+extern cudaError_t __stdcall cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(int * numBlocks, const void * func, int blockSize, size_t dynamicSMemSize, unsigned flags); 
+#line 5283
+extern cudaError_t __stdcall cudaOccupancyMaxPotentialClusterSize(int * clusterSize, const void * func, const cudaLaunchConfig_t * launchConfig); 
+#line 5323
+extern cudaError_t __stdcall cudaOccupancyMaxActiveClusters(int * numClusters, const void * func, const cudaLaunchConfig_t * launchConfig); 
+#line 5443
+extern cudaError_t __stdcall cudaMallocManaged(void ** devPtr, size_t size, unsigned flags = 1); 
+#line 5476 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaMalloc(void ** devPtr, size_t size); 
+#line 5513
+extern cudaError_t __stdcall cudaMallocHost(void ** ptr, size_t size); 
+#line 5556
+extern cudaError_t __stdcall cudaMallocPitch(void ** devPtr, size_t * pitch, size_t width, size_t height); 
+#line 5608
+extern cudaError_t __stdcall cudaMallocArray(cudaArray_t * array, const cudaChannelFormatDesc * desc, size_t width, size_t height = 0, unsigned flags = 0); 
+#line 5647
+extern cudaError_t __stdcall cudaFree(void * devPtr); 
+#line 5670
+extern cudaError_t __stdcall cudaFreeHost(void * ptr); 
+#line 5693
+extern cudaError_t __stdcall cudaFreeArray(cudaArray_t array); 
+#line 5716
+extern cudaError_t __stdcall cudaFreeMipmappedArray(cudaMipmappedArray_t mipmappedArray); 
+#line 5782
+extern cudaError_t __stdcall cudaHostAlloc(void ** pHost, size_t size, unsigned flags); 
+#line 5879
+extern cudaError_t __stdcall cudaHostRegister(void * ptr, size_t size, unsigned flags); 
+#line 5902
+extern cudaError_t __stdcall cudaHostUnregister(void * ptr); 
+#line 5947
+extern cudaError_t __stdcall cudaHostGetDevicePointer(void ** pDevice, void * pHost, unsigned flags); 
+#line 5969
+extern cudaError_t __stdcall cudaHostGetFlags(unsigned * pFlags, void * pHost); 
+#line 6008
+extern cudaError_t __stdcall cudaMalloc3D(cudaPitchedPtr * pitchedDevPtr, cudaExtent extent); 
+#line 6153
+extern cudaError_t __stdcall cudaMalloc3DArray(cudaArray_t * array, const cudaChannelFormatDesc * desc, cudaExtent extent, unsigned flags = 0); 
+#line 6298
+extern cudaError_t __stdcall cudaMallocMipmappedArray(cudaMipmappedArray_t * mipmappedArray, const cudaChannelFormatDesc * desc, cudaExtent extent, unsigned numLevels, unsigned flags = 0); 
+#line 6331
+extern cudaError_t __stdcall cudaGetMipmappedArrayLevel(cudaArray_t * levelArray, cudaMipmappedArray_const_t mipmappedArray, unsigned level); 
+#line 6436
+extern cudaError_t __stdcall cudaMemcpy3D(const cudaMemcpy3DParms * p); 
+#line 6468
+extern cudaError_t __stdcall cudaMemcpy3DPeer(const cudaMemcpy3DPeerParms * p); 
+#line 6586
+extern cudaError_t __stdcall cudaMemcpy3DAsync(const cudaMemcpy3DParms * p, cudaStream_t stream = 0); 
+#line 6613
+extern cudaError_t __stdcall cudaMemcpy3DPeerAsync(const cudaMemcpy3DPeerParms * p, cudaStream_t stream = 0); 
+#line 6647
+extern cudaError_t __stdcall cudaMemGetInfo(size_t * free, size_t * total); 
+#line 6673
+extern cudaError_t __stdcall cudaArrayGetInfo(cudaChannelFormatDesc * desc, cudaExtent * extent, unsigned * flags, cudaArray_t array); 
+#line 6702
+extern cudaError_t __stdcall cudaArrayGetPlane(cudaArray_t * pPlaneArray, cudaArray_t hArray, unsigned planeIdx); 
+#line 6725
+extern cudaError_t __stdcall cudaArrayGetMemoryRequirements(cudaArrayMemoryRequirements * memoryRequirements, cudaArray_t array, int device); 
+#line 6749
+extern cudaError_t __stdcall cudaMipmappedArrayGetMemoryRequirements(cudaArrayMemoryRequirements * memoryRequirements, cudaMipmappedArray_t mipmap, int device); 
+#line 6777
+extern cudaError_t __stdcall cudaArrayGetSparseProperties(cudaArraySparseProperties * sparseProperties, cudaArray_t array); 
+#line 6807 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaMipmappedArrayGetSparseProperties(cudaArraySparseProperties * sparseProperties, cudaMipmappedArray_t mipmap); 
+#line 6852 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaMemcpy(void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
+#line 6887
+extern cudaError_t __stdcall cudaMemcpyPeer(void * dst, int dstDevice, const void * src, int srcDevice, size_t count); 
+#line 6936
+extern cudaError_t __stdcall cudaMemcpy2D(void * dst, size_t dpitch, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind); 
+#line 6986
+extern cudaError_t __stdcall cudaMemcpy2DToArray(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind); 
+#line 7036
+extern cudaError_t __stdcall cudaMemcpy2DFromArray(void * dst, size_t dpitch, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t width, size_t height, cudaMemcpyKind kind); 
+#line 7083
+extern cudaError_t __stdcall cudaMemcpy2DArrayToArray(cudaArray_t dst, size_t wOffsetDst, size_t hOffsetDst, cudaArray_const_t src, size_t wOffsetSrc, size_t hOffsetSrc, size_t width, size_t height, cudaMemcpyKind kind = cudaMemcpyDeviceToDevice); 
+#line 7126
+extern cudaError_t __stdcall cudaMemcpyToSymbol(const void * symbol, const void * src, size_t count, size_t offset = 0, cudaMemcpyKind kind = cudaMemcpyHostToDevice); 
+#line 7170
+extern cudaError_t __stdcall cudaMemcpyFromSymbol(void * dst, const void * symbol, size_t count, size_t offset = 0, cudaMemcpyKind kind = cudaMemcpyDeviceToHost); 
+#line 7227
+extern cudaError_t __stdcall cudaMemcpyAsync(void * dst, const void * src, size_t count, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 7262
+extern cudaError_t __stdcall cudaMemcpyPeerAsync(void * dst, int dstDevice, const void * src, int srcDevice, size_t count, cudaStream_t stream = 0); 
+#line 7334
+extern cudaError_t __stdcall cudaMemcpyBatchAsync(void ** dsts, void ** srcs, size_t * sizes, size_t count, cudaMemcpyAttributes * attrs, size_t * attrsIdxs, size_t numAttrs, size_t * failIdx, cudaStream_t stream); 
+#line 7402
+extern cudaError_t __stdcall cudaMemcpy3DBatchAsync(size_t numOps, cudaMemcpy3DBatchOp * opList, size_t * failIdx, unsigned __int64 flags, cudaStream_t stream); 
+#line 7465
+extern cudaError_t __stdcall cudaMemcpy2DAsync(void * dst, size_t dpitch, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 7523
+extern cudaError_t __stdcall cudaMemcpy2DToArrayAsync(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t spitch, size_t width, size_t height, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 7580
+extern cudaError_t __stdcall cudaMemcpy2DFromArrayAsync(void * dst, size_t dpitch, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t width, size_t height, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 7631
+extern cudaError_t __stdcall cudaMemcpyToSymbolAsync(const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 7682
+extern cudaError_t __stdcall cudaMemcpyFromSymbolAsync(void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 7711
+extern cudaError_t __stdcall cudaMemset(void * devPtr, int value, size_t count); 
+#line 7745
+extern cudaError_t __stdcall cudaMemset2D(void * devPtr, size_t pitch, int value, size_t width, size_t height); 
+#line 7791
+extern cudaError_t __stdcall cudaMemset3D(cudaPitchedPtr pitchedDevPtr, int value, cudaExtent extent); 
+#line 7827
+extern cudaError_t __stdcall cudaMemsetAsync(void * devPtr, int value, size_t count, cudaStream_t stream = 0); 
+#line 7868
+extern cudaError_t __stdcall cudaMemset2DAsync(void * devPtr, size_t pitch, int value, size_t width, size_t height, cudaStream_t stream = 0); 
+#line 7921
+extern cudaError_t __stdcall cudaMemset3DAsync(cudaPitchedPtr pitchedDevPtr, int value, cudaExtent extent, cudaStream_t stream = 0); 
+#line 7949
+extern cudaError_t __stdcall cudaGetSymbolAddress(void ** devPtr, const void * symbol); 
+#line 7976
+extern cudaError_t __stdcall cudaGetSymbolSize(size_t * size, const void * symbol); 
+#line 8048
+extern cudaError_t __stdcall cudaMemPrefetchAsync(const void * devPtr, size_t count, int dstDevice, cudaStream_t stream = 0); 
+#line 8129
+extern cudaError_t __stdcall cudaMemPrefetchAsync_v2(const void * devPtr, size_t count, cudaMemLocation location, unsigned flags, cudaStream_t stream = 0); 
+#line 8243
+extern cudaError_t __stdcall cudaMemAdvise(const void * devPtr, size_t count, cudaMemoryAdvise advice, int device); 
+#line 8366
+extern cudaError_t __stdcall cudaMemAdvise_v2(const void * devPtr, size_t count, cudaMemoryAdvise advice, cudaMemLocation location); 
+#line 8448
+extern cudaError_t __stdcall cudaMemRangeGetAttribute(void * data, size_t dataSize, cudaMemRangeAttribute attribute, const void * devPtr, size_t count); 
+#line 8491
+extern cudaError_t __stdcall cudaMemRangeGetAttributes(void ** data, size_t * dataSizes, cudaMemRangeAttribute * attributes, size_t numAttributes, const void * devPtr, size_t count); 
+#line 8551
+__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyToArray(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t count, cudaMemcpyKind kind); 
+#line 8593
+__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyFromArray(void * dst, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t count, cudaMemcpyKind kind); 
+#line 8636
+__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyArrayToArray(cudaArray_t dst, size_t wOffsetDst, size_t hOffsetDst, cudaArray_const_t src, size_t wOffsetSrc, size_t hOffsetSrc, size_t count, cudaMemcpyKind kind = cudaMemcpyDeviceToDevice); 
+#line 8687
+__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyToArrayAsync(cudaArray_t dst, size_t wOffset, size_t hOffset, const void * src, size_t count, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 8737
+__declspec(deprecated) extern cudaError_t __stdcall cudaMemcpyFromArrayAsync(void * dst, cudaArray_const_t src, size_t wOffset, size_t hOffset, size_t count, cudaMemcpyKind kind, cudaStream_t stream = 0); 
+#line 8806
+extern cudaError_t __stdcall cudaMallocAsync(void ** devPtr, size_t size, cudaStream_t hStream); 
+#line 8832
+extern cudaError_t __stdcall cudaFreeAsync(void * devPtr, cudaStream_t hStream); 
+#line 8857
+extern cudaError_t __stdcall cudaMemPoolTrimTo(cudaMemPool_t memPool, size_t minBytesToKeep); 
+#line 8901
+extern cudaError_t __stdcall cudaMemPoolSetAttribute(cudaMemPool_t memPool, cudaMemPoolAttr attr, void * value); 
+#line 8949
+extern cudaError_t __stdcall cudaMemPoolGetAttribute(cudaMemPool_t memPool, cudaMemPoolAttr attr, void * value); 
+#line 8964
+extern cudaError_t __stdcall cudaMemPoolSetAccess(cudaMemPool_t memPool, const cudaMemAccessDesc * descList, size_t count); 
+#line 8977
+extern cudaError_t __stdcall cudaMemPoolGetAccess(cudaMemAccessFlags * flags, cudaMemPool_t memPool, cudaMemLocation * location); 
+#line 9021
+extern cudaError_t __stdcall cudaMemPoolCreate(cudaMemPool_t * memPool, const cudaMemPoolProps * poolProps); 
+#line 9043
+extern cudaError_t __stdcall cudaMemPoolDestroy(cudaMemPool_t memPool); 
+#line 9079
+extern cudaError_t __stdcall cudaMallocFromPoolAsync(void ** ptr, size_t size, cudaMemPool_t memPool, cudaStream_t stream); 
+#line 9104
+extern cudaError_t __stdcall cudaMemPoolExportToShareableHandle(void * shareableHandle, cudaMemPool_t memPool, cudaMemAllocationHandleType handleType, unsigned flags); 
+#line 9131
+extern cudaError_t __stdcall cudaMemPoolImportFromShareableHandle(cudaMemPool_t * memPool, void * shareableHandle, cudaMemAllocationHandleType handleType, unsigned flags); 
+#line 9154
+extern cudaError_t __stdcall cudaMemPoolExportPointer(cudaMemPoolPtrExportData * exportData, void * ptr); 
+#line 9183
+extern cudaError_t __stdcall cudaMemPoolImportPointer(void ** ptr, cudaMemPool_t memPool, cudaMemPoolPtrExportData * exportData); 
+#line 9336
+extern cudaError_t __stdcall cudaPointerGetAttributes(cudaPointerAttributes * attributes, const void * ptr); 
+#line 9377
+extern cudaError_t __stdcall cudaDeviceCanAccessPeer(int * canAccessPeer, int device, int peerDevice); 
+#line 9419
+extern cudaError_t __stdcall cudaDeviceEnablePeerAccess(int peerDevice, unsigned flags); 
+#line 9441
+extern cudaError_t __stdcall cudaDeviceDisablePeerAccess(int peerDevice); 
+#line 9505
+extern cudaError_t __stdcall cudaGraphicsUnregisterResource(cudaGraphicsResource_t resource); 
+#line 9540
+extern cudaError_t __stdcall cudaGraphicsResourceSetMapFlags(cudaGraphicsResource_t resource, unsigned flags); 
+#line 9579
+extern cudaError_t __stdcall cudaGraphicsMapResources(int count, cudaGraphicsResource_t * resources, cudaStream_t stream = 0); 
+#line 9614
+extern cudaError_t __stdcall cudaGraphicsUnmapResources(int count, cudaGraphicsResource_t * resources, cudaStream_t stream = 0); 
+#line 9646
+extern cudaError_t __stdcall cudaGraphicsResourceGetMappedPointer(void ** devPtr, size_t * size, cudaGraphicsResource_t resource); 
+#line 9684
+extern cudaError_t __stdcall cudaGraphicsSubResourceGetMappedArray(cudaArray_t * array, cudaGraphicsResource_t resource, unsigned arrayIndex, unsigned mipLevel); 
+#line 9713
+extern cudaError_t __stdcall cudaGraphicsResourceGetMappedMipmappedArray(cudaMipmappedArray_t * mipmappedArray, cudaGraphicsResource_t resource); 
+#line 9748
+extern cudaError_t __stdcall cudaGetChannelDesc(cudaChannelFormatDesc * desc, cudaArray_const_t array); 
+#line 9778
+extern cudaChannelFormatDesc __stdcall cudaCreateChannelDesc(int x, int y, int z, int w, cudaChannelFormatKind f); 
+#line 10003
+extern cudaError_t __stdcall cudaCreateTextureObject(cudaTextureObject_t * pTexObject, const cudaResourceDesc * pResDesc, const cudaTextureDesc * pTexDesc, const cudaResourceViewDesc * pResViewDesc); 
+#line 10023
+extern cudaError_t __stdcall cudaDestroyTextureObject(cudaTextureObject_t texObject); 
+#line 10043
+extern cudaError_t __stdcall cudaGetTextureObjectResourceDesc(cudaResourceDesc * pResDesc, cudaTextureObject_t texObject); 
+#line 10063
+extern cudaError_t __stdcall cudaGetTextureObjectTextureDesc(cudaTextureDesc * pTexDesc, cudaTextureObject_t texObject); 
+#line 10084
+extern cudaError_t __stdcall cudaGetTextureObjectResourceViewDesc(cudaResourceViewDesc * pResViewDesc, cudaTextureObject_t texObject); 
+#line 10129
+extern cudaError_t __stdcall cudaCreateSurfaceObject(cudaSurfaceObject_t * pSurfObject, const cudaResourceDesc * pResDesc); 
+#line 10149
+extern cudaError_t __stdcall cudaDestroySurfaceObject(cudaSurfaceObject_t surfObject); 
+#line 10168
+extern cudaError_t __stdcall cudaGetSurfaceObjectResourceDesc(cudaResourceDesc * pResDesc, cudaSurfaceObject_t surfObject); 
+#line 10202
+extern cudaError_t __stdcall cudaDriverGetVersion(int * driverVersion); 
+#line 10231
+extern cudaError_t __stdcall cudaRuntimeGetVersion(int * runtimeVersion); 
+#line 10278
+extern cudaError_t __stdcall cudaGraphCreate(cudaGraph_t * pGraph, unsigned flags); 
+#line 10377
+extern cudaError_t __stdcall cudaGraphAddKernelNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaKernelNodeParams * pNodeParams); 
+#line 10410
+extern cudaError_t __stdcall cudaGraphKernelNodeGetParams(cudaGraphNode_t node, cudaKernelNodeParams * pNodeParams); 
+#line 10437
+extern cudaError_t __stdcall cudaGraphKernelNodeSetParams(cudaGraphNode_t node, const cudaKernelNodeParams * pNodeParams); 
+#line 10457
+extern cudaError_t __stdcall cudaGraphKernelNodeCopyAttributes(cudaGraphNode_t hSrc, cudaGraphNode_t hDst); 
+#line 10480
+extern cudaError_t __stdcall cudaGraphKernelNodeGetAttribute(cudaGraphNode_t hNode, cudaLaunchAttributeID attr, cudaLaunchAttributeValue * value_out); 
+#line 10504
+extern cudaError_t __stdcall cudaGraphKernelNodeSetAttribute(cudaGraphNode_t hNode, cudaLaunchAttributeID attr, const cudaLaunchAttributeValue * value); 
+#line 10555
+extern cudaError_t __stdcall cudaGraphAddMemcpyNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaMemcpy3DParms * pCopyParams); 
+#line 10614
+extern cudaError_t __stdcall cudaGraphAddMemcpyNodeToSymbol(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind); 
+#line 10683 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddMemcpyNodeFromSymbol(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind); 
+#line 10751 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddMemcpyNode1D(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
+#line 10783 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphMemcpyNodeGetParams(cudaGraphNode_t node, cudaMemcpy3DParms * pNodeParams); 
+#line 10810
+extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParams(cudaGraphNode_t node, const cudaMemcpy3DParms * pNodeParams); 
+#line 10849
+extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParamsToSymbol(cudaGraphNode_t node, const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind); 
+#line 10895 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParamsFromSymbol(cudaGraphNode_t node, void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind); 
+#line 10941 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphMemcpyNodeSetParams1D(cudaGraphNode_t node, void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
+#line 10989 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddMemsetNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaMemsetParams * pMemsetParams); 
+#line 11012
+extern cudaError_t __stdcall cudaGraphMemsetNodeGetParams(cudaGraphNode_t node, cudaMemsetParams * pNodeParams); 
+#line 11036
+extern cudaError_t __stdcall cudaGraphMemsetNodeSetParams(cudaGraphNode_t node, const cudaMemsetParams * pNodeParams); 
+#line 11078
+extern cudaError_t __stdcall cudaGraphAddHostNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaHostNodeParams * pNodeParams); 
+#line 11101
+extern cudaError_t __stdcall cudaGraphHostNodeGetParams(cudaGraphNode_t node, cudaHostNodeParams * pNodeParams); 
+#line 11125
+extern cudaError_t __stdcall cudaGraphHostNodeSetParams(cudaGraphNode_t node, const cudaHostNodeParams * pNodeParams); 
+#line 11166
+extern cudaError_t __stdcall cudaGraphAddChildGraphNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaGraph_t childGraph); 
+#line 11193
+extern cudaError_t __stdcall cudaGraphChildGraphNodeGetGraph(cudaGraphNode_t node, cudaGraph_t * pGraph); 
+#line 11231
+extern cudaError_t __stdcall cudaGraphAddEmptyNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies); 
+#line 11275
+extern cudaError_t __stdcall cudaGraphAddEventRecordNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaEvent_t event); 
+#line 11302 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphEventRecordNodeGetEvent(cudaGraphNode_t node, cudaEvent_t * event_out); 
+#line 11330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphEventRecordNodeSetEvent(cudaGraphNode_t node, cudaEvent_t event); 
+#line 11377 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddEventWaitNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaEvent_t event); 
+#line 11404 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphEventWaitNodeGetEvent(cudaGraphNode_t node, cudaEvent_t * event_out); 
+#line 11432 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphEventWaitNodeSetEvent(cudaGraphNode_t node, cudaEvent_t event); 
+#line 11482 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddExternalSemaphoresSignalNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaExternalSemaphoreSignalNodeParams * nodeParams); 
+#line 11515 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExternalSemaphoresSignalNodeGetParams(cudaGraphNode_t hNode, cudaExternalSemaphoreSignalNodeParams * params_out); 
+#line 11543 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExternalSemaphoresSignalNodeSetParams(cudaGraphNode_t hNode, const cudaExternalSemaphoreSignalNodeParams * nodeParams); 
+#line 11593 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddExternalSemaphoresWaitNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, const cudaExternalSemaphoreWaitNodeParams * nodeParams); 
+#line 11626 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExternalSemaphoresWaitNodeGetParams(cudaGraphNode_t hNode, cudaExternalSemaphoreWaitNodeParams * params_out); 
+#line 11654 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExternalSemaphoresWaitNodeSetParams(cudaGraphNode_t hNode, const cudaExternalSemaphoreWaitNodeParams * nodeParams); 
+#line 11732 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddMemAllocNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaMemAllocNodeParams * nodeParams); 
+#line 11759 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphMemAllocNodeGetParams(cudaGraphNode_t node, cudaMemAllocNodeParams * params_out); 
+#line 11820 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphAddMemFreeNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, void * dptr); 
+#line 11844 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphMemFreeNodeGetParams(cudaGraphNode_t node, void * dptr_out); 
+#line 11872 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaDeviceGraphMemTrim(int device); 
+#line 11909 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaDeviceGetGraphMemAttribute(int device, cudaGraphMemAttributeType attr, void * value); 
+#line 11943 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaDeviceSetGraphMemAttribute(int device, cudaGraphMemAttributeType attr, void * value); 
+#line 11971 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphClone(cudaGraph_t * pGraphClone, cudaGraph_t originalGraph); 
+#line 11999
+extern cudaError_t __stdcall cudaGraphNodeFindInClone(cudaGraphNode_t * pNode, cudaGraphNode_t originalNode, cudaGraph_t clonedGraph); 
+#line 12030
+extern cudaError_t __stdcall cudaGraphNodeGetType(cudaGraphNode_t node, cudaGraphNodeType * pType); 
+#line 12061
+extern cudaError_t __stdcall cudaGraphGetNodes(cudaGraph_t graph, cudaGraphNode_t * nodes, size_t * numNodes); 
+#line 12092
+extern cudaError_t __stdcall cudaGraphGetRootNodes(cudaGraph_t graph, cudaGraphNode_t * pRootNodes, size_t * pNumRootNodes); 
+#line 12126
+extern cudaError_t __stdcall cudaGraphGetEdges(cudaGraph_t graph, cudaGraphNode_t * from, cudaGraphNode_t * to, size_t * numEdges); 
+#line 12166
+extern cudaError_t __stdcall cudaGraphGetEdges_v2(cudaGraph_t graph, cudaGraphNode_t * from, cudaGraphNode_t * to, cudaGraphEdgeData * edgeData, size_t * numEdges); 
+#line 12197
+extern cudaError_t __stdcall cudaGraphNodeGetDependencies(cudaGraphNode_t node, cudaGraphNode_t * pDependencies, size_t * pNumDependencies); 
+#line 12234
+extern cudaError_t __stdcall cudaGraphNodeGetDependencies_v2(cudaGraphNode_t node, cudaGraphNode_t * pDependencies, cudaGraphEdgeData * edgeData, size_t * pNumDependencies); 
+#line 12266
+extern cudaError_t __stdcall cudaGraphNodeGetDependentNodes(cudaGraphNode_t node, cudaGraphNode_t * pDependentNodes, size_t * pNumDependentNodes); 
+#line 12304
+extern cudaError_t __stdcall cudaGraphNodeGetDependentNodes_v2(cudaGraphNode_t node, cudaGraphNode_t * pDependentNodes, cudaGraphEdgeData * edgeData, size_t * pNumDependentNodes); 
+#line 12335
+extern cudaError_t __stdcall cudaGraphAddDependencies(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, size_t numDependencies); 
+#line 12367
+extern cudaError_t __stdcall cudaGraphAddDependencies_v2(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, const cudaGraphEdgeData * edgeData, size_t numDependencies); 
+#line 12398
+extern cudaError_t __stdcall cudaGraphRemoveDependencies(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, size_t numDependencies); 
+#line 12433
+extern cudaError_t __stdcall cudaGraphRemoveDependencies_v2(cudaGraph_t graph, const cudaGraphNode_t * from, const cudaGraphNode_t * to, const cudaGraphEdgeData * edgeData, size_t numDependencies); 
+#line 12463
+extern cudaError_t __stdcall cudaGraphDestroyNode(cudaGraphNode_t node); 
+#line 12534
+extern cudaError_t __stdcall cudaGraphInstantiate(cudaGraphExec_t * pGraphExec, cudaGraph_t graph, unsigned __int64 flags = 0); 
+#line 12607
+extern cudaError_t __stdcall cudaGraphInstantiateWithFlags(cudaGraphExec_t * pGraphExec, cudaGraph_t graph, unsigned __int64 flags = 0); 
+#line 12714 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphInstantiateWithParams(cudaGraphExec_t * pGraphExec, cudaGraph_t graph, cudaGraphInstantiateParams * instantiateParams); 
+#line 12739
+extern cudaError_t __stdcall cudaGraphExecGetFlags(cudaGraphExec_t graphExec, unsigned __int64 * flags); 
+#line 12799
+extern cudaError_t __stdcall cudaGraphExecKernelNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaKernelNodeParams * pNodeParams); 
+#line 12850
+extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaMemcpy3DParms * pNodeParams); 
+#line 12905
+extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParamsToSymbol(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const void * symbol, const void * src, size_t count, size_t offset, cudaMemcpyKind kind); 
+#line 12968 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParamsFromSymbol(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, void * dst, const void * symbol, size_t count, size_t offset, cudaMemcpyKind kind); 
+#line 13029 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecMemcpyNodeSetParams1D(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, void * dst, const void * src, size_t count, cudaMemcpyKind kind); 
+#line 13088 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecMemsetNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaMemsetParams * pNodeParams); 
+#line 13128
+extern cudaError_t __stdcall cudaGraphExecHostNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, const cudaHostNodeParams * pNodeParams); 
+#line 13175
+extern cudaError_t __stdcall cudaGraphExecChildGraphNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t node, cudaGraph_t childGraph); 
+#line 13220 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecEventRecordNodeSetEvent(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, cudaEvent_t event); 
+#line 13265 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecEventWaitNodeSetEvent(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, cudaEvent_t event); 
+#line 13313 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecExternalSemaphoresSignalNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, const cudaExternalSemaphoreSignalNodeParams * nodeParams); 
+#line 13361 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecExternalSemaphoresWaitNodeSetParams(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, const cudaExternalSemaphoreWaitNodeParams * nodeParams); 
+#line 13401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphNodeSetEnabled(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, unsigned isEnabled); 
+#line 13435 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphNodeGetEnabled(cudaGraphExec_t hGraphExec, cudaGraphNode_t hNode, unsigned * isEnabled); 
+#line 13529 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphExecUpdate(cudaGraphExec_t hGraphExec, cudaGraph_t hGraph, cudaGraphExecUpdateResultInfo * resultInfo); 
+#line 13554
+extern cudaError_t __stdcall cudaGraphUpload(cudaGraphExec_t graphExec, cudaStream_t stream); 
+#line 13585 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGraphLaunch(cudaGraphExec_t graphExec, cudaStream_t stream); 
+#line 13608
+extern cudaError_t __stdcall cudaGraphExecDestroy(cudaGraphExec_t graphExec); 
+#line 13629
+extern cudaError_t __stdcall cudaGraphDestroy(cudaGraph_t graph); 
+#line 13648
+extern cudaError_t __stdcall cudaGraphDebugDotPrint(cudaGraph_t graph, const char * path, unsigned flags); 
+#line 13684
+extern cudaError_t __stdcall cudaUserObjectCreate(cudaUserObject_t * object_out, void * ptr, cudaHostFn_t destroy, unsigned initialRefcount, unsigned flags); 
+#line 13708
+extern cudaError_t __stdcall cudaUserObjectRetain(cudaUserObject_t object, unsigned count = 1); 
+#line 13736
+extern cudaError_t __stdcall cudaUserObjectRelease(cudaUserObject_t object, unsigned count = 1); 
+#line 13764
+extern cudaError_t __stdcall cudaGraphRetainUserObject(cudaGraph_t graph, cudaUserObject_t object, unsigned count = 1, unsigned flags = 0); 
+#line 13789
+extern cudaError_t __stdcall cudaGraphReleaseUserObject(cudaGraph_t graph, cudaUserObject_t object, unsigned count = 1); 
+#line 13831
+extern cudaError_t __stdcall cudaGraphAddNode(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, size_t numDependencies, cudaGraphNodeParams * nodeParams); 
+#line 13875
+extern cudaError_t __stdcall cudaGraphAddNode_v2(cudaGraphNode_t * pGraphNode, cudaGraph_t graph, const cudaGraphNode_t * pDependencies, const cudaGraphEdgeData * dependencyData, size_t numDependencies, cudaGraphNodeParams * nodeParams); 
+#line 13904
+extern cudaError_t __stdcall cudaGraphNodeSetParams(cudaGraphNode_t node, cudaGraphNodeParams * nodeParams); 
+#line 13953
+extern cudaError_t __stdcall cudaGraphExecNodeSetParams(cudaGraphExec_t graphExec, cudaGraphNode_t node, cudaGraphNodeParams * nodeParams); 
+#line 13980
+extern cudaError_t __stdcall cudaGraphConditionalHandleCreate(cudaGraphConditionalHandle * pHandle_out, cudaGraph_t graph, unsigned defaultLaunchValue = 0, unsigned flags = 0); 
+#line 14061
+extern cudaError_t __stdcall cudaGetDriverEntryPoint(const char * symbol, void ** funcPtr, unsigned __int64 flags, cudaDriverEntryPointQueryResult * driverStatus = 0); 
+#line 14137 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaGetDriverEntryPointByVersion(const char * symbol, void ** funcPtr, unsigned cudaVersion, unsigned __int64 flags, cudaDriverEntryPointQueryResult * driverStatus = 0); 
+#line 14212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+extern cudaError_t __stdcall cudaLibraryLoadData(cudaLibrary_t * library, const void * code, cudaJitOption * jitOptions, void ** jitOptionsValues, unsigned numJitOptions, cudaLibraryOption * libraryOptions, void ** libraryOptionValues, unsigned numLibraryOptions); 
+#line 14272
+extern cudaError_t __stdcall cudaLibraryLoadFromFile(cudaLibrary_t * library, const char * fileName, cudaJitOption * jitOptions, void ** jitOptionsValues, unsigned numJitOptions, cudaLibraryOption * libraryOptions, void ** libraryOptionValues, unsigned numLibraryOptions); 
+#line 14293
+extern cudaError_t __stdcall cudaLibraryUnload(cudaLibrary_t library); 
+#line 14318
+extern cudaError_t __stdcall cudaLibraryGetKernel(cudaKernel_t * pKernel, cudaLibrary_t library, const char * name); 
+#line 14352
+extern cudaError_t __stdcall cudaLibraryGetGlobal(void ** dptr, size_t * bytes, cudaLibrary_t library, const char * name); 
+#line 14385
+extern cudaError_t __stdcall cudaLibraryGetManaged(void ** dptr, size_t * bytes, cudaLibrary_t library, const char * name); 
+#line 14412
+extern cudaError_t __stdcall cudaLibraryGetUnifiedFunction(void ** fptr, cudaLibrary_t library, const char * symbol); 
+#line 14434
+extern cudaError_t __stdcall cudaLibraryGetKernelCount(unsigned * count, cudaLibrary_t lib); 
+#line 14456
+extern cudaError_t __stdcall cudaLibraryEnumerateKernels(cudaKernel_t * kernels, unsigned numKernels, cudaLibrary_t lib); 
+#line 14525
+extern cudaError_t __stdcall cudaKernelSetAttributeForDevice(cudaKernel_t kernel, cudaFuncAttribute attr, int value, int device); 
+#line 14530
+extern cudaError_t __stdcall cudaGetExportTable(const void ** ppExportTable, const cudaUUID_t * pExportTableId); 
+#line 14716
+extern cudaError_t cudaGetFuncBySymbol(cudaFunction_t * functionPtr, const void * symbolPtr); 
+#line 14740
+extern cudaError_t __stdcall cudaGetKernel(cudaKernel_t * kernelPtr, const void * entryFuncAddr); 
+#line 14918 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\cuda_runtime_api.h"
+}
+#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\channel_descriptor.h"
+template< class T> __inline ::cudaChannelFormatDesc cudaCreateChannelDesc() 
+#line 121
 { 
-#line 574
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed7); 
+#line 122
+return cudaCreateChannelDesc(0, 0, 0, 0, cudaChannelFormatKindNone); 
+#line 123
+} 
+#line 125
+static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf() 
+#line 126
+{ 
+#line 127
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 129
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
+#line 130
+} 
+#line 132
+static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf1() 
+#line 133
+{ 
+#line 134
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 136
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
+#line 137
+} 
+#line 139
+static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf2() 
+#line 140
+{ 
+#line 141
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 143
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindFloat); 
+#line 144
+} 
+#line 146
+static __inline cudaChannelFormatDesc cudaCreateChannelDescHalf4() 
+#line 147
+{ 
+#line 148
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 150
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindFloat); 
+#line 151
+} 
+#line 153
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char> () 
+#line 154
+{ 
+#line 155
+int e = (((int)sizeof(char)) * 8); 
+#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\channel_descriptor.h"
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\channel_descriptor.h"
+} 
+#line 164
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< signed char> () 
+#line 165
+{ 
+#line 166
+int e = (((int)sizeof(signed char)) * 8); 
+#line 168
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 169
+} 
+#line 171
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned char> () 
+#line 172
+{ 
+#line 173
+int e = (((int)sizeof(unsigned char)) * 8); 
+#line 175
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 176
+} 
+#line 178
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char1> () 
+#line 179
+{ 
+#line 180
+int e = (((int)sizeof(signed char)) * 8); 
+#line 182
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 183
+} 
+#line 185
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uchar1> () 
+#line 186
+{ 
+#line 187
+int e = (((int)sizeof(unsigned char)) * 8); 
+#line 189
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 190
+} 
+#line 192
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char2> () 
+#line 193
+{ 
+#line 194
+int e = (((int)sizeof(signed char)) * 8); 
+#line 196
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
+#line 197
+} 
+#line 199
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uchar2> () 
+#line 200
+{ 
+#line 201
+int e = (((int)sizeof(unsigned char)) * 8); 
+#line 203
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 204
+} 
+#line 206
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< char4> () 
+#line 207
+{ 
+#line 208
+int e = (((int)sizeof(signed char)) * 8); 
+#line 210
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
+#line 211
+} 
+#line 213
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uchar4> () 
+#line 214
+{ 
+#line 215
+int e = (((int)sizeof(unsigned char)) * 8); 
+#line 217
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
+#line 218
+} 
+#line 220
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short> () 
+#line 221
+{ 
+#line 222
+int e = (((int)sizeof(short)) * 8); 
+#line 224
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 225
+} 
+#line 227
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned short> () 
+#line 228
+{ 
+#line 229
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 231
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 232
+} 
+#line 234
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short1> () 
+#line 235
+{ 
+#line 236
+int e = (((int)sizeof(short)) * 8); 
+#line 238
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 239
+} 
+#line 241
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ushort1> () 
+#line 242
+{ 
+#line 243
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 245
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 246
+} 
+#line 248
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short2> () 
+#line 249
+{ 
+#line 250
+int e = (((int)sizeof(short)) * 8); 
+#line 252
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
+#line 253
+} 
+#line 255
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ushort2> () 
+#line 256
+{ 
+#line 257
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 259
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 260
+} 
+#line 262
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< short4> () 
+#line 263
+{ 
+#line 264
+int e = (((int)sizeof(short)) * 8); 
+#line 266
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
+#line 267
+} 
+#line 269
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ushort4> () 
+#line 270
+{ 
+#line 271
+int e = (((int)sizeof(unsigned short)) * 8); 
+#line 273
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
+#line 274
+} 
+#line 276
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int> () 
+#line 277
+{ 
+#line 278
+int e = (((int)sizeof(int)) * 8); 
+#line 280
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 281
+} 
+#line 283
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned> () 
+#line 284
+{ 
+#line 285
+int e = (((int)sizeof(unsigned)) * 8); 
+#line 287
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 288
+} 
+#line 290
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int1> () 
+#line 291
+{ 
+#line 292
+int e = (((int)sizeof(int)) * 8); 
+#line 294
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 295
+} 
+#line 297
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uint1> () 
+#line 298
+{ 
+#line 299
+int e = (((int)sizeof(unsigned)) * 8); 
+#line 301
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 302
+} 
+#line 304
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int2> () 
+#line 305
+{ 
+#line 306
+int e = (((int)sizeof(int)) * 8); 
+#line 308
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
+#line 309
+} 
+#line 311
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uint2> () 
+#line 312
+{ 
+#line 313
+int e = (((int)sizeof(unsigned)) * 8); 
+#line 315
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 316
+} 
+#line 318
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< int4> () 
+#line 319
+{ 
+#line 320
+int e = (((int)sizeof(int)) * 8); 
+#line 322
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
+#line 323
+} 
+#line 325
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< uint4> () 
+#line 326
+{ 
+#line 327
+int e = (((int)sizeof(unsigned)) * 8); 
+#line 329
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
+#line 330
+} 
+#line 334
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long> () 
+#line 335
+{ 
+#line 336
+int e = (((int)sizeof(long)) * 8); 
+#line 338
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 339
+} 
+#line 341
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< unsigned long> () 
+#line 342
+{ 
+#line 343
+int e = (((int)sizeof(unsigned long)) * 8); 
+#line 345
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 346
+} 
+#line 348
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long1> () 
+#line 349
+{ 
+#line 350
+int e = (((int)sizeof(long)) * 8); 
+#line 352
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindSigned); 
+#line 353
+} 
+#line 355
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ulong1> () 
+#line 356
+{ 
+#line 357
+int e = (((int)sizeof(unsigned long)) * 8); 
+#line 359
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 360
+} 
+#line 362
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long2> () 
+#line 363
+{ 
+#line 364
+int e = (((int)sizeof(long)) * 8); 
+#line 366
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindSigned); 
+#line 367
+} 
+#line 369
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ulong2> () 
+#line 370
+{ 
+#line 371
+int e = (((int)sizeof(unsigned long)) * 8); 
+#line 373
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindUnsigned); 
+#line 374
+} 
+#line 376
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< long4> () 
+#line 377
+{ 
+#line 378
+int e = (((int)sizeof(long)) * 8); 
+#line 380
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindSigned); 
+#line 381
+} 
+#line 383
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< ulong4> () 
+#line 384
+{ 
+#line 385
+int e = (((int)sizeof(unsigned long)) * 8); 
+#line 387
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindUnsigned); 
+#line 388
+} 
+#line 392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\channel_descriptor.h"
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float> () 
+#line 393
+{ 
+#line 394
+int e = (((int)sizeof(float)) * 8); 
+#line 396
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
+#line 397
+} 
+#line 399
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float1> () 
+#line 400
+{ 
+#line 401
+int e = (((int)sizeof(float)) * 8); 
+#line 403
+return cudaCreateChannelDesc(e, 0, 0, 0, cudaChannelFormatKindFloat); 
+#line 404
+} 
+#line 406
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float2> () 
+#line 407
+{ 
+#line 408
+int e = (((int)sizeof(float)) * 8); 
+#line 410
+return cudaCreateChannelDesc(e, e, 0, 0, cudaChannelFormatKindFloat); 
+#line 411
+} 
+#line 413
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< float4> () 
+#line 414
+{ 
+#line 415
+int e = (((int)sizeof(float)) * 8); 
+#line 417
+return cudaCreateChannelDesc(e, e, e, e, cudaChannelFormatKindFloat); 
+#line 418
+} 
+#line 420
+static __inline cudaChannelFormatDesc cudaCreateChannelDescNV12() 
+#line 421
+{ 
+#line 422
+int e = (((int)sizeof(char)) * 8); 
+#line 424
+return cudaCreateChannelDesc(e, e, e, 0, cudaChannelFormatKindNV12); 
+#line 425
+} 
+#line 427
+template< cudaChannelFormatKind > __inline ::cudaChannelFormatDesc cudaCreateChannelDesc() 
+#line 428
+{ 
+#line 429
+return cudaCreateChannelDesc(0, 0, 0, 0, cudaChannelFormatKindNone); 
+#line 430
+} 
+#line 433
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized8X1> () 
+#line 434
+{ 
+#line 435
+return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindSignedNormalized8X1); 
+#line 436
+} 
+#line 438
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized8X2> () 
+#line 439
+{ 
+#line 440
+return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindSignedNormalized8X2); 
+#line 441
+} 
+#line 443
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized8X4> () 
+#line 444
+{ 
+#line 445
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindSignedNormalized8X4); 
+#line 446
+} 
+#line 449
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized8X1> () 
+#line 450
+{ 
+#line 451
+return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindUnsignedNormalized8X1); 
+#line 452
+} 
+#line 454
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized8X2> () 
+#line 455
+{ 
+#line 456
+return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindUnsignedNormalized8X2); 
+#line 457
+} 
+#line 459
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized8X4> () 
+#line 460
+{ 
+#line 461
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedNormalized8X4); 
+#line 462
+} 
+#line 465
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized16X1> () 
+#line 466
+{ 
+#line 467
+return cudaCreateChannelDesc(16, 0, 0, 0, cudaChannelFormatKindSignedNormalized16X1); 
+#line 468
+} 
+#line 470
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized16X2> () 
+#line 471
+{ 
+#line 472
+return cudaCreateChannelDesc(16, 16, 0, 0, cudaChannelFormatKindSignedNormalized16X2); 
+#line 473
+} 
+#line 475
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedNormalized16X4> () 
+#line 476
+{ 
+#line 477
+return cudaCreateChannelDesc(16, 16, 16, 16, cudaChannelFormatKindSignedNormalized16X4); 
+#line 478
+} 
+#line 481
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized16X1> () 
+#line 482
+{ 
+#line 483
+return cudaCreateChannelDesc(16, 0, 0, 0, cudaChannelFormatKindUnsignedNormalized16X1); 
+#line 484
+} 
+#line 486
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized16X2> () 
+#line 487
+{ 
+#line 488
+return cudaCreateChannelDesc(16, 16, 0, 0, cudaChannelFormatKindUnsignedNormalized16X2); 
+#line 489
+} 
+#line 491
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized16X4> () 
+#line 492
+{ 
+#line 493
+return cudaCreateChannelDesc(16, 16, 16, 16, cudaChannelFormatKindUnsignedNormalized16X4); 
+#line 494
+} 
+#line 497
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindNV12> () 
+#line 498
+{ 
+#line 499
+return cudaCreateChannelDesc(8, 8, 8, 0, cudaChannelFormatKindNV12); 
+#line 500
+} 
+#line 503
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedNormalized1010102> () 
+#line 504
+{ 
+#line 505
+return cudaCreateChannelDesc(10, 10, 10, 2, cudaChannelFormatKindUnsignedNormalized1010102); 
+#line 506
+} 
+#line 509
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed1> () 
+#line 510
+{ 
+#line 511
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed1); 
+#line 512
+} 
+#line 515
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed1SRGB> () 
+#line 516
+{ 
+#line 517
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed1SRGB); 
+#line 518
+} 
+#line 521
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed2> () 
+#line 522
+{ 
+#line 523
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed2); 
+#line 524
+} 
+#line 527
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed2SRGB> () 
+#line 528
+{ 
+#line 529
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed2SRGB); 
+#line 530
+} 
+#line 533
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed3> () 
+#line 534
+{ 
+#line 535
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed3); 
+#line 536
+} 
+#line 539
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed3SRGB> () 
+#line 540
+{ 
+#line 541
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed3SRGB); 
+#line 542
+} 
+#line 545
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed4> () 
+#line 546
+{ 
+#line 547
+return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindUnsignedBlockCompressed4); 
+#line 548
+} 
+#line 551
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedBlockCompressed4> () 
+#line 552
+{ 
+#line 553
+return cudaCreateChannelDesc(8, 0, 0, 0, cudaChannelFormatKindSignedBlockCompressed4); 
+#line 554
+} 
+#line 557
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed5> () 
+#line 558
+{ 
+#line 559
+return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindUnsignedBlockCompressed5); 
+#line 560
+} 
+#line 563
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedBlockCompressed5> () 
+#line 564
+{ 
+#line 565
+return cudaCreateChannelDesc(8, 8, 0, 0, cudaChannelFormatKindSignedBlockCompressed5); 
+#line 566
+} 
+#line 569
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed6H> () 
+#line 570
+{ 
+#line 571
+return cudaCreateChannelDesc(16, 16, 16, 0, cudaChannelFormatKindUnsignedBlockCompressed6H); 
+#line 572
+} 
 #line 575
-} 
-#line 578
-template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed7SRGB> () 
-#line 579
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindSignedBlockCompressed6H> () 
+#line 576
 { 
-#line 580
-return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed7SRGB); 
-#line 581
+#line 577
+return cudaCreateChannelDesc(16, 16, 16, 0, cudaChannelFormatKindSignedBlockCompressed6H); 
+#line 578
 } 
-#line 79 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\driver_functions.h"
+#line 581
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed7> () 
+#line 582
+{ 
+#line 583
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed7); 
+#line 584
+} 
+#line 587
+template<> __inline cudaChannelFormatDesc cudaCreateChannelDesc< cudaChannelFormatKindUnsignedBlockCompressed7SRGB> () 
+#line 588
+{ 
+#line 589
+return cudaCreateChannelDesc(8, 8, 8, 8, cudaChannelFormatKindUnsignedBlockCompressed7SRGB); 
+#line 590
+} 
+#line 79 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\driver_functions.h"
 static __inline cudaPitchedPtr make_cudaPitchedPtr(void *d, size_t p, size_t xsz, size_t ysz) 
 #line 80
 { 
@@ -6729,7 +7015,7 @@ cudaExtent e;
 return e; 
 #line 141
 } 
-#line 77 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_functions.h"
+#line 77 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_functions.h"
 static __inline char1 make_char1(signed char x); 
 #line 79
 static __inline uchar1 make_uchar1(unsigned char x); 
@@ -6825,7 +7111,7 @@ static __inline double2 make_double2(double x, double y);
 static __inline double3 make_double3(double x, double y, double z); 
 #line 171
 static __inline double4 make_double4(double x, double y, double z, double w); 
-#line 73 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\vector_functions.hpp"
+#line 73 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\vector_functions.hpp"
 static __inline char1 make_char1(signed char x) 
 #line 74
 { 
@@ -8168,359 +8454,359 @@ void __cdecl tzset();
 }__pragma( pack ( pop )) 
 #line 647
 #pragma warning(pop)
-#line 88 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt/common_functions.h"
+#line 88 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/common_functions.h"
 extern "C" {
-#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt/common_functions.h"
+#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/common_functions.h"
 extern clock_t __cdecl clock(); 
-#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt/common_functions.h"
+#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/common_functions.h"
 extern void *__cdecl memset(void *, int, size_t); 
 #line 97
 extern void *__cdecl memcpy(void *, const void *, size_t); 
 #line 99
 }
-#line 126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern "C" {
-#line 231 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 233 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __cdecl abs(int a); 
-#line 242
+#line 244
 extern long __cdecl labs(long a); 
-#line 253
+#line 255
 extern __int64 llabs(__int64 a); 
-#line 281 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 283 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl fabs(double x); 
-#line 301
+#line 306 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern __inline float fabsf(float x); 
-#line 311 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline int min(const int a, const int b); 
-#line 318
+#line 324
 extern inline unsigned umin(const unsigned a, const unsigned b); 
-#line 325
+#line 331
 extern inline __int64 llmin(const __int64 a, const __int64 b); 
-#line 332
+#line 338
 extern inline unsigned __int64 ullmin(const unsigned __int64 a, const unsigned __int64 b); 
-#line 355 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 361 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl fminf(float x, float y); 
-#line 375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 381 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl fmin(double x, double y); 
-#line 386 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline int max(const int a, const int b); 
-#line 394
+#line 400
 extern inline unsigned umax(const unsigned a, const unsigned b); 
-#line 401
+#line 407
 extern inline __int64 llmax(const __int64 a, const __int64 b); 
-#line 408
+#line 414
 extern inline unsigned __int64 ullmax(const unsigned __int64 a, const unsigned __int64 b); 
-#line 431 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 437 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl fmaxf(float x, float y); 
-#line 451 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 457 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl fmax(double, double); 
-#line 471 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 477 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl sin(double x); 
-#line 489
+#line 495
 extern double __cdecl cos(double x); 
-#line 505 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 511 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern void sincos(double x, double * sptr, double * cptr); 
-#line 518
+#line 524
 extern void sincosf(float x, float * sptr, float * cptr); 
-#line 541 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 547 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl tan(double x); 
-#line 565
+#line 571
 extern double __cdecl sqrt(double x); 
-#line 591 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 597 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double rsqrt(double x); 
-#line 615
+#line 621
 extern float rsqrtf(float x); 
-#line 644 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 650 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl log2(double x); 
-#line 673 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 679 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl exp2(double x); 
-#line 702 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 708 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl exp2f(float x); 
-#line 731 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 737 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double exp10(double x); 
-#line 758
+#line 764
 extern float exp10f(float x); 
-#line 794 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 800 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl expm1(double x); 
-#line 827 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 833 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl expm1f(float x); 
-#line 854 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 860 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl log2f(float x); 
-#line 877 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 883 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl log10(double x); 
-#line 903
+#line 909
 extern double __cdecl log(double x); 
-#line 932 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 938 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl log1p(double x); 
-#line 962 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 968 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl log1pf(float x); 
-#line 986 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 992 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl floor(double x); 
-#line 1015
+#line 1021
 extern double __cdecl exp(double x); 
-#line 1034
+#line 1040
 extern double __cdecl cosh(double x); 
-#line 1054
+#line 1060
 extern double __cdecl sinh(double x); 
-#line 1074
+#line 1080
 extern double __cdecl tanh(double x); 
-#line 1100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl acosh(double x); 
-#line 1127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl acoshf(float x); 
-#line 1151 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl asinh(double x); 
-#line 1175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1181 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl asinhf(float x); 
-#line 1200 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl atanh(double x); 
-#line 1225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1231 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl atanhf(float x); 
-#line 1241 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl ldexp(double x, int exp); 
-#line 1256
+#line 1262
 extern __inline float ldexpf(float x, int exp); 
-#line 1279 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl logb(double x); 
-#line 1303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1309 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl logbf(float x); 
-#line 1327 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1333 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __cdecl ilogb(double x); 
-#line 1351 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1357 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __cdecl ilogbf(float x); 
-#line 1379 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1385 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl scalbn(double x, int n); 
-#line 1407 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1413 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl scalbnf(float x, int n); 
-#line 1435 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1441 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl scalbln(double x, long n); 
-#line 1463 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1469 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl scalblnf(float x, long n); 
-#line 1493 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1499 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl frexp(double x, int * nptr); 
-#line 1522
+#line 1528
 extern __inline float frexpf(float x, int * nptr); 
-#line 1547 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1553 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl round(double x); 
-#line 1573 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1579 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl roundf(float x); 
-#line 1591 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1597 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern long __cdecl lround(double x); 
-#line 1609 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1615 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern long __cdecl lroundf(float x); 
-#line 1627 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1633 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern __int64 __cdecl llround(double x); 
-#line 1645 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1651 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern __int64 __cdecl llroundf(float x); 
-#line 1715 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1721 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl rintf(float x); 
-#line 1732 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1738 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern long __cdecl lrint(double x); 
-#line 1749 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1755 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern long __cdecl lrintf(float x); 
-#line 1766 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1772 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern __int64 __cdecl llrint(double x); 
-#line 1783 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1789 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern __int64 __cdecl llrintf(float x); 
-#line 1807 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1813 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl nearbyint(double x); 
-#line 1831 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1837 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl nearbyintf(float x); 
-#line 1853 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1859 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl ceil(double x); 
-#line 1878 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1884 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl trunc(double x); 
-#line 1904 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1910 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl truncf(float x); 
-#line 1926 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1932 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl fdim(double x, double y); 
-#line 1947 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 1953 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl fdimf(float x, float y); 
-#line 2028 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2034 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl atan2(double y, double x); 
-#line 2054
+#line 2060
 extern double __cdecl atan(double x); 
-#line 2071
+#line 2077
 extern double __cdecl acos(double x); 
-#line 2093
+#line 2099
 extern double __cdecl asin(double x); 
-#line 2121 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl hypot(double x, double y); 
-#line 2179 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline float __cdecl hypotf(float x, float y); 
-#line 2455 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2461 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl cbrt(double x); 
-#line 2482 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2488 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl cbrtf(float x); 
-#line 2506 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2512 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double rcbrt(double x); 
-#line 2527
+#line 2533
 extern float rcbrtf(float x); 
-#line 2550
+#line 2556
 extern double sinpi(double x); 
-#line 2573
+#line 2579
 extern float sinpif(float x); 
-#line 2595
+#line 2601
 extern double cospi(double x); 
-#line 2617
+#line 2623
 extern float cospif(float x); 
-#line 2630
+#line 2636
 extern void sincospi(double x, double * sptr, double * cptr); 
-#line 2643
+#line 2649
 extern void sincospif(float x, float * sptr, float * cptr); 
-#line 2729 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2735 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl pow(double x, double y); 
-#line 2753
+#line 2759
 extern double __cdecl modf(double x, double * iptr); 
-#line 2780
+#line 2786
 extern double __cdecl fmod(double x, double y); 
-#line 2812 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2818 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl remainder(double x, double y); 
-#line 2845 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2851 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl remainderf(float x, float y); 
-#line 2883 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2889 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl remquo(double x, double y, int * quo); 
-#line 2921 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2927 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl remquof(float x, float y, int * quo); 
-#line 2940 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2946 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl j0(double x); 
-#line 2962 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2968 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float j0f(float x); 
-#line 2989 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 2995 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl j1(double x); 
-#line 3016 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3022 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float j1f(float x); 
-#line 3039 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3045 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl jn(int n, double x); 
-#line 3062 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3068 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float jnf(int n, float x); 
-#line 3089 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3095 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl y0(double x); 
-#line 3116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3122 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float y0f(float x); 
-#line 3143 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl y1(double x); 
-#line 3170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float y1f(float x); 
-#line 3198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl yn(int n, double x); 
-#line 3226 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float ynf(int n, float x); 
-#line 3324 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl erf(double x); 
-#line 3349 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3355 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl erff(float x); 
-#line 3377 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3383 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double erfinv(double x); 
-#line 3400
+#line 3406
 extern float erfinvf(float x); 
-#line 3426 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3432 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl erfc(double x); 
-#line 3449 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3455 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl erfcf(float x); 
-#line 3481 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3487 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl lgamma(double x); 
-#line 3507 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3513 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double erfcinv(double x); 
-#line 3528
+#line 3534
 extern float erfcinvf(float x); 
-#line 3550
+#line 3556
 extern double normcdfinv(double x); 
-#line 3572
+#line 3578
 extern float normcdfinvf(float x); 
-#line 3591
+#line 3597
 extern double normcdf(double x); 
-#line 3610
+#line 3616
 extern float normcdff(float x); 
-#line 3630
+#line 3636
 extern double erfcx(double x); 
-#line 3650
+#line 3656
 extern float erfcxf(float x); 
-#line 3685 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3691 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl lgammaf(float x); 
-#line 3714 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3720 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl tgamma(double x); 
-#line 3743 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3749 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl tgammaf(float x); 
-#line 3757 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3763 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl copysign(double x, double y); 
-#line 3771 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3777 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl copysignf(float x, float y); 
-#line 3790 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3796 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl nextafter(double x, double y); 
-#line 3809 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3815 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl nextafterf(float x, float y); 
-#line 3825 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3831 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl nan(const char * tagp); 
-#line 3841 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3847 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl nanf(const char * tagp); 
-#line 3846 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3852 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __isinff(float); 
-#line 3847
+#line 3853
 extern int __isnanf(float); 
-#line 3857 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3863 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __finite(double); 
-#line 3858
+#line 3864
 extern int __finitef(float); 
-#line 3859
+#line 3865
 extern int __signbit(double); 
-#line 3860
+#line 3866
 extern int __isnan(double); 
-#line 3861
+#line 3867
 extern int __isinf(double); 
-#line 3864 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3870 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __signbitf(float); 
-#line 3917 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3923 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern double __cdecl fma(double x, double y, double z); 
-#line 3967 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3973 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern float __cdecl fmaf(float x, float y, float z); 
-#line 3976 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3982 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __signbitl(long double); 
-#line 3982 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 3988 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern int __finitel(long double); 
-#line 3983
-extern int __isinfl(long double); 
-#line 3984
-extern int __isnanl(long double); 
-#line 3988 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
-extern float __cdecl acosf(float); 
 #line 3989
-extern float __cdecl asinf(float); 
+extern int __isinfl(long double); 
 #line 3990
-extern float __cdecl atanf(float); 
-#line 3991
-extern float __cdecl atan2f(float, float); 
-#line 3992
-extern float __cdecl cosf(float); 
-#line 3993
-extern float __cdecl sinf(float); 
-#line 3994
-extern float __cdecl tanf(float); 
+extern int __isnanl(long double); 
+#line 3994 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
+extern float __cdecl acosf(float); 
 #line 3995
-extern float __cdecl coshf(float); 
+extern float __cdecl asinf(float); 
 #line 3996
-extern float __cdecl sinhf(float); 
+extern float __cdecl atanf(float); 
 #line 3997
-extern float __cdecl tanhf(float); 
+extern float __cdecl atan2f(float, float); 
 #line 3998
-extern float __cdecl expf(float); 
+extern float __cdecl cosf(float); 
 #line 3999
-extern float __cdecl logf(float); 
+extern float __cdecl sinf(float); 
 #line 4000
-extern float __cdecl log10f(float); 
+extern float __cdecl tanf(float); 
 #line 4001
-extern float __cdecl modff(float, float *); 
+extern float __cdecl coshf(float); 
 #line 4002
-extern float __cdecl powf(float, float); 
+extern float __cdecl sinhf(float); 
 #line 4003
-extern float __cdecl sqrtf(float); 
+extern float __cdecl tanhf(float); 
 #line 4004
-extern float __cdecl ceilf(float); 
+extern float __cdecl expf(float); 
 #line 4005
-extern float __cdecl floorf(float); 
+extern float __cdecl logf(float); 
 #line 4006
+extern float __cdecl log10f(float); 
+#line 4007
+extern float __cdecl modff(float, float *); 
+#line 4008
+extern float __cdecl powf(float, float); 
+#line 4009
+extern float __cdecl sqrtf(float); 
+#line 4010
+extern float __cdecl ceilf(float); 
+#line 4011
+extern float __cdecl floorf(float); 
+#line 4012
 extern float __cdecl fmodf(float, float); 
-#line 4568 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 4574 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 }
 #line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22621.0\\ucrt\\corecrt_math.h"
 #pragma warning(push)
@@ -11358,355 +11644,355 @@ using ::isunordered;
 #line 1690 "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\cmath"
 #pragma warning(pop)
 #pragma pack ( pop )
-#line 4860 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 4866 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern "C" double __cdecl _hypot(double x, double y); 
-#line 4861
+#line 4867
 extern "C" float __cdecl _hypotf(float x, float y); 
-#line 4871 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 4877 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline bool signbit(long double) throw(); 
-#line 4872
+#line 4878
 extern "C" int _ldsign(long double); 
-#line 4915 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 4921 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline bool signbit(double) throw(); 
-#line 4916
+#line 4922
 extern "C" int _dsign(double); 
-#line 4960 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 4966 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline bool signbit(float) throw(); 
-#line 4961
+#line 4967
 extern "C" int _fdsign(float); 
-#line 4969 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 4975 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isinf(long double a); 
-#line 5004 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5010 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isinf(double a); 
-#line 5042 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5048 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isinf(float a); 
-#line 5049 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5055 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isnan(long double a); 
-#line 5082 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5088 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isnan(double a); 
-#line 5118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5124 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isnan(float a); 
-#line 5125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5131 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isfinite(long double a); 
-#line 5162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5168 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isfinite(double a); 
-#line 5198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 static __inline bool isfinite(float a); 
-#line 5216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 template< class T> extern T _Pow_int(T, int) throw(); 
-#line 5217
+#line 5223
 extern inline __int64 abs(__int64) throw(); 
-#line 5308 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5314 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline long __cdecl abs(long) throw(); 
-#line 5312 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5318 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline float __cdecl abs(float) throw(); 
-#line 5313
+#line 5319
 extern inline double __cdecl abs(double) throw(); 
-#line 5314
+#line 5320
 extern inline float __cdecl fabs(float) throw(); 
-#line 5315
+#line 5321
 extern inline float __cdecl ceil(float) throw(); 
-#line 5316
+#line 5322
 extern inline float __cdecl floor(float) throw(); 
-#line 5317
+#line 5323
 extern inline float __cdecl sqrt(float) throw(); 
-#line 5318
+#line 5324
 extern inline float __cdecl pow(float, float) throw(); 
-#line 5357 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5363 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 template< class _Ty1, class _Ty2, std::enable_if_t< std::is_arithmetic_v< _Ty1>  && std::is_arithmetic_v< _Ty2> , int>  > [[nodiscard]] std::_Common_float_type_t< _Ty1, _Ty2>  __cdecl pow(_Ty1 _Left, _Ty2 _Right) noexcept; 
-#line 5364 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5370 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline float __cdecl log(float) throw(); 
-#line 5365
-extern inline float __cdecl log10(float) throw(); 
-#line 5366
-extern inline float __cdecl fmod(float, float) throw(); 
-#line 5367
-extern inline float __cdecl modf(float, float *) throw(); 
-#line 5368
-extern inline float __cdecl exp(float) throw(); 
-#line 5369
-extern inline float __cdecl frexp(float, int *) throw(); 
-#line 5370
-extern inline float __cdecl ldexp(float, int) throw(); 
 #line 5371
-extern inline float __cdecl asin(float) throw(); 
+extern inline float __cdecl log10(float) throw(); 
 #line 5372
-extern inline float __cdecl sin(float) throw(); 
+extern inline float __cdecl fmod(float, float) throw(); 
 #line 5373
-extern inline float __cdecl sinh(float) throw(); 
+extern inline float __cdecl modf(float, float *) throw(); 
 #line 5374
-extern inline float __cdecl acos(float) throw(); 
+extern inline float __cdecl exp(float) throw(); 
 #line 5375
-extern inline float __cdecl cos(float) throw(); 
+extern inline float __cdecl frexp(float, int *) throw(); 
 #line 5376
-extern inline float __cdecl cosh(float) throw(); 
+extern inline float __cdecl ldexp(float, int) throw(); 
 #line 5377
-extern inline float __cdecl atan(float) throw(); 
+extern inline float __cdecl asin(float) throw(); 
 #line 5378
-extern inline float __cdecl atan2(float, float) throw(); 
+extern inline float __cdecl sin(float) throw(); 
 #line 5379
-extern inline float __cdecl tan(float) throw(); 
+extern inline float __cdecl sinh(float) throw(); 
 #line 5380
+extern inline float __cdecl acos(float) throw(); 
+#line 5381
+extern inline float __cdecl cos(float) throw(); 
+#line 5382
+extern inline float __cdecl cosh(float) throw(); 
+#line 5383
+extern inline float __cdecl atan(float) throw(); 
+#line 5384
+extern inline float __cdecl atan2(float, float) throw(); 
+#line 5385
+extern inline float __cdecl tan(float) throw(); 
+#line 5386
 extern inline float __cdecl tanh(float) throw(); 
-#line 5603 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5609 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 extern inline float __cdecl logb(float) throw(); 
-#line 5604
-extern inline int __cdecl ilogb(float) throw(); 
-#line 5605
-extern float __cdecl scalbn(float, float) throw(); 
-#line 5606
-extern inline float __cdecl scalbln(float, long) throw(); 
-#line 5607
-extern inline float __cdecl exp2(float) throw(); 
-#line 5608
-extern inline float __cdecl expm1(float) throw(); 
-#line 5609
-extern inline float __cdecl log2(float) throw(); 
 #line 5610
-extern inline float __cdecl log1p(float) throw(); 
+extern inline int __cdecl ilogb(float) throw(); 
 #line 5611
-extern inline float __cdecl acosh(float) throw(); 
+extern float __cdecl scalbn(float, float) throw(); 
 #line 5612
-extern inline float __cdecl asinh(float) throw(); 
+extern inline float __cdecl scalbln(float, long) throw(); 
 #line 5613
-extern inline float __cdecl atanh(float) throw(); 
+extern inline float __cdecl exp2(float) throw(); 
 #line 5614
-extern inline float __cdecl hypot(float, float) throw(); 
+extern inline float __cdecl expm1(float) throw(); 
 #line 5615
-extern inline float __cdecl cbrt(float) throw(); 
+extern inline float __cdecl log2(float) throw(); 
 #line 5616
-extern inline float __cdecl erf(float) throw(); 
+extern inline float __cdecl log1p(float) throw(); 
 #line 5617
-extern inline float __cdecl erfc(float) throw(); 
+extern inline float __cdecl acosh(float) throw(); 
 #line 5618
-extern inline float __cdecl lgamma(float) throw(); 
+extern inline float __cdecl asinh(float) throw(); 
 #line 5619
-extern inline float __cdecl tgamma(float) throw(); 
+extern inline float __cdecl atanh(float) throw(); 
 #line 5620
-extern inline float __cdecl copysign(float, float) throw(); 
+extern inline float __cdecl hypot(float, float) throw(); 
 #line 5621
-extern inline float __cdecl nextafter(float, float) throw(); 
+extern inline float __cdecl cbrt(float) throw(); 
 #line 5622
-extern inline float __cdecl remainder(float, float) throw(); 
+extern inline float __cdecl erf(float) throw(); 
 #line 5623
-extern inline float __cdecl remquo(float, float, int *) throw(); 
+extern inline float __cdecl erfc(float) throw(); 
 #line 5624
-extern inline float __cdecl round(float) throw(); 
+extern inline float __cdecl lgamma(float) throw(); 
 #line 5625
-extern inline long __cdecl lround(float) throw(); 
+extern inline float __cdecl tgamma(float) throw(); 
 #line 5626
-extern inline __int64 __cdecl llround(float) throw(); 
+extern inline float __cdecl copysign(float, float) throw(); 
 #line 5627
-extern inline float __cdecl trunc(float) throw(); 
+extern inline float __cdecl nextafter(float, float) throw(); 
 #line 5628
-extern inline float __cdecl rint(float) throw(); 
+extern inline float __cdecl remainder(float, float) throw(); 
 #line 5629
-extern inline long __cdecl lrint(float) throw(); 
+extern inline float __cdecl remquo(float, float, int *) throw(); 
 #line 5630
-extern inline __int64 __cdecl llrint(float) throw(); 
+extern inline float __cdecl round(float) throw(); 
 #line 5631
-extern inline float __cdecl nearbyint(float) throw(); 
+extern inline long __cdecl lround(float) throw(); 
 #line 5632
-extern inline float __cdecl fdim(float, float) throw(); 
+extern inline __int64 __cdecl llround(float) throw(); 
 #line 5633
-extern inline float __cdecl fma(float, float, float) throw(); 
+extern inline float __cdecl trunc(float) throw(); 
 #line 5634
-extern inline float __cdecl fmax(float, float) throw(); 
+extern inline float __cdecl rint(float) throw(); 
 #line 5635
-extern inline float __cdecl fmin(float, float) throw(); 
-#line 5638 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
-static inline float exp10(const float a); 
+extern inline long __cdecl lrint(float) throw(); 
+#line 5636
+extern inline __int64 __cdecl llrint(float) throw(); 
+#line 5637
+extern inline float __cdecl nearbyint(float) throw(); 
+#line 5638
+extern inline float __cdecl fdim(float, float) throw(); 
+#line 5639
+extern inline float __cdecl fma(float, float, float) throw(); 
 #line 5640
-static inline float rsqrt(const float a); 
-#line 5642
-static inline float rcbrt(const float a); 
-#line 5644
-static inline float sinpi(const float a); 
+extern inline float __cdecl fmax(float, float) throw(); 
+#line 5641
+extern inline float __cdecl fmin(float, float) throw(); 
+#line 5644 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
+static inline float exp10(const float a); 
 #line 5646
-static inline float cospi(const float a); 
+static inline float rsqrt(const float a); 
 #line 5648
-static inline void sincospi(const float a, float *const sptr, float *const cptr); 
+static inline float rcbrt(const float a); 
 #line 5650
-static inline void sincos(const float a, float *const sptr, float *const cptr); 
+static inline float sinpi(const float a); 
 #line 5652
-static inline float j0(const float a); 
+static inline float cospi(const float a); 
 #line 5654
-static inline float j1(const float a); 
+static inline void sincospi(const float a, float *const sptr, float *const cptr); 
 #line 5656
-static inline float jn(const int n, const float a); 
+static inline void sincos(const float a, float *const sptr, float *const cptr); 
 #line 5658
-static inline float y0(const float a); 
+static inline float j0(const float a); 
 #line 5660
-static inline float y1(const float a); 
+static inline float j1(const float a); 
 #line 5662
-static inline float yn(const int n, const float a); 
+static inline float jn(const int n, const float a); 
 #line 5664
-static inline float cyl_bessel_i0(const float a); 
+static inline float y0(const float a); 
 #line 5666
-static inline float cyl_bessel_i1(const float a); 
+static inline float y1(const float a); 
 #line 5668
-static inline float erfinv(const float a); 
+static inline float yn(const int n, const float a); 
 #line 5670
-static inline float erfcinv(const float a); 
+static inline float cyl_bessel_i0(const float a); 
 #line 5672
-static inline float normcdfinv(const float a); 
+static inline float cyl_bessel_i1(const float a); 
 #line 5674
-static inline float normcdf(const float a); 
+static inline float erfinv(const float a); 
 #line 5676
-static inline float erfcx(const float a); 
+static inline float erfcinv(const float a); 
 #line 5678
-static inline double copysign(const double a, const float b); 
+static inline float normcdfinv(const float a); 
 #line 5680
+static inline float normcdf(const float a); 
+#line 5682
+static inline float erfcx(const float a); 
+#line 5684
+static inline double copysign(const double a, const float b); 
+#line 5686
 static inline double copysign(const float a, const double b); 
-#line 5688
+#line 5694
 static inline unsigned min(const unsigned a, const unsigned b); 
-#line 5696
+#line 5702
 static inline unsigned min(const int a, const unsigned b); 
-#line 5704
+#line 5710
 static inline unsigned min(const unsigned a, const int b); 
-#line 5712
+#line 5718
 static inline long min(const long a, const long b); 
-#line 5720
+#line 5726
 static inline unsigned long min(const unsigned long a, const unsigned long b); 
-#line 5728
+#line 5734
 static inline unsigned long min(const long a, const unsigned long b); 
-#line 5736
+#line 5742
 static inline unsigned long min(const unsigned long a, const long b); 
-#line 5744
+#line 5750
 static inline __int64 min(const __int64 a, const __int64 b); 
-#line 5752
+#line 5758
 static inline unsigned __int64 min(const unsigned __int64 a, const unsigned __int64 b); 
-#line 5760
+#line 5766
 static inline unsigned __int64 min(const __int64 a, const unsigned __int64 b); 
-#line 5768
+#line 5774
 static inline unsigned __int64 min(const unsigned __int64 a, const __int64 b); 
-#line 5779
+#line 5785
 static inline float min(const float a, const float b); 
-#line 5790
+#line 5796
 static inline double min(const double a, const double b); 
-#line 5800
+#line 5806
 static inline double min(const float a, const double b); 
-#line 5810
+#line 5816
 static inline double min(const double a, const float b); 
-#line 5818
+#line 5824
 static inline unsigned max(const unsigned a, const unsigned b); 
-#line 5826
+#line 5832
 static inline unsigned max(const int a, const unsigned b); 
-#line 5834
+#line 5840
 static inline unsigned max(const unsigned a, const int b); 
-#line 5842
+#line 5848
 static inline long max(const long a, const long b); 
-#line 5850
+#line 5856
 static inline unsigned long max(const unsigned long a, const unsigned long b); 
-#line 5858
+#line 5864
 static inline unsigned long max(const long a, const unsigned long b); 
-#line 5866
+#line 5872
 static inline unsigned long max(const unsigned long a, const long b); 
-#line 5874
+#line 5880
 static inline __int64 max(const __int64 a, const __int64 b); 
-#line 5882
+#line 5888
 static inline unsigned __int64 max(const unsigned __int64 a, const unsigned __int64 b); 
-#line 5890
+#line 5896
 static inline unsigned __int64 max(const __int64 a, const unsigned __int64 b); 
-#line 5898
+#line 5904
 static inline unsigned __int64 max(const unsigned __int64 a, const __int64 b); 
-#line 5909
+#line 5915
 static inline float max(const float a, const float b); 
-#line 5920
+#line 5926
 static inline double max(const double a, const double b); 
-#line 5930
+#line 5936
 static inline double max(const float a, const double b); 
-#line 5940
+#line 5946
 static inline double max(const double a, const float b); 
-#line 5952
+#line 5958
 extern "C" {
-#line 5953
+#line 5959
 inline void *__nv_aligned_device_malloc(size_t size, size_t align) {int volatile ___ = 1;(void)size;(void)align;::exit(___);}
 #if 0
-#line 5954
+#line 5960
 { 
-#line 5955
+#line 5961
 void *__nv_aligned_device_malloc_impl(size_t, size_t); 
-#line 5956
+#line 5962
 return __nv_aligned_device_malloc_impl(size, align); 
-#line 5957
+#line 5963
 } 
 #endif
-#line 5958 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.h"
+#line 5964 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.h"
 }
-#line 433 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 433 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isinf(const long double a) 
 #line 434
 { 
-#line 438 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 438 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isinf< long double> (a); 
-#line 440 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 440 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 449 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 449 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isinf(const double a) 
 #line 450
 { 
-#line 454 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 454 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isinf< double> (a); 
-#line 456 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 456 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 465 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 465 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isinf(const float a) 
 #line 466
 { 
-#line 470 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 470 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isinf< float> (a); 
-#line 472 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 472 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 481 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 481 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isnan(const long double a) 
 #line 482
 { 
-#line 486 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 486 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isnan< long double> (a); 
-#line 488 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 488 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 497 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 497 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isnan(const double a) 
 #line 498
 { 
-#line 502 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 502 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isnan< double> (a); 
-#line 504 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 504 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 513 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 513 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isnan(const float a) 
 #line 514
 { 
-#line 518 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 518 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isnan< float> (a); 
-#line 520 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 520 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 529 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 529 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isfinite(const long double a) 
 #line 530
 { 
-#line 534 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 534 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isfinite< long double> (a); 
-#line 536 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 536 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 545 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 545 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isfinite(const double a) 
 #line 546
 { 
-#line 550 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 550 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isfinite< double> (a); 
-#line 552 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 552 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 561 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 561 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static __inline bool isfinite(const float a) 
 #line 562
 { 
-#line 566 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 566 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 return isfinite< float> (a); 
-#line 568 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 568 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 } 
-#line 758 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 758 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static inline float exp10(const float a) 
 #line 759
 { 
@@ -11829,7 +12115,7 @@ return cyl_bessel_i0f(a);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 828 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 828 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static inline float cyl_bessel_i1(const float a) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;::exit(___);}
@@ -11841,7 +12127,7 @@ return cyl_bessel_i1f(a);
 #line 831
 } 
 #endif
-#line 833 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 833 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static inline float erfinv(const float a) 
 #line 834
 { 
@@ -11930,11 +12216,11 @@ long retval;
 #line 888
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 892 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 892 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(long) == sizeof(int)) { 
 #line 894
 #pragma warning (pop)
-#line 896 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 896 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< long>(min(static_cast< int>(a), static_cast< int>(b)))); 
 #line 897
 } else { 
@@ -11955,11 +12241,11 @@ unsigned long retval;
 #line 907
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 910 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 910 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(unsigned long) == sizeof(unsigned)) { 
 #line 912
 #pragma warning (pop)
-#line 914 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 914 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< unsigned long>(umin(static_cast< unsigned>(a), static_cast< unsigned>(b)))); 
 #line 915
 } else { 
@@ -11980,11 +12266,11 @@ unsigned long retval;
 #line 925
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 928 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 928 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(unsigned long) == sizeof(unsigned)) { 
 #line 930
 #pragma warning (pop)
-#line 932 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 932 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< unsigned long>(umin(static_cast< unsigned>(a), static_cast< unsigned>(b)))); 
 #line 933
 } else { 
@@ -12005,11 +12291,11 @@ unsigned long retval;
 #line 943
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 946 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 946 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(unsigned long) == sizeof(unsigned)) { 
 #line 948
 #pragma warning (pop)
-#line 950 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 950 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< unsigned long>(umin(static_cast< unsigned>(a), static_cast< unsigned>(b)))); 
 #line 951
 } else { 
@@ -12118,11 +12404,11 @@ long retval;
 #line 1017
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 1020 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1020 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(long) == sizeof(int)) { 
 #line 1022
 #pragma warning (pop)
-#line 1024 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1024 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< long>(max(static_cast< int>(a), static_cast< int>(b)))); 
 #line 1025
 } else { 
@@ -12143,11 +12429,11 @@ unsigned long retval;
 #line 1035
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 1038 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1038 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(unsigned long) == sizeof(unsigned)) { 
 #line 1040
 #pragma warning (pop)
-#line 1042 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1042 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< unsigned long>(umax(static_cast< unsigned>(a), static_cast< unsigned>(b)))); 
 #line 1043
 } else { 
@@ -12168,11 +12454,11 @@ unsigned long retval;
 #line 1053
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 1056 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1056 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(unsigned long) == sizeof(unsigned)) { 
 #line 1058
 #pragma warning (pop)
-#line 1060 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1060 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< unsigned long>(umax(static_cast< unsigned>(a), static_cast< unsigned>(b)))); 
 #line 1061
 } else { 
@@ -12193,11 +12479,11 @@ unsigned long retval;
 #line 1071
 #pragma warning (push)
 #pragma warning (disable: 4127)
-#line 1074 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1074 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 if (sizeof(unsigned long) == sizeof(unsigned)) { 
 #line 1076
 #pragma warning (pop)
-#line 1078 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1078 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 retval = (static_cast< unsigned long>(umax(static_cast< unsigned>(a), static_cast< unsigned>(b)))); 
 #line 1079
 } else { 
@@ -12276,7 +12562,7 @@ return fmax(a, static_cast< double>(b));
 #line 1129
 #pragma warning (push)
 #pragma warning (disable : 4211)
-#line 1135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\math_functions.hpp"
+#line 1135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\math_functions.hpp"
 static inline int min(const int a, const int b) 
 #line 1136
 { 
@@ -12346,83 +12632,83 @@ return (a > b) ? a : b;
 } 
 #line 1178
 #pragma warning (pop)
-#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt/device_functions.h"
+#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/device_functions.h"
 extern "C" {
-#line 2486 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt/device_functions.h"
+#line 2497 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/device_functions.h"
 static __inline int __vimax_s32_relu(const int a, const int b); 
-#line 2498
+#line 2509
 static __inline unsigned __vimax_s16x2_relu(const unsigned a, const unsigned b); 
-#line 2507
+#line 2518
 static __inline int __vimin_s32_relu(const int a, const int b); 
-#line 2519
+#line 2530
 static __inline unsigned __vimin_s16x2_relu(const unsigned a, const unsigned b); 
-#line 2528
+#line 2539
 static __inline int __vimax3_s32(const int a, const int b, const int c); 
-#line 2540
+#line 2551
 static __inline unsigned __vimax3_s16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2549
+#line 2560
 static __inline unsigned __vimax3_u32(const unsigned a, const unsigned b, const unsigned c); 
-#line 2561
+#line 2572
 static __inline unsigned __vimax3_u16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2570
+#line 2581
 static __inline int __vimin3_s32(const int a, const int b, const int c); 
-#line 2582
+#line 2593
 static __inline unsigned __vimin3_s16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2591
+#line 2602
 static __inline unsigned __vimin3_u32(const unsigned a, const unsigned b, const unsigned c); 
-#line 2603
+#line 2614
 static __inline unsigned __vimin3_u16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2612
+#line 2623
 static __inline int __vimax3_s32_relu(const int a, const int b, const int c); 
-#line 2624
+#line 2635
 static __inline unsigned __vimax3_s16x2_relu(const unsigned a, const unsigned b, const unsigned c); 
-#line 2633
+#line 2644
 static __inline int __vimin3_s32_relu(const int a, const int b, const int c); 
-#line 2645
+#line 2656
 static __inline unsigned __vimin3_s16x2_relu(const unsigned a, const unsigned b, const unsigned c); 
-#line 2654
+#line 2665
 static __inline int __viaddmax_s32(const int a, const int b, const int c); 
-#line 2666
+#line 2677
 static __inline unsigned __viaddmax_s16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2675
+#line 2686
 static __inline unsigned __viaddmax_u32(const unsigned a, const unsigned b, const unsigned c); 
-#line 2687
+#line 2698
 static __inline unsigned __viaddmax_u16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2696
+#line 2707
 static __inline int __viaddmin_s32(const int a, const int b, const int c); 
-#line 2708
+#line 2719
 static __inline unsigned __viaddmin_s16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2717
+#line 2728
 static __inline unsigned __viaddmin_u32(const unsigned a, const unsigned b, const unsigned c); 
-#line 2729
+#line 2740
 static __inline unsigned __viaddmin_u16x2(const unsigned a, const unsigned b, const unsigned c); 
-#line 2739
+#line 2750
 static __inline int __viaddmax_s32_relu(const int a, const int b, const int c); 
-#line 2751
+#line 2762
 static __inline unsigned __viaddmax_s16x2_relu(const unsigned a, const unsigned b, const unsigned c); 
-#line 2761
+#line 2772
 static __inline int __viaddmin_s32_relu(const int a, const int b, const int c); 
-#line 2773
+#line 2784
 static __inline unsigned __viaddmin_s16x2_relu(const unsigned a, const unsigned b, const unsigned c); 
-#line 2782
+#line 2793
 static __inline int __vibmax_s32(const int a, const int b, bool *const pred); 
-#line 2791
+#line 2802
 static __inline unsigned __vibmax_u32(const unsigned a, const unsigned b, bool *const pred); 
-#line 2800
+#line 2811
 static __inline int __vibmin_s32(const int a, const int b, bool *const pred); 
-#line 2809
+#line 2820
 static __inline unsigned __vibmin_u32(const unsigned a, const unsigned b, bool *const pred); 
-#line 2823
+#line 2834
 static __inline unsigned __vibmax_s16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo); 
-#line 2837
+#line 2848
 static __inline unsigned __vibmax_u16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo); 
-#line 2851
+#line 2862
 static __inline unsigned __vibmin_s16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo); 
-#line 2865
+#line 2876
 static __inline unsigned __vibmin_u16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo); 
-#line 2872
+#line 2883
 }
-#line 116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 static short __internal_cast_u2s(unsigned short x) 
 #line 117
 { 
@@ -12430,7 +12716,7 @@ static short __internal_cast_u2s(unsigned short x)
 short res; 
 #line 120
 (void)memcpy(&res, &x, sizeof x); 
-#line 124 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 124 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 125
 } 
@@ -12440,13 +12726,13 @@ static __inline int __vimax_s32_relu(const int a, const int b) {
 int ans = max(a, b); 
 #line 136
 return (ans > 0) ? ans : 0; 
-#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 140
 static __inline unsigned __vimax_s16x2_relu(const unsigned a, const unsigned b) { 
 #line 141
 unsigned res; 
-#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 150
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12476,7 +12762,7 @@ unsigned ansU_lo = (unsigned)ansI_lo;
 unsigned ansU_hi = (unsigned)ansI_hi; 
 #line 175
 res = (ansU_lo | (ansU_hi << 16)); 
-#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 179
 } 
@@ -12486,13 +12772,13 @@ static __inline int __vimin_s32_relu(const int a, const int b) {
 int ans = min(a, b); 
 #line 190
 return (ans > 0) ? ans : 0; 
-#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 194
 static __inline unsigned __vimin_s16x2_relu(const unsigned a, const unsigned b) { 
 #line 195
 unsigned res; 
-#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 204
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12522,7 +12808,7 @@ unsigned ansU_lo = (unsigned)ansI_lo;
 unsigned ansU_hi = (unsigned)ansI_hi; 
 #line 229
 res = (ansU_lo | (ansU_hi << 16)); 
-#line 232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 233
 } 
@@ -12530,13 +12816,13 @@ return res;
 static __inline int __vimax3_s32(const int a, const int b, const int c) { 
 #line 245
 return max(max(a, b), c); 
-#line 247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 249
 static __inline unsigned __vimax3_s16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 250
 unsigned res; 
-#line 262 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 262 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 263
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12566,7 +12852,7 @@ unsigned ansU_lo = (unsigned)max(max(aS_lo, bS_lo), cS_lo);
 unsigned ansU_hi = (unsigned)max(max(aS_hi, bS_hi), cS_hi); 
 #line 286
 res = ((ansU_lo & 65535U) | (ansU_hi << 16)); 
-#line 288 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 288 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 289
 } 
@@ -12574,13 +12860,13 @@ return res;
 static __inline unsigned __vimax3_u32(const unsigned a, const unsigned b, const unsigned c) { 
 #line 301
 return max(max(a, b), c); 
-#line 303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 305
 static __inline unsigned __vimax3_u16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 306
 unsigned res; 
-#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 318
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12598,7 +12884,7 @@ unsigned short ansU_lo = (unsigned short)max(max(aU_lo, bU_lo), cU_lo);
 unsigned short ansU_hi = (unsigned short)max(max(aU_hi, bU_hi), cU_hi); 
 #line 331
 res = (((unsigned)ansU_lo) | (((unsigned)ansU_hi) << 16)); 
-#line 334 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 334 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 335
 } 
@@ -12606,13 +12892,13 @@ return res;
 static __inline int __vimin3_s32(const int a, const int b, const int c) { 
 #line 347
 return min(min(a, b), c); 
-#line 349 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 349 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 351
 static __inline unsigned __vimin3_s16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 352
 unsigned res; 
-#line 363 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 363 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 364
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12642,7 +12928,7 @@ unsigned ansU_lo = (unsigned)min(min(aS_lo, bS_lo), cS_lo);
 unsigned ansU_hi = (unsigned)min(min(aS_hi, bS_hi), cS_hi); 
 #line 387
 res = ((ansU_lo & 65535U) | (ansU_hi << 16)); 
-#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 391
 } 
@@ -12650,13 +12936,13 @@ return res;
 static __inline unsigned __vimin3_u32(const unsigned a, const unsigned b, const unsigned c) { 
 #line 403
 return min(min(a, b), c); 
-#line 405 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 405 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 407
 static __inline unsigned __vimin3_u16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 408
 unsigned res; 
-#line 419 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 419 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 420
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12674,7 +12960,7 @@ unsigned short ansU_lo = (unsigned short)min(min(aU_lo, bU_lo), cU_lo);
 unsigned short ansU_hi = (unsigned short)min(min(aU_hi, bU_hi), cU_hi); 
 #line 433
 res = (((unsigned)ansU_lo) | (((unsigned)ansU_hi) << 16)); 
-#line 436 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 436 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 437
 } 
@@ -12684,13 +12970,13 @@ static __inline int __vimax3_s32_relu(const int a, const int b, const int c) {
 int ans = max(max(a, b), c); 
 #line 451
 return (ans > 0) ? ans : 0; 
-#line 453 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 453 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 455
 static __inline unsigned __vimax3_s16x2_relu(const unsigned a, const unsigned b, const unsigned c) { 
 #line 456
 unsigned res; 
-#line 467 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 467 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 468
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12720,7 +13006,7 @@ unsigned ansU_lo = (unsigned)max(0, max(max(aS_lo, bS_lo), cS_lo));
 unsigned ansU_hi = (unsigned)max(0, max(max(aS_hi, bS_hi), cS_hi)); 
 #line 491
 res = (ansU_lo | (ansU_hi << 16)); 
-#line 494 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 494 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 495
 } 
@@ -12730,13 +13016,13 @@ static __inline int __vimin3_s32_relu(const int a, const int b, const int c) {
 int ans = min(min(a, b), c); 
 #line 509
 return (ans > 0) ? ans : 0; 
-#line 511 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 511 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 513
 static __inline unsigned __vimin3_s16x2_relu(const unsigned a, const unsigned b, const unsigned c) { 
 #line 514
 unsigned res; 
-#line 525 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 525 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 526
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12766,7 +13052,7 @@ unsigned ansU_lo = (unsigned)max(0, min(min(aS_lo, bS_lo), cS_lo));
 unsigned ansU_hi = (unsigned)max(0, min(min(aS_hi, bS_hi), cS_hi)); 
 #line 549
 res = (ansU_lo | (ansU_hi << 16)); 
-#line 553 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 553 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 554
 } 
@@ -12774,13 +13060,13 @@ return res;
 static __inline int __viaddmax_s32(const int a, const int b, const int c) { 
 #line 566
 return max(a + b, c); 
-#line 568 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 568 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 570
 static __inline unsigned __viaddmax_s16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 571
 unsigned res; 
-#line 582 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 582 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 583
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12810,7 +13096,7 @@ unsigned ansU_lo = (unsigned)max(sS_lo, cS_lo);
 unsigned ansU_hi = (unsigned)max(sS_hi, cS_hi); 
 #line 606
 res = ((ansU_lo & 65535U) | (ansU_hi << 16)); 
-#line 609 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 609 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 610
 } 
@@ -12818,13 +13104,13 @@ return res;
 static __inline unsigned __viaddmax_u32(const unsigned a, const unsigned b, const unsigned c) { 
 #line 622
 return max(a + b, c); 
-#line 624 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 624 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 626
 static __inline unsigned __viaddmax_u16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 627
 unsigned res; 
-#line 638 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 638 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 639
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12842,7 +13128,7 @@ unsigned short ansU_lo = (unsigned short)max((unsigned short)(aU_lo + bU_lo), cU
 unsigned short ansU_hi = (unsigned short)max((unsigned short)(aU_hi + bU_hi), cU_hi); 
 #line 652
 res = (((unsigned)ansU_lo) | (((unsigned)ansU_hi) << 16)); 
-#line 655 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 655 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 656
 } 
@@ -12850,13 +13136,13 @@ return res;
 static __inline int __viaddmin_s32(const int a, const int b, const int c) { 
 #line 668
 return min(a + b, c); 
-#line 670 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 670 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 672
 static __inline unsigned __viaddmin_s16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 673
 unsigned res; 
-#line 684 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 684 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 685
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12886,7 +13172,7 @@ unsigned ansU_lo = (unsigned)min(sS_lo, cS_lo);
 unsigned ansU_hi = (unsigned)min(sS_hi, cS_hi); 
 #line 708
 res = ((ansU_lo & 65535U) | (ansU_hi << 16)); 
-#line 711 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 711 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 712
 } 
@@ -12894,13 +13180,13 @@ return res;
 static __inline unsigned __viaddmin_u32(const unsigned a, const unsigned b, const unsigned c) { 
 #line 724
 return min(a + b, c); 
-#line 726 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 726 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 728
 static __inline unsigned __viaddmin_u16x2(const unsigned a, const unsigned b, const unsigned c) { 
 #line 729
 unsigned res; 
-#line 740 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 740 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 741
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12918,7 +13204,7 @@ unsigned short ansU_lo = (unsigned short)min((unsigned short)(aU_lo + bU_lo), cU
 unsigned short ansU_hi = (unsigned short)min((unsigned short)(aU_hi + bU_hi), cU_hi); 
 #line 754
 res = (((unsigned)ansU_lo) | (((unsigned)ansU_hi) << 16)); 
-#line 757 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 757 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 758
 } 
@@ -12928,13 +13214,13 @@ static __inline int __viaddmax_s32_relu(const int a, const int b, const int c) {
 int ans = max(a + b, c); 
 #line 772
 return (ans > 0) ? ans : 0; 
-#line 774 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 774 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 776
 static __inline unsigned __viaddmax_s16x2_relu(const unsigned a, const unsigned b, const unsigned c) { 
 #line 777
 unsigned res; 
-#line 788 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 788 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 789
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -12964,7 +13250,7 @@ unsigned ansU_lo = (unsigned)max(0, max(sS_lo, cS_lo));
 unsigned ansU_hi = (unsigned)max(0, max(sS_hi, cS_hi)); 
 #line 812
 res = (ansU_lo | (ansU_hi << 16)); 
-#line 815 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 815 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 816
 } 
@@ -12974,13 +13260,13 @@ static __inline int __viaddmin_s32_relu(const int a, const int b, const int c) {
 int ans = min(a + b, c); 
 #line 830
 return (ans > 0) ? ans : 0; 
-#line 832 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 832 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 834
 static __inline unsigned __viaddmin_s16x2_relu(const unsigned a, const unsigned b, const unsigned c) { 
 #line 835
 unsigned res; 
-#line 846 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 846 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 unsigned short aU_lo = (unsigned short)(a & 65535U); 
 #line 847
 unsigned short aU_hi = (unsigned short)(a >> 16); 
@@ -13010,7 +13296,7 @@ unsigned ansU_lo = (unsigned)max(0, min(sS_lo, cS_lo));
 unsigned ansU_hi = (unsigned)max(0, min(sS_hi, cS_hi)); 
 #line 870
 res = (ansU_lo | (ansU_hi << 16)); 
-#line 873 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 873 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 return res; 
 #line 874
 } 
@@ -13022,7 +13308,7 @@ int ans = max(a, b);
 (*pred) = (a >= b); 
 #line 895
 return ans; 
-#line 897 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 897 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 899
 static __inline unsigned __vibmax_u32(const unsigned a, const unsigned b, bool *const pred) { 
@@ -13032,7 +13318,7 @@ unsigned ans = max(a, b);
 (*pred) = (a >= b); 
 #line 916
 return ans; 
-#line 918 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 918 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 921
 static __inline int __vibmin_s32(const int a, const int b, bool *const pred) { 
@@ -13042,7 +13328,7 @@ int ans = min(a, b);
 (*pred) = (a <= b); 
 #line 938
 return ans; 
-#line 940 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 940 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 943
 static __inline unsigned __vibmin_u32(const unsigned a, const unsigned b, bool *const pred) { 
@@ -13052,7 +13338,7 @@ unsigned ans = min(a, b);
 (*pred) = (a <= b); 
 #line 960
 return ans; 
-#line 962 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 962 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 964
 static __inline unsigned __vibmax_s16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo) { 
@@ -13084,7 +13370,7 @@ unsigned ansU_hi = (unsigned)max(aS_hi, bS_hi);
 unsigned ans = (ansU_lo & 65535U) | (ansU_hi << 16); 
 #line 1009
 return ans; 
-#line 1011 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 1011 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 1013
 static __inline unsigned __vibmax_u16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo) { 
@@ -13108,7 +13394,7 @@ unsigned short ansU_hi = (unsigned short)max(aU_hi, bU_hi);
 unsigned ans = ((unsigned)ansU_lo) | (((unsigned)ansU_hi) << 16); 
 #line 1051
 return ans; 
-#line 1053 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 1053 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 1055
 static __inline unsigned __vibmin_s16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo) { 
@@ -13140,7 +13426,7 @@ unsigned ansU_hi = (unsigned)min(aS_hi, bS_hi);
 unsigned ans = (ansU_lo & 65535U) | (ansU_hi << 16); 
 #line 1100
 return ans; 
-#line 1102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 1102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 #line 1104
 static __inline unsigned __vibmin_u16x2(const unsigned a, const unsigned b, bool *const pred_hi, bool *const pred_lo) { 
@@ -13164,12 +13450,12 @@ unsigned short ansU_hi = (unsigned short)min(aU_hi, bU_hi);
 unsigned ans = ((unsigned)ansU_lo) | (((unsigned)ansU_hi) << 16); 
 #line 1142
 return ans; 
-#line 1144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_functions.hpp"
+#line 1144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_functions.hpp"
 } 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 89 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 89 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicAdd(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13181,7 +13467,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicAdd(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13193,7 +13479,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicSub(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13205,7 +13491,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicSub(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13217,7 +13503,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicExch(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13229,7 +13515,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicExch(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13241,7 +13527,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline float atomicExch(float *address, float val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13253,7 +13539,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicMin(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13265,7 +13551,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicMin(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13277,7 +13563,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicMax(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13289,7 +13575,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicMax(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13301,7 +13587,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicInc(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13313,7 +13599,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicDec(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13325,7 +13611,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicAnd(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13337,7 +13623,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicAnd(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13349,7 +13635,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 119 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 119 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicOr(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13361,7 +13647,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 121 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 121 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicOr(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13373,7 +13659,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicXor(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13385,7 +13671,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicXor(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13397,7 +13683,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline int atomicCAS(int *address, int compare, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)compare;(void)val;::exit(___);}
@@ -13409,7 +13695,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned atomicCAS(unsigned *address, unsigned compare, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)compare;(void)val;::exit(___);}
@@ -13417,7 +13703,7 @@ __pragma(warning(pop))
 #line 129
 { } 
 #endif
-#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 extern "C" {
 #line 160
 }
@@ -13436,7 +13722,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned __int64 atomicExch(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13448,7 +13734,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 static __inline unsigned __int64 atomicCAS(unsigned __int64 *address, unsigned __int64 compare, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)compare;(void)val;::exit(___);}
@@ -13460,7 +13746,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 __declspec(deprecated("__any() is deprecated in favor of __any_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to suppr" "ess this warning).")) static __inline bool any(bool cond) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)cond;::exit(___);}
@@ -13472,7 +13758,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_atomic_functions.h"
+#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_atomic_functions.h"
 __declspec(deprecated("__all() is deprecated in favor of __all_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to suppr" "ess this warning).")) static __inline bool all(bool cond) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)cond;::exit(___);}
@@ -13480,7 +13766,7 @@ __pragma(warning(pop))
 #line 177
 { } 
 #endif
-#line 90 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.h"
+#line 90 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.h"
 extern "C" {
 #line 1142
 }
@@ -13513,7 +13799,7 @@ static __inline double float2double(float a, cudaRoundMode mode = cudaRoundNeare
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double fma(double a, double b, double c, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)b;(void)c;(void)mode;::exit(___);}
@@ -13529,7 +13815,7 @@ return (mode == (cudaRoundZero)) ? __fma_rz(a, b, c) : ((mode == (cudaRoundPosIn
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double dmul(double a, double b, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)b;(void)mode;::exit(___);}
@@ -13545,7 +13831,7 @@ return (mode == (cudaRoundZero)) ? __dmul_rz(a, b) : ((mode == (cudaRoundPosInf)
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double dadd(double a, double b, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)b;(void)mode;::exit(___);}
@@ -13561,7 +13847,7 @@ return (mode == (cudaRoundZero)) ? __dadd_rz(a, b) : ((mode == (cudaRoundPosInf)
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double dsub(double a, double b, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)b;(void)mode;::exit(___);}
@@ -13577,7 +13863,7 @@ return (mode == (cudaRoundZero)) ? __dsub_rz(a, b) : ((mode == (cudaRoundPosInf)
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline int double2int(double a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13593,7 +13879,7 @@ return (mode == (cudaRoundNearest)) ? __double2int_rn(a) : ((mode == (cudaRoundP
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline unsigned double2uint(double a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13609,7 +13895,7 @@ return (mode == (cudaRoundNearest)) ? __double2uint_rn(a) : ((mode == (cudaRound
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline __int64 double2ll(double a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13625,7 +13911,7 @@ return (mode == (cudaRoundNearest)) ? __double2ll_rn(a) : ((mode == (cudaRoundPo
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline unsigned __int64 double2ull(double a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13641,7 +13927,7 @@ return (mode == (cudaRoundNearest)) ? __double2ull_rn(a) : ((mode == (cudaRoundP
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double ll2double(__int64 a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13657,7 +13943,7 @@ return (mode == (cudaRoundZero)) ? __ll2double_rz(a) : ((mode == (cudaRoundPosIn
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double ull2double(unsigned __int64 a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13673,7 +13959,7 @@ return (mode == (cudaRoundZero)) ? __ull2double_rz(a) : ((mode == (cudaRoundPosI
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double int2double(int a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13689,7 +13975,7 @@ return (double)a;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double uint2double(unsigned a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13705,7 +13991,7 @@ return (double)a;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\device_double_functions.hpp"
+#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\device_double_functions.hpp"
 static __inline double float2double(float a, cudaRoundMode mode) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)a;(void)mode;::exit(___);}
@@ -13721,7 +14007,7 @@ return (double)a;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 88 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_atomic_functions.h"
+#line 88 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_atomic_functions.h"
 static __inline float atomicAdd(float *address, float val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13733,7 +14019,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 89 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 89 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline __int64 atomicMin(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13745,7 +14031,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline __int64 atomicMax(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13757,7 +14043,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline __int64 atomicAnd(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13769,7 +14055,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline __int64 atomicOr(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13781,7 +14067,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline __int64 atomicXor(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13793,7 +14079,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline unsigned __int64 atomicMin(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13805,7 +14091,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline unsigned __int64 atomicMax(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13817,7 +14103,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline unsigned __int64 atomicAnd(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13829,7 +14115,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline unsigned __int64 atomicOr(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13841,7 +14127,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_atomic_functions.h"
+#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_atomic_functions.h"
 static __inline unsigned __int64 atomicXor(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13853,7 +14139,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline double atomicAdd(double *address, double val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13865,7 +14151,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicAdd_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13877,7 +14163,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicAdd_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13889,7 +14175,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicAdd_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13901,7 +14187,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicAdd_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13913,7 +14199,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 108 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 108 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicAdd_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13925,7 +14211,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicAdd_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13937,7 +14223,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline float atomicAdd_block(float *address, float val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13949,7 +14235,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline float atomicAdd_system(float *address, float val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13961,7 +14247,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline double atomicAdd_block(double *address, double val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13973,7 +14259,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline double atomicAdd_system(double *address, double val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13985,7 +14271,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicSub_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -13997,7 +14283,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicSub_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14009,7 +14295,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 132 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 132 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicSub_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14021,7 +14307,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicSub_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14033,7 +14319,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicExch_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14045,7 +14331,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicExch_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14057,7 +14343,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicExch_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14069,7 +14355,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicExch_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14081,7 +14367,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicExch_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14093,7 +14379,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicExch_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14105,7 +14391,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline float atomicExch_block(float *address, float val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14117,7 +14403,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline float atomicExch_system(float *address, float val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14129,7 +14415,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicMin_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14141,7 +14427,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicMin_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14153,7 +14439,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 168 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 168 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicMin_block(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14165,7 +14451,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicMin_system(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14177,7 +14463,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicMin_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14189,7 +14475,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicMin_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14201,7 +14487,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 180 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 180 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicMin_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14213,7 +14499,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicMin_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14225,7 +14511,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicMax_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14237,7 +14523,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicMax_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14249,7 +14535,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicMax_block(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14261,7 +14547,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 195 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 195 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicMax_system(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14273,7 +14559,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicMax_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14285,7 +14571,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicMax_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14297,7 +14583,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicMax_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14309,7 +14595,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicMax_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14321,7 +14607,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicInc_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14333,7 +14619,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicInc_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14345,7 +14631,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicDec_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14357,7 +14643,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 219 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 219 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicDec_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14369,7 +14655,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicCAS_block(int *address, int compare, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)compare;(void)val;::exit(___);}
@@ -14381,7 +14667,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicCAS_system(int *address, int compare, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)compare;(void)val;::exit(___);}
@@ -14393,7 +14679,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 228 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 228 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicCAS_block(unsigned *address, unsigned compare, unsigned 
 #line 229
 val) 
@@ -14407,7 +14693,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicCAS_system(unsigned *address, unsigned compare, unsigned 
 #line 233
 val) 
@@ -14421,7 +14707,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicCAS_block(unsigned __int64 *address, unsigned __int64 
 #line 237
 compare, unsigned __int64 
@@ -14437,7 +14723,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 241 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 241 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicCAS_system(unsigned __int64 *address, unsigned __int64 
 #line 242
 compare, unsigned __int64 
@@ -14453,7 +14739,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 246 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 246 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicAnd_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14465,7 +14751,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 249 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 249 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicAnd_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14477,7 +14763,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 252 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 252 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicAnd_block(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14489,7 +14775,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 255 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 255 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicAnd_system(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14501,7 +14787,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicAnd_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14513,7 +14799,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 261 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 261 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicAnd_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14525,7 +14811,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicAnd_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14537,7 +14823,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 267 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 267 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicAnd_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14549,7 +14835,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 270 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 270 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicOr_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14561,7 +14847,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 273 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 273 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicOr_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14573,7 +14859,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicOr_block(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14585,7 +14871,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 279 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 279 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicOr_system(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14597,7 +14883,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 282 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 282 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicOr_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14609,7 +14895,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicOr_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14621,7 +14907,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 288 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 288 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicOr_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14633,7 +14919,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 291 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 291 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicOr_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14645,7 +14931,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 294 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 294 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicXor_block(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14657,7 +14943,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 297 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 297 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline int atomicXor_system(int *address, int val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14669,7 +14955,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicXor_block(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14681,7 +14967,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline __int64 atomicXor_system(__int64 *address, __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14693,7 +14979,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 306 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 306 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicXor_block(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14705,7 +14991,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 309 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 309 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned atomicXor_system(unsigned *address, unsigned val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14717,7 +15003,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 312 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 312 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicXor_block(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14729,7 +15015,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 315 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_60_atomic_functions.h"
+#line 315 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_60_atomic_functions.h"
 static __inline unsigned __int64 atomicXor_system(unsigned __int64 *address, unsigned __int64 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)val;::exit(___);}
@@ -14737,27 +15023,15 @@ __pragma(warning(pop))
 #line 315
 { } 
 #endif
-#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
 extern "C" {
-#line 1036
+#line 1038
 }
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1043
+#line 1045
 __declspec(deprecated("__ballot() is deprecated in favor of __ballot_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to" " suppress this warning).")) static __inline unsigned ballot(bool pred) 
-__pragma(warning(pop))
-{int volatile ___ = 1;(void)pred;::exit(___);}
-#if 0
-#line 1043
-{ } 
-#endif
-
-__pragma(warning(push))
-__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
-
-#line 1045 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline int syncthreads_count(bool pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)pred;::exit(___);}
 #if 0
@@ -14768,8 +15042,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1047 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline bool syncthreads_and(bool pred) 
+#line 1047 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline int syncthreads_count(bool pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)pred;::exit(___);}
 #if 0
@@ -14780,8 +15054,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1049 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline bool syncthreads_or(bool pred) 
+#line 1049 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline bool syncthreads_and(bool pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)pred;::exit(___);}
 #if 0
@@ -14792,32 +15066,20 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1054 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
+#line 1051 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline bool syncthreads_or(bool pred) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)pred;::exit(___);}
+#if 0
+#line 1051
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 1056 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
 static __inline unsigned __isGlobal(const void *ptr) 
-__pragma(warning(pop))
-{int volatile ___ = 1;(void)ptr;::exit(___);}
-#if 0
-#line 1054
-{ } 
-#endif
-
-__pragma(warning(push))
-__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
-
-#line 1055 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline unsigned __isShared(const void *ptr) 
-__pragma(warning(pop))
-{int volatile ___ = 1;(void)ptr;::exit(___);}
-#if 0
-#line 1055
-{ } 
-#endif
-
-__pragma(warning(push))
-__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
-
-#line 1056 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline unsigned __isConstant(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14828,8 +15090,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1057 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline unsigned __isLocal(const void *ptr) 
+#line 1057 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline unsigned __isShared(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14840,8 +15102,20 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1059 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline unsigned __isGridConstant(const void *ptr) 
+#line 1058 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline unsigned __isConstant(const void *ptr) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)ptr;::exit(___);}
+#if 0
+#line 1058
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 1059 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline unsigned __isLocal(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14852,8 +15126,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1061 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline size_t __cvta_generic_to_global(const void *ptr) 
+#line 1061 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline unsigned __isGridConstant(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14864,20 +15138,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1062 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline size_t __cvta_generic_to_shared(const void *ptr) 
-__pragma(warning(pop))
-{int volatile ___ = 1;(void)ptr;::exit(___);}
-#if 0
-#line 1062
-{ } 
-#endif
-
-__pragma(warning(push))
-__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
-
-#line 1063 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline size_t __cvta_generic_to_constant(const void *ptr) 
+#line 1063 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline size_t __cvta_generic_to_global(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14888,8 +15150,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1064 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline size_t __cvta_generic_to_local(const void *ptr) 
+#line 1064 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline size_t __cvta_generic_to_shared(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14900,8 +15162,20 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1066 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline size_t __cvta_generic_to_grid_constant(const void *ptr) 
+#line 1065 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline size_t __cvta_generic_to_constant(const void *ptr) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)ptr;::exit(___);}
+#if 0
+#line 1065
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 1066 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline size_t __cvta_generic_to_local(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
 #if 0
@@ -14912,32 +15186,20 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1069 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
+#line 1068 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline size_t __cvta_generic_to_grid_constant(const void *ptr) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)ptr;::exit(___);}
+#if 0
+#line 1068
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 1071 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
 static __inline void *__cvta_global_to_generic(size_t rawbits) 
-__pragma(warning(pop))
-{int volatile ___ = 1;(void)rawbits;::exit(___);}
-#if 0
-#line 1069
-{ } 
-#endif
-
-__pragma(warning(push))
-__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
-
-#line 1070 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline void *__cvta_shared_to_generic(size_t rawbits) 
-__pragma(warning(pop))
-{int volatile ___ = 1;(void)rawbits;::exit(___);}
-#if 0
-#line 1070
-{ } 
-#endif
-
-__pragma(warning(push))
-__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
-
-#line 1071 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline void *__cvta_constant_to_generic(size_t rawbits) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)rawbits;::exit(___);}
 #if 0
@@ -14948,8 +15210,8 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1072 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline void *__cvta_local_to_generic(size_t rawbits) 
+#line 1072 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline void *__cvta_shared_to_generic(size_t rawbits) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)rawbits;::exit(___);}
 #if 0
@@ -14960,8 +15222,20 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 1074 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_20_intrinsics.h"
-static __inline void *__cvta_grid_constant_to_generic(size_t rawbits) 
+#line 1073 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline void *__cvta_constant_to_generic(size_t rawbits) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)rawbits;::exit(___);}
+#if 0
+#line 1073
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 1074 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline void *__cvta_local_to_generic(size_t rawbits) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)rawbits;::exit(___);}
 #if 0
@@ -14972,7 +15246,40 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 1076 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline void *__cvta_grid_constant_to_generic(size_t rawbits) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)rawbits;::exit(___);}
+#if 0
+#line 1076
+{ } 
+#endif
+#line 1090 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+static __inline unsigned short __nv_bswap16(unsigned short x) { 
+#line 1094 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+return _byteswap_ushort(x); 
+#line 1098 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+} 
+#line 1109
+static __inline unsigned __nv_bswap32(unsigned x) { 
+#line 1113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+unsigned long ret = _byteswap_ulong(static_cast< unsigned long>(x)); 
+#line 1114
+return static_cast< unsigned>(ret); 
+#line 1118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+} 
+#line 1129
+static __inline unsigned __int64 __nv_bswap64(unsigned __int64 x) { 
+#line 1133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+unsigned __int64 ret = _byteswap_uint64(x); 
+#line 1134
+return ret; 
+#line 1138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_20_intrinsics.h"
+} 
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __fns(unsigned mask, unsigned base, int offset) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)base;(void)offset;::exit(___);}
@@ -14984,7 +15291,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 124 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 124 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline void __barrier_sync(unsigned id) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)id;::exit(___);}
@@ -14996,7 +15303,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline void __barrier_sync_count(unsigned id, unsigned cnt) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)id;(void)cnt;::exit(___);}
@@ -15008,7 +15315,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 126 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline void __syncwarp(unsigned mask = 4294967295U) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;::exit(___);}
@@ -15020,7 +15327,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __all_sync(unsigned mask, int pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)pred;::exit(___);}
@@ -15032,7 +15339,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 128 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 128 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __any_sync(unsigned mask, int pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)pred;::exit(___);}
@@ -15044,7 +15351,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __uni_sync(unsigned mask, int pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)pred;::exit(___);}
@@ -15056,7 +15363,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 130 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 130 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __ballot_sync(unsigned mask, int pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)pred;::exit(___);}
@@ -15068,7 +15375,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 131 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 131 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __activemask() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -15080,7 +15387,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 140 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 140 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline int __shfl(int var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15092,7 +15399,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline unsigned __shfl(unsigned var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15104,7 +15411,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 142 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 142 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline int __shfl_up(int var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15116,7 +15423,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 143 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 143 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline unsigned __shfl_up(unsigned var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15128,7 +15435,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline int __shfl_down(int var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15140,7 +15447,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 145 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 145 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline unsigned __shfl_down(unsigned var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15152,7 +15459,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 146 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 146 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline int __shfl_xor(int var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15164,7 +15471,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline unsigned __shfl_xor(unsigned var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15176,7 +15483,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 148 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 148 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline float __shfl(float var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15188,7 +15495,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline float __shfl_up(float var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15200,7 +15507,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline float __shfl_down(float var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15212,7 +15519,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 151 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 151 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline float __shfl_xor(float var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15224,7 +15531,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 154 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 154 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __shfl_sync(unsigned mask, int var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15236,7 +15543,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __shfl_sync(unsigned mask, unsigned var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15248,7 +15555,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __shfl_up_sync(unsigned mask, int var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15260,7 +15567,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __shfl_up_sync(unsigned mask, unsigned var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15272,7 +15579,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 158 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 158 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __shfl_down_sync(unsigned mask, int var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15284,7 +15591,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __shfl_down_sync(unsigned mask, unsigned var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15296,7 +15603,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline int __shfl_xor_sync(unsigned mask, int var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15308,7 +15615,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 161 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 161 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __shfl_xor_sync(unsigned mask, unsigned var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15320,7 +15627,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline float __shfl_sync(unsigned mask, float var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15332,7 +15639,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 163 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 163 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline float __shfl_up_sync(unsigned mask, float var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15344,7 +15651,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 164 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 164 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline float __shfl_down_sync(unsigned mask, float var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15356,7 +15663,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline float __shfl_xor_sync(unsigned mask, float var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15368,7 +15675,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 169 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 169 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline unsigned __int64 __shfl(unsigned __int64 var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15380,7 +15687,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline __int64 __shfl(__int64 var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15392,7 +15699,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline __int64 __shfl_up(__int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15404,7 +15711,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 172 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 172 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline unsigned __int64 __shfl_up(unsigned __int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15416,7 +15723,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline __int64 __shfl_down(__int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15428,7 +15735,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline unsigned __int64 __shfl_down(unsigned __int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15440,7 +15747,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline __int64 __shfl_xor(__int64 var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15452,7 +15759,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline unsigned __int64 __shfl_xor(unsigned __int64 var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15464,7 +15771,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline double __shfl(double var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15476,7 +15783,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline double __shfl_up(double var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15488,7 +15795,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 179 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 179 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline double __shfl_down(double var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15500,7 +15807,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 180 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 180 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline double __shfl_xor(double var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15512,7 +15819,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline __int64 __shfl_sync(unsigned mask, __int64 var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15524,7 +15831,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 184 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 184 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __int64 __shfl_sync(unsigned mask, unsigned __int64 var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15536,7 +15843,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline __int64 __shfl_up_sync(unsigned mask, __int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15548,7 +15855,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __int64 __shfl_up_sync(unsigned mask, unsigned __int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15560,7 +15867,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 187 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 187 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline __int64 __shfl_down_sync(unsigned mask, __int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15572,7 +15879,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __int64 __shfl_down_sync(unsigned mask, unsigned __int64 var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15584,7 +15891,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline __int64 __shfl_xor_sync(unsigned mask, __int64 var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15596,7 +15903,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 190 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 190 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned __int64 __shfl_xor_sync(unsigned mask, unsigned __int64 var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15608,7 +15915,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 191 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 191 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline double __shfl_sync(unsigned mask, double var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15620,7 +15927,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline double __shfl_up_sync(unsigned mask, double var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15632,7 +15939,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 193 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 193 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline double __shfl_down_sync(unsigned mask, double var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15644,7 +15951,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 194 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 194 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline double __shfl_xor_sync(unsigned mask, double var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15656,7 +15963,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline long __shfl(long var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15668,7 +15975,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 199 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 199 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl() is deprecated in favor of __shfl_sync() and may be removed in a future release (Use -Wno-deprecated-declarations to sup" "press this warning).")) static __inline unsigned long __shfl(unsigned long var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15680,7 +15987,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 200 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 200 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline long __shfl_up(long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15692,7 +15999,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_up() is deprecated in favor of __shfl_up_sync() and may be removed in a future release (Use -Wno-deprecated-declarations " "to suppress this warning).")) static __inline unsigned long __shfl_up(unsigned long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15704,7 +16011,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 202 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 202 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline long __shfl_down(long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15716,7 +16023,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_down() is deprecated in favor of __shfl_down_sync() and may be removed in a future release (Use -Wno-deprecated-declarati" "ons to suppress this warning).")) static __inline unsigned long __shfl_down(unsigned long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15728,7 +16035,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline long __shfl_xor(long var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15740,7 +16047,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 205 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 205 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 __declspec(deprecated("__shfl_xor() is deprecated in favor of __shfl_xor_sync() and may be removed in a future release (Use -Wno-deprecated-declaration" "s to suppress this warning).")) static __inline unsigned long __shfl_xor(unsigned long var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15752,7 +16059,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 208 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 208 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline long __shfl_sync(unsigned mask, long var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15764,7 +16071,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 209 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 209 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned long __shfl_sync(unsigned mask, unsigned long var, int srcLane, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)srcLane;(void)width;::exit(___);}
@@ -15776,7 +16083,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline long __shfl_up_sync(unsigned mask, long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15788,7 +16095,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 211 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 211 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned long __shfl_up_sync(unsigned mask, unsigned long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15800,7 +16107,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline long __shfl_down_sync(unsigned mask, long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15812,7 +16119,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned long __shfl_down_sync(unsigned mask, unsigned long var, unsigned delta, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)delta;(void)width;::exit(___);}
@@ -15824,7 +16131,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 214 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 214 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline long __shfl_xor_sync(unsigned mask, long var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15836,7 +16143,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_30_intrinsics.h"
+#line 215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_30_intrinsics.h"
 static __inline unsigned long __shfl_xor_sync(unsigned mask, unsigned long var, int laneMask, int width = 32) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)var;(void)laneMask;(void)width;::exit(___);}
@@ -15848,7 +16155,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 91 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline long __ldg(const long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15860,7 +16167,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 92 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 92 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned long __ldg(const unsigned long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15872,7 +16179,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 94 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 94 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char __ldg(const char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15884,7 +16191,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline signed char __ldg(const signed char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15896,7 +16203,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short __ldg(const short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15908,7 +16215,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int __ldg(const int *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15920,7 +16227,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline __int64 __ldg(const __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15932,7 +16239,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char2 __ldg(const char2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15944,7 +16251,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char4 __ldg(const char4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15956,7 +16263,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short2 __ldg(const short2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15968,7 +16275,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short4 __ldg(const short4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15980,7 +16287,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int2 __ldg(const int2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -15992,7 +16299,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int4 __ldg(const int4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16004,7 +16311,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline longlong2 __ldg(const longlong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16016,7 +16323,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned char __ldg(const unsigned char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16028,7 +16335,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 108 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 108 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned short __ldg(const unsigned short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16040,7 +16347,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __ldg(const unsigned *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16052,7 +16359,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 110 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 110 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __int64 __ldg(const unsigned __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16064,7 +16371,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar2 __ldg(const uchar2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16076,7 +16383,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar4 __ldg(const uchar4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16088,7 +16395,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort2 __ldg(const ushort2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16100,7 +16407,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort4 __ldg(const ushort4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16112,7 +16419,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 115 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint2 __ldg(const uint2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16124,7 +16431,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint4 __ldg(const uint4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16136,7 +16443,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 117 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ulonglong2 __ldg(const ulonglong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16148,7 +16455,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 119 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 119 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float __ldg(const float *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16160,7 +16467,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double __ldg(const double *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16172,7 +16479,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 121 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 121 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float2 __ldg(const float2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16184,7 +16491,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 122 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 122 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float4 __ldg(const float4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16196,7 +16503,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 123 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double2 __ldg(const double2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16208,7 +16515,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 128 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 128 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline long __ldcg(const long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16220,7 +16527,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned long __ldcg(const unsigned long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16232,7 +16539,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 131 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 131 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char __ldcg(const char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16244,7 +16551,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 132 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 132 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline signed char __ldcg(const signed char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16256,7 +16563,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short __ldcg(const short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16268,7 +16575,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 134 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 134 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int __ldcg(const int *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16280,7 +16587,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 135 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline __int64 __ldcg(const __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16292,7 +16599,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 136 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 136 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char2 __ldcg(const char2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16304,7 +16611,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 137 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 137 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char4 __ldcg(const char4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16316,7 +16623,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short2 __ldcg(const short2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16328,7 +16635,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 139 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 139 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short4 __ldcg(const short4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16340,7 +16647,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 140 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 140 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int2 __ldcg(const int2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16352,7 +16659,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int4 __ldcg(const int4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16364,7 +16671,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 142 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 142 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline longlong2 __ldcg(const longlong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16376,7 +16683,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned char __ldcg(const unsigned char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16388,7 +16695,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 145 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 145 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned short __ldcg(const unsigned short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16400,7 +16707,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 146 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 146 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __ldcg(const unsigned *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16412,7 +16719,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __int64 __ldcg(const unsigned __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16424,7 +16731,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 148 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 148 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar2 __ldcg(const uchar2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16436,7 +16743,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar4 __ldcg(const uchar4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16448,7 +16755,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 150 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort2 __ldcg(const ushort2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16460,7 +16767,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 151 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 151 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort4 __ldcg(const ushort4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16472,7 +16779,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 152 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 152 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint2 __ldcg(const uint2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16484,7 +16791,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint4 __ldcg(const uint4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16496,7 +16803,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 154 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 154 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ulonglong2 __ldcg(const ulonglong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16508,7 +16815,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 156 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float __ldcg(const float *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16520,7 +16827,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 157 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double __ldcg(const double *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16532,7 +16839,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 158 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 158 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float2 __ldcg(const float2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16544,7 +16851,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float4 __ldcg(const float4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16556,7 +16863,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 160 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double2 __ldcg(const double2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16568,7 +16875,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 164 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 164 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline long __ldca(const long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16580,7 +16887,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 165 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned long __ldca(const unsigned long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16592,7 +16899,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 167 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 167 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char __ldca(const char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16604,7 +16911,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 168 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 168 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline signed char __ldca(const signed char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16616,7 +16923,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 169 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 169 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short __ldca(const short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16628,7 +16935,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 170 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int __ldca(const int *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16640,7 +16947,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline __int64 __ldca(const __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16652,7 +16959,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 172 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 172 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char2 __ldca(const char2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16664,7 +16971,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char4 __ldca(const char4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16676,7 +16983,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 174 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short2 __ldca(const short2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16688,7 +16995,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short4 __ldca(const short4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16700,7 +17007,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 176 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int2 __ldca(const int2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16712,7 +17019,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 177 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int4 __ldca(const int4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16724,7 +17031,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 178 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline longlong2 __ldca(const longlong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16736,7 +17043,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 180 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 180 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned char __ldca(const unsigned char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16748,7 +17055,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 181 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 181 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned short __ldca(const unsigned short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16760,7 +17067,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 182 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 182 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __ldca(const unsigned *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16772,7 +17079,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __int64 __ldca(const unsigned __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16784,7 +17091,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 184 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 184 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar2 __ldca(const uchar2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16796,7 +17103,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar4 __ldca(const uchar4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16808,7 +17115,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 186 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort2 __ldca(const ushort2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16820,7 +17127,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 187 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 187 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort4 __ldca(const ushort4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16832,7 +17139,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint2 __ldca(const uint2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16844,7 +17151,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint4 __ldca(const uint4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16856,7 +17163,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 190 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 190 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ulonglong2 __ldca(const ulonglong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16868,7 +17175,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 192 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float __ldca(const float *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16880,7 +17187,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 193 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 193 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double __ldca(const double *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16892,7 +17199,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 194 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 194 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float2 __ldca(const float2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16904,7 +17211,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 195 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 195 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float4 __ldca(const float4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16916,7 +17223,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 196 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 196 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double2 __ldca(const double2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16928,7 +17235,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 200 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 200 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline long __ldcs(const long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16940,7 +17247,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned long __ldcs(const unsigned long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16952,7 +17259,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char __ldcs(const char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16964,7 +17271,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline signed char __ldcs(const signed char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16976,7 +17283,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 205 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 205 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short __ldcs(const short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -16988,7 +17295,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int __ldcs(const int *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17000,7 +17307,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline __int64 __ldcs(const __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17012,7 +17319,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 208 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 208 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char2 __ldcs(const char2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17024,7 +17331,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 209 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 209 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char4 __ldcs(const char4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17036,7 +17343,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short2 __ldcs(const short2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17048,7 +17355,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 211 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 211 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short4 __ldcs(const short4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17060,7 +17367,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int2 __ldcs(const int2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17072,7 +17379,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int4 __ldcs(const int4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17084,7 +17391,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 214 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 214 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline longlong2 __ldcs(const longlong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17096,7 +17403,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned char __ldcs(const unsigned char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17108,7 +17415,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 217 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 217 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned short __ldcs(const unsigned short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17120,7 +17427,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 218 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 218 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __ldcs(const unsigned *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17132,7 +17439,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 219 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 219 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __int64 __ldcs(const unsigned __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17144,7 +17451,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 220 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 220 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar2 __ldcs(const uchar2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17156,7 +17463,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 221 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 221 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar4 __ldcs(const uchar4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17168,7 +17475,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort2 __ldcs(const ushort2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17180,7 +17487,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 223 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 223 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort4 __ldcs(const ushort4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17192,7 +17499,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 224 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 224 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint2 __ldcs(const uint2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17204,7 +17511,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint4 __ldcs(const uint4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17216,7 +17523,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 226 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 226 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ulonglong2 __ldcs(const ulonglong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17228,7 +17535,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 228 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 228 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float __ldcs(const float *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17240,7 +17547,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 229 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 229 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double __ldcs(const double *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17252,7 +17559,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 230 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 230 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float2 __ldcs(const float2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17264,7 +17571,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 231 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 231 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float4 __ldcs(const float4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17276,7 +17583,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 232 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double2 __ldcs(const double2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17288,7 +17595,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline long __ldlu(const long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17300,7 +17607,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 237 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 237 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned long __ldlu(const unsigned long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17312,7 +17619,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 239 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 239 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char __ldlu(const char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17324,7 +17631,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 240 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 240 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline signed char __ldlu(const signed char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17336,7 +17643,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 241 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 241 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short __ldlu(const short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17348,7 +17655,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 242 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 242 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int __ldlu(const int *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17360,7 +17667,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 243 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 243 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline __int64 __ldlu(const __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17372,7 +17679,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 244 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 244 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char2 __ldlu(const char2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17384,7 +17691,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 245 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 245 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char4 __ldlu(const char4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17396,7 +17703,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 246 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 246 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short2 __ldlu(const short2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17408,7 +17715,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short4 __ldlu(const short4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17420,7 +17727,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 248 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 248 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int2 __ldlu(const int2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17432,7 +17739,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 249 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 249 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int4 __ldlu(const int4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17444,7 +17751,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 250 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 250 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline longlong2 __ldlu(const longlong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17456,7 +17763,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 252 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 252 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned char __ldlu(const unsigned char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17468,7 +17775,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 253 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 253 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned short __ldlu(const unsigned short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17480,7 +17787,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 254 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 254 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __ldlu(const unsigned *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17492,7 +17799,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 255 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 255 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __int64 __ldlu(const unsigned __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17504,7 +17811,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 256 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 256 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar2 __ldlu(const uchar2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17516,7 +17823,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 257 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 257 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar4 __ldlu(const uchar4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17528,7 +17835,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 258 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort2 __ldlu(const ushort2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17540,7 +17847,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 259 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 259 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort4 __ldlu(const ushort4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17552,7 +17859,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 260 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 260 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint2 __ldlu(const uint2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17564,7 +17871,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 261 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 261 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint4 __ldlu(const uint4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17576,7 +17883,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 262 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 262 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ulonglong2 __ldlu(const ulonglong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17588,7 +17895,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 264 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float __ldlu(const float *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17600,7 +17907,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 265 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 265 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double __ldlu(const double *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17612,7 +17919,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 266 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 266 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float2 __ldlu(const float2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17624,7 +17931,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 267 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 267 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float4 __ldlu(const float4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17636,7 +17943,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 268 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 268 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double2 __ldlu(const double2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17648,7 +17955,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 272 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 272 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline long __ldcv(const long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17660,7 +17967,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 273 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 273 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned long __ldcv(const unsigned long *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17672,7 +17979,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 275 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 275 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char __ldcv(const char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17684,7 +17991,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline signed char __ldcv(const signed char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17696,7 +18003,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 277 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 277 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short __ldcv(const short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17708,7 +18015,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 278 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 278 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int __ldcv(const int *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17720,7 +18027,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 279 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 279 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline __int64 __ldcv(const __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17732,7 +18039,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 280 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 280 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char2 __ldcv(const char2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17744,7 +18051,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 281 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 281 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline char4 __ldcv(const char4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17756,7 +18063,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 282 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 282 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short2 __ldcv(const short2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17768,7 +18075,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 283 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 283 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline short4 __ldcv(const short4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17780,7 +18087,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 284 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 284 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int2 __ldcv(const int2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17792,7 +18099,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 285 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline int4 __ldcv(const int4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17804,7 +18111,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 286 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 286 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline longlong2 __ldcv(const longlong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17816,7 +18123,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 288 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 288 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned char __ldcv(const unsigned char *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17828,7 +18135,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 289 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 289 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned short __ldcv(const unsigned short *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17840,7 +18147,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 290 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 290 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __ldcv(const unsigned *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17852,7 +18159,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 291 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 291 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __int64 __ldcv(const unsigned __int64 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17864,7 +18171,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 292 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 292 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar2 __ldcv(const uchar2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17876,7 +18183,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 293 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 293 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uchar4 __ldcv(const uchar4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17888,7 +18195,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 294 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 294 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort2 __ldcv(const ushort2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17900,7 +18207,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 295 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 295 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ushort4 __ldcv(const ushort4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17912,7 +18219,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 296 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 296 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint2 __ldcv(const uint2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17924,7 +18231,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 297 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 297 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline uint4 __ldcv(const uint4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17936,7 +18243,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 298 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 298 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline ulonglong2 __ldcv(const ulonglong2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17948,7 +18255,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 300 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float __ldcv(const float *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17960,7 +18267,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 301 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 301 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double __ldcv(const double *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17972,7 +18279,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 302 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 302 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float2 __ldcv(const float2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17984,7 +18291,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 303 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline float4 __ldcv(const float4 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -17996,7 +18303,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 304 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 304 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline double2 __ldcv(const double2 *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -18008,7 +18315,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 308 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 308 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(long *ptr, long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18020,7 +18327,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 309 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 309 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(unsigned long *ptr, unsigned long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18032,7 +18339,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 311 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 311 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(char *ptr, char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18044,7 +18351,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 312 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 312 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(signed char *ptr, signed char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18056,7 +18363,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 313 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 313 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(short *ptr, short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18068,7 +18375,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 314 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 314 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(int *ptr, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18080,7 +18387,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 315 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 315 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(__int64 *ptr, __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18092,7 +18399,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 316 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 316 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(char2 *ptr, char2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18104,7 +18411,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(char4 *ptr, char4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18116,7 +18423,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 318 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 318 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(short2 *ptr, short2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18128,7 +18435,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 319 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 319 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(short4 *ptr, short4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18140,7 +18447,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 320 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 320 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(int2 *ptr, int2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18152,7 +18459,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 321 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 321 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(int4 *ptr, int4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18164,7 +18471,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 322 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 322 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(longlong2 *ptr, longlong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18176,7 +18483,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 324 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 324 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(unsigned char *ptr, unsigned char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18188,7 +18495,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 325 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 325 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(unsigned short *ptr, unsigned short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18200,7 +18507,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 326 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 326 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(unsigned *ptr, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18212,7 +18519,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 327 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 327 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(unsigned __int64 *ptr, unsigned __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18224,7 +18531,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 328 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 328 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(uchar2 *ptr, uchar2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18236,7 +18543,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 329 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 329 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(uchar4 *ptr, uchar4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18248,7 +18555,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 330 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(ushort2 *ptr, ushort2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18260,7 +18567,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 331 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 331 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(ushort4 *ptr, ushort4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18272,7 +18579,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 332 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 332 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(uint2 *ptr, uint2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18284,7 +18591,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 333 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 333 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(uint4 *ptr, uint4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18296,7 +18603,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 334 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 334 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(ulonglong2 *ptr, ulonglong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18308,7 +18615,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 336 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 336 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(float *ptr, float value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18320,7 +18627,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 337 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 337 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(double *ptr, double value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18332,7 +18639,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 338 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 338 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(float2 *ptr, float2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18344,7 +18651,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 339 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 339 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(float4 *ptr, float4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18356,7 +18663,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 340 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 340 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwb(double2 *ptr, double2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18368,7 +18675,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 344 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 344 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(long *ptr, long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18380,7 +18687,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 345 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 345 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(unsigned long *ptr, unsigned long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18392,7 +18699,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 347 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 347 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(char *ptr, char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18404,7 +18711,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 348 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 348 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(signed char *ptr, signed char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18416,7 +18723,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 349 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 349 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(short *ptr, short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18428,7 +18735,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 350 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 350 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(int *ptr, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18440,7 +18747,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 351 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 351 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(__int64 *ptr, __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18452,7 +18759,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 352 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 352 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(char2 *ptr, char2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18464,7 +18771,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 353 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 353 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(char4 *ptr, char4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18476,7 +18783,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 354 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 354 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(short2 *ptr, short2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18488,7 +18795,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 355 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 355 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(short4 *ptr, short4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18500,7 +18807,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 356 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 356 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(int2 *ptr, int2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18512,7 +18819,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 357 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 357 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(int4 *ptr, int4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18524,7 +18831,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 358 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 358 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(longlong2 *ptr, longlong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18536,7 +18843,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 360 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 360 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(unsigned char *ptr, unsigned char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18548,7 +18855,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 361 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 361 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(unsigned short *ptr, unsigned short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18560,7 +18867,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 362 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 362 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(unsigned *ptr, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18572,7 +18879,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 363 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 363 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(unsigned __int64 *ptr, unsigned __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18584,7 +18891,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 364 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 364 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(uchar2 *ptr, uchar2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18596,7 +18903,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 365 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 365 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(uchar4 *ptr, uchar4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18608,7 +18915,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 366 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 366 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(ushort2 *ptr, ushort2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18620,7 +18927,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 367 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 367 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(ushort4 *ptr, ushort4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18632,7 +18939,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 368 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 368 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(uint2 *ptr, uint2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18644,7 +18951,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 369 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 369 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(uint4 *ptr, uint4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18656,7 +18963,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 370 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 370 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(ulonglong2 *ptr, ulonglong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18668,7 +18975,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 372 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 372 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(float *ptr, float value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18680,7 +18987,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 373 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 373 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(double *ptr, double value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18692,7 +18999,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 374 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 374 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(float2 *ptr, float2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18704,7 +19011,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 375 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(float4 *ptr, float4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18716,7 +19023,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 376 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 376 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcg(double2 *ptr, double2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18728,7 +19035,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 380 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 380 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(long *ptr, long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18740,7 +19047,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 381 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 381 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(unsigned long *ptr, unsigned long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18752,7 +19059,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 383 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 383 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(char *ptr, char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18764,7 +19071,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 384 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 384 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(signed char *ptr, signed char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18776,7 +19083,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 385 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 385 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(short *ptr, short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18788,7 +19095,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 386 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 386 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(int *ptr, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18800,7 +19107,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 387 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 387 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(__int64 *ptr, __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18812,7 +19119,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 388 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 388 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(char2 *ptr, char2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18824,7 +19131,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 389 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 389 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(char4 *ptr, char4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18836,7 +19143,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(short2 *ptr, short2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18848,7 +19155,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 391 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 391 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(short4 *ptr, short4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18860,7 +19167,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 392 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(int2 *ptr, int2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18872,7 +19179,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 393 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 393 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(int4 *ptr, int4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18884,7 +19191,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 394 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 394 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(longlong2 *ptr, longlong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18896,7 +19203,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 396 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 396 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(unsigned char *ptr, unsigned char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18908,7 +19215,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 397 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 397 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(unsigned short *ptr, unsigned short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18920,7 +19227,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 398 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 398 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(unsigned *ptr, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18932,7 +19239,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 399 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 399 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(unsigned __int64 *ptr, unsigned __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18944,7 +19251,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 400 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 400 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(uchar2 *ptr, uchar2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18956,7 +19263,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(uchar4 *ptr, uchar4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18968,7 +19275,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 402 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 402 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(ushort2 *ptr, ushort2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18980,7 +19287,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 403 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 403 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(ushort4 *ptr, ushort4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -18992,7 +19299,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 404 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 404 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(uint2 *ptr, uint2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19004,7 +19311,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 405 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 405 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(uint4 *ptr, uint4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19016,7 +19323,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 406 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 406 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(ulonglong2 *ptr, ulonglong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19028,7 +19335,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 408 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 408 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(float *ptr, float value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19040,7 +19347,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 409 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 409 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(double *ptr, double value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19052,7 +19359,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 410 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 410 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(float2 *ptr, float2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19064,7 +19371,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 411 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 411 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(float4 *ptr, float4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19076,7 +19383,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 412 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 412 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stcs(double2 *ptr, double2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19088,7 +19395,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 416 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 416 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(long *ptr, long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19100,7 +19407,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 417 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 417 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(unsigned long *ptr, unsigned long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19112,7 +19419,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 419 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 419 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(char *ptr, char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19124,7 +19431,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 420 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 420 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(signed char *ptr, signed char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19136,7 +19443,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 421 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 421 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(short *ptr, short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19148,7 +19455,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 422 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 422 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(int *ptr, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19160,7 +19467,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 423 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 423 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(__int64 *ptr, __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19172,7 +19479,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 424 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 424 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(char2 *ptr, char2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19184,7 +19491,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 425 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 425 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(char4 *ptr, char4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19196,7 +19503,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 426 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 426 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(short2 *ptr, short2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19208,7 +19515,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 427 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 427 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(short4 *ptr, short4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19220,7 +19527,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 428 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 428 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(int2 *ptr, int2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19232,7 +19539,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 429 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 429 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(int4 *ptr, int4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19244,7 +19551,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 430 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 430 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(longlong2 *ptr, longlong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19256,7 +19563,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 432 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 432 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(unsigned char *ptr, unsigned char value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19268,7 +19575,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 433 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 433 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(unsigned short *ptr, unsigned short value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19280,7 +19587,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 434 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 434 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(unsigned *ptr, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19292,7 +19599,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 435 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 435 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(unsigned __int64 *ptr, unsigned __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19304,7 +19611,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 436 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 436 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(uchar2 *ptr, uchar2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19316,7 +19623,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 437 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 437 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(uchar4 *ptr, uchar4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19328,7 +19635,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 438 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 438 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(ushort2 *ptr, ushort2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19340,7 +19647,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 439 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 439 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(ushort4 *ptr, ushort4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19352,7 +19659,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 440 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 440 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(uint2 *ptr, uint2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19364,7 +19671,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 441 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 441 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(uint4 *ptr, uint4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19376,7 +19683,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 442 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 442 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(ulonglong2 *ptr, ulonglong2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19388,7 +19695,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 444 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 444 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(float *ptr, float value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19400,7 +19707,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 445 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 445 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(double *ptr, double value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19412,7 +19719,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 446 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 446 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(float2 *ptr, float2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19424,7 +19731,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 447 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 447 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(float4 *ptr, float4 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19436,7 +19743,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 448 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 448 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline void __stwt(double2 *ptr, double2 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)value;::exit(___);}
@@ -19448,7 +19755,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 465 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 465 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __funnelshift_l(unsigned lo, unsigned hi, unsigned shift) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)lo;(void)hi;(void)shift;::exit(___);}
@@ -19460,7 +19767,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 477 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 477 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __funnelshift_lc(unsigned lo, unsigned hi, unsigned shift) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)lo;(void)hi;(void)shift;::exit(___);}
@@ -19472,7 +19779,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 490 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 490 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __funnelshift_r(unsigned lo, unsigned hi, unsigned shift) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)lo;(void)hi;(void)shift;::exit(___);}
@@ -19484,7 +19791,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 502 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_32_intrinsics.h"
+#line 502 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_32_intrinsics.h"
 static __inline unsigned __funnelshift_rc(unsigned lo, unsigned hi, unsigned shift) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)lo;(void)hi;(void)shift;::exit(___);}
@@ -19496,7 +19803,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline int __dp2a_lo(int srcA, int srcB, int c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19508,7 +19815,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline unsigned __dp2a_lo(unsigned srcA, unsigned srcB, unsigned c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19520,7 +19827,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline int __dp2a_lo(short2 srcA, char4 srcB, int c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19532,7 +19839,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 136 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 136 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline unsigned __dp2a_lo(ushort2 srcA, uchar4 srcB, unsigned c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19544,7 +19851,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 148 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 148 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline int __dp2a_hi(int srcA, int srcB, int c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19556,7 +19863,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 159 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline unsigned __dp2a_hi(unsigned srcA, unsigned srcB, unsigned c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19568,7 +19875,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 171 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline int __dp2a_hi(short2 srcA, char4 srcB, int c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19580,7 +19887,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 182 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 182 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline unsigned __dp2a_hi(ushort2 srcA, uchar4 srcB, unsigned c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19592,7 +19899,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 197 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 197 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline int __dp4a(int srcA, int srcB, int c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19604,7 +19911,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 206 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline unsigned __dp4a(unsigned srcA, unsigned srcB, unsigned c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19616,7 +19923,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 216 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline int __dp4a(char4 srcA, char4 srcB, int c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19628,7 +19935,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\sm_61_intrinsics.h"
+#line 225 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\sm_61_intrinsics.h"
 static __inline unsigned __dp4a(uchar4 srcA, uchar4 srcB, unsigned c) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)srcA;(void)srcB;(void)c;::exit(___);}
@@ -19640,7 +19947,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19652,7 +19959,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19664,7 +19971,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, unsigned long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19676,7 +19983,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, long value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19688,7 +19995,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, unsigned __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19700,7 +20007,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, __int64 value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19712,7 +20019,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, float value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19724,7 +20031,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_any_sync(unsigned mask, double value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19736,7 +20043,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, unsigned value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19748,7 +20055,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 108 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 108 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, int value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19760,7 +20067,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, unsigned long value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19772,7 +20079,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 110 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 110 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, long value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19784,7 +20091,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, unsigned __int64 value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19796,7 +20103,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, __int64 value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19808,7 +20115,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, float value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19820,7 +20127,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned __match_all_sync(unsigned mask, double value, int *pred) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;(void)pred;::exit(___);}
@@ -19832,7 +20139,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 116 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline void __nanosleep(unsigned ns) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ns;::exit(___);}
@@ -19844,7 +20151,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_70_rt.h"
+#line 118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_70_rt.h"
 static __inline unsigned short atomicCAS(unsigned short *address, unsigned short compare, unsigned short val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)address;(void)compare;(void)val;::exit(___);}
@@ -19856,7 +20163,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline unsigned __reduce_add_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19868,7 +20175,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline unsigned __reduce_min_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19880,7 +20187,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline unsigned __reduce_max_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19892,7 +20199,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline int __reduce_add_sync(unsigned mask, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19904,7 +20211,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline int __reduce_min_sync(unsigned mask, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19916,7 +20223,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline int __reduce_max_sync(unsigned mask, int value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19928,7 +20235,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline unsigned __reduce_and_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19940,7 +20247,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline unsigned __reduce_or_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19952,7 +20259,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 static __inline unsigned __reduce_xor_sync(unsigned mask, unsigned value) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)mask;(void)value;::exit(___);}
@@ -19960,7 +20267,7 @@ __pragma(warning(pop))
 #line 107
 { } 
 #endif
-#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 extern "C" {
 #line 113
 inline void *__nv_associate_access_property(const void *ptr, unsigned __int64 
@@ -19976,7 +20283,7 @@ return __nv_associate_access_property_impl(ptr, property);
 #line 118
 } 
 #endif
-#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 120 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 inline void __nv_memcpy_async_shared_global_4(void *dst, const void *
 #line 121
 src, unsigned 
@@ -19992,7 +20299,7 @@ __nv_memcpy_async_shared_global_4_impl(dst, src, src_size);
 #line 127
 } 
 #endif
-#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 inline void __nv_memcpy_async_shared_global_8(void *dst, const void *
 #line 130
 src, unsigned 
@@ -20008,7 +20315,7 @@ __nv_memcpy_async_shared_global_8_impl(dst, src, src_size);
 #line 136
 } 
 #endif
-#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 inline void __nv_memcpy_async_shared_global_16(void *dst, const void *
 #line 139
 src, unsigned 
@@ -20024,12 +20331,12 @@ __nv_memcpy_async_shared_global_16_impl(dst, src, src_size);
 #line 145
 } 
 #endif
-#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_80_rt.h"
+#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_80_rt.h"
 }
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 92 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 92 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline unsigned __isCtaShared(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -20041,7 +20348,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 93 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline unsigned __isClusterShared(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -20053,7 +20360,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 94 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 94 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline void *__cluster_map_shared_rank(const void *ptr, unsigned target_block_rank) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)target_block_rank;::exit(___);}
@@ -20065,7 +20372,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 95 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline unsigned __cluster_query_shared_rank(const void *ptr) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;::exit(___);}
@@ -20077,7 +20384,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 96 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline uint2 __cluster_map_shared_multicast(const void *ptr, unsigned cluster_cta_mask) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)ptr;(void)cluster_cta_mask;::exit(___);}
@@ -20089,7 +20396,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 97 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline unsigned __clusterDimIsSpecified() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20101,7 +20408,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 98 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline dim3 __clusterDim() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20113,7 +20420,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 99 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline dim3 __clusterRelativeBlockIdx() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20125,7 +20432,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline dim3 __clusterGridDimInClusters() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20137,7 +20444,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline dim3 __clusterIdx() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20149,7 +20456,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 102 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline unsigned __clusterRelativeBlockRank() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20161,7 +20468,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 103 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline unsigned __clusterSizeInBlocks() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20173,7 +20480,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline void __cluster_barrier_arrive() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20185,7 +20492,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 105 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline void __cluster_barrier_arrive_relaxed() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20197,7 +20504,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 106 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline void __cluster_barrier_wait() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20209,7 +20516,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 107 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline void __threadfence_cluster() 
 __pragma(warning(pop))
 {int volatile ___ = 1;::exit(___);}
@@ -20221,7 +20528,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 109 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline float2 atomicAdd(float2 *__address, float2 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)__address;(void)val;::exit(___);}
@@ -20233,7 +20540,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 110 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 110 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline float2 atomicAdd_block(float2 *__address, float2 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)__address;(void)val;::exit(___);}
@@ -20245,7 +20552,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 111 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline float2 atomicAdd_system(float2 *__address, float2 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)__address;(void)val;::exit(___);}
@@ -20257,7 +20564,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline float4 atomicAdd(float4 *__address, float4 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)__address;(void)val;::exit(___);}
@@ -20269,7 +20576,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 113 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline float4 atomicAdd_block(float4 *__address, float4 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)__address;(void)val;::exit(___);}
@@ -20281,7 +20588,7 @@ __pragma(warning(pop))
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static __inline float4 atomicAdd_system(float4 *__address, float4 val) 
 __pragma(warning(pop))
 {int volatile ___ = 1;(void)__address;(void)val;::exit(___);}
@@ -20289,7 +20596,7 @@ __pragma(warning(pop))
 #line 114
 { } 
 #endif
-#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 125 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 extern "C" {
 #line 132
 }
@@ -20301,18 +20608,18 @@ struct __nv_atomic_enable_if { };
 template< class _T> 
 #line 143
 struct __nv_atomic_enable_if< true, _T>  { typedef _T __type; }; 
-#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> 
 #line 154
 struct __nv_atomic_triv_cp_helper { 
-#line 164 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 164 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 static const bool __val = __is_trivially_copyable(_T); 
-#line 166 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 166 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; 
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 201 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> static __inline typename __nv_atomic_enable_if< ((sizeof(_T) == (16)) && (__alignof(_T) >= (16))) && __nv_atomic_triv_cp_helper< _T> ::__val, _T> ::__type 
 #line 203
 atomicCAS(_T *__address, _T __compare, _T __val) 
@@ -20327,7 +20634,7 @@ union _U { _T __ret; __inline _U() {int *volatile ___ = 0;::free(___);}
 #line 204
 { } 
 #endif
-#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 204 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; _U __u; 
 #line 205
 __u128AtomicCAS((void *)__address, (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__compare)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__val)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__u.__ret))))); 
@@ -20340,7 +20647,7 @@ return __u.__ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 212 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> static __inline typename __nv_atomic_enable_if< ((sizeof(_T) == (16)) && (__alignof(_T) >= (16))) && __nv_atomic_triv_cp_helper< _T> ::__val, _T> ::__type 
 #line 214
 atomicCAS_block(_T *__address, _T __compare, _T __val) 
@@ -20355,7 +20662,7 @@ union _U { _T __ret; __inline _U() {int *volatile ___ = 0;::free(___);}
 #line 215
 { } 
 #endif
-#line 215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; _U __u; 
 #line 216
 __u128AtomicCAS_block((void *)__address, (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__compare)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__val)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__u.__ret))))); 
@@ -20368,7 +20675,7 @@ return __u.__ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 223 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 223 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> static __inline typename __nv_atomic_enable_if< ((sizeof(_T) == (16)) && (__alignof(_T) >= (16))) && __nv_atomic_triv_cp_helper< _T> ::__val, _T> ::__type 
 #line 225
 atomicCAS_system(_T *__address, _T __compare, _T __val) 
@@ -20383,7 +20690,7 @@ union _U { _T __ret; __inline _U() {int *volatile ___ = 0;::free(___);}
 #line 226
 { } 
 #endif
-#line 226 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 226 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; _U __u; 
 #line 227
 __u128AtomicCAS_system((void *)__address, (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__compare)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__val)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__u.__ret))))); 
@@ -20396,7 +20703,7 @@ return __u.__ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 234 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 234 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> static __inline typename __nv_atomic_enable_if< ((sizeof(_T) == (16)) && (__alignof(_T) >= (16))) && __nv_atomic_triv_cp_helper< _T> ::__val, _T> ::__type 
 #line 236
 atomicExch(_T *__address, _T __val) 
@@ -20411,7 +20718,7 @@ union _U { _T __ret; __inline _U() {int *volatile ___ = 0;::free(___);}
 #line 237
 { } 
 #endif
-#line 237 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 237 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; _U __u; 
 #line 238
 __u128AtomicExch((void *)__address, (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__val)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__u.__ret))))); 
@@ -20424,7 +20731,7 @@ return __u.__ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 244 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 244 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> static __inline typename __nv_atomic_enable_if< ((sizeof(_T) == (16)) && (__alignof(_T) >= (16))) && __nv_atomic_triv_cp_helper< _T> ::__val, _T> ::__type 
 #line 246
 atomicExch_block(_T *__address, _T __val) 
@@ -20439,7 +20746,7 @@ union _U { _T __ret; __inline _U() {int *volatile ___ = 0;::free(___);}
 #line 247
 { } 
 #endif
-#line 247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 247 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; _U __u; 
 #line 248
 __u128AtomicExch_block((void *)__address, (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__val)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__u.__ret))))); 
@@ -20452,7 +20759,7 @@ return __u.__ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 254 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 254 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 template< class _T> static __inline typename __nv_atomic_enable_if< ((sizeof(_T) == (16)) && (__alignof(_T) >= (16))) && __nv_atomic_triv_cp_helper< _T> ::__val, _T> ::__type 
 #line 256
 atomicExch_system(_T *__address, _T __val) 
@@ -20467,7 +20774,7 @@ union _U { _T __ret; __inline _U() {int *volatile ___ = 0;::free(___);}
 #line 257
 { } 
 #endif
-#line 257 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt\\sm_90_rt.h"
+#line 257 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_90_rt.h"
 }; _U __u; 
 #line 258
 __u128AtomicExch_system((void *)__address, (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__val)))), (void *)(&(const_cast< char &>(reinterpret_cast< const volatile char &>(__u.__ret))))); 
@@ -20476,7 +20783,151 @@ return __u.__ret;
 #line 262
 } 
 #endif
-#line 65 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 100 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __ffma2_rn(float2 x, float2 y, float2 z) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;(void)z;::exit(___);}
+#if 0
+#line 100
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __ffma2_rz(float2 x, float2 y, float2 z) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;(void)z;::exit(___);}
+#if 0
+#line 112
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 124 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __ffma2_rd(float2 x, float2 y, float2 z) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;(void)z;::exit(___);}
+#if 0
+#line 124
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 136 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __ffma2_ru(float2 x, float2 y, float2 z) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;(void)z;::exit(___);}
+#if 0
+#line 136
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 149 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fadd2_rn(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 149
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 161 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fadd2_rz(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 161
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fadd2_rd(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 173
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 185 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fadd2_ru(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 185
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 198 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fmul2_rn(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 198
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 210 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fmul2_rz(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 210
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 222 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fmul2_rd(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 222
+{ } 
+#endif
+
+__pragma(warning(push))
+__pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
+
+#line 234 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt\\sm_100_rt.h"
+static __inline float2 __fmul2_ru(float2 x, float2 y) 
+__pragma(warning(pop))
+{int volatile ___ = 1;(void)x;(void)y;::exit(___);}
+#if 0
+#line 234
+{ } 
+#endif
+#line 65 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> struct __nv_itex_trait { }; 
 #line 66
 template<> struct __nv_itex_trait< char>  { typedef void type; }; 
@@ -20544,7 +20995,7 @@ template<> struct __nv_itex_trait< ulong1>  { typedef void type; };
 template<> struct __nv_itex_trait< ulong2>  { typedef void type; }; 
 #line 99
 template<> struct __nv_itex_trait< ulong4>  { typedef void type; }; 
-#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 101 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template<> struct __nv_itex_trait< float>  { typedef void type; }; 
 #line 102
 template<> struct __nv_itex_trait< float1>  { typedef void type; }; 
@@ -20573,7 +21024,7 @@ __nv_tex_surf_handler("__itex1Dfetch", ptr, obj, x);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 114 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 115
 tex1Dfetch(::cudaTextureObject_t texObject, int x) 
@@ -20595,7 +21046,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 122 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 122 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 123
 tex1D(T *ptr, ::cudaTextureObject_t obj, float x) 
@@ -20613,7 +21064,7 @@ __nv_tex_surf_handler("__itex1D", ptr, obj, x);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 129 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 130
 tex1D(::cudaTextureObject_t texObject, float x) 
@@ -20635,7 +21086,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 138 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 139
 tex2D(T *ptr, ::cudaTextureObject_t obj, float x, float y) 
@@ -20653,7 +21104,7 @@ __nv_tex_surf_handler("__itex2D", ptr, obj, x, y);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 144 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 145
 tex2D(::cudaTextureObject_t texObject, float x, float y) 
@@ -20675,7 +21126,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 153 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 154
 tex2D(T *ptr, ::cudaTextureObject_t obj, float x, float y, bool *
@@ -20699,7 +21150,7 @@ __nv_tex_surf_handler("__itex2D_sparse", ptr, obj, x, y, &res);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 162 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 163
 tex2D(::cudaTextureObject_t texObject, float x, float y, bool *isResident) 
@@ -20721,7 +21172,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 173 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 174
 tex3D(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z) 
@@ -20739,7 +21190,7 @@ __nv_tex_surf_handler("__itex3D", ptr, obj, x, y, z);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 179 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 179 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 180
 tex3D(::cudaTextureObject_t texObject, float x, float y, float z) 
@@ -20761,7 +21212,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 188 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 189
 tex3D(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, bool *
@@ -20785,7 +21236,7 @@ __nv_tex_surf_handler("__itex3D_sparse", ptr, obj, x, y, z, &res);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 197 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 197 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 198
 tex3D(::cudaTextureObject_t texObject, float x, float y, float z, bool *isResident) 
@@ -20807,7 +21258,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 207 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 208
 tex1DLayered(T *ptr, ::cudaTextureObject_t obj, float x, int layer) 
@@ -20825,7 +21276,7 @@ __nv_tex_surf_handler("__itex1DLayered", ptr, obj, x, layer);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 213 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 214
 tex1DLayered(::cudaTextureObject_t texObject, float x, int layer) 
@@ -20847,7 +21298,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 221 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 221 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 222
 tex2DLayered(T *ptr, ::cudaTextureObject_t obj, float x, float y, int layer) 
@@ -20865,7 +21316,7 @@ __nv_tex_surf_handler("__itex2DLayered", ptr, obj, x, y, layer);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 227 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 227 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 228
 tex2DLayered(::cudaTextureObject_t texObject, float x, float y, int layer) 
@@ -20887,7 +21338,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 236 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 237
 tex2DLayered(T *ptr, ::cudaTextureObject_t obj, float x, float y, int layer, bool *isResident) 
@@ -20909,7 +21360,7 @@ __nv_tex_surf_handler("__itex2DLayered_sparse", ptr, obj, x, y, layer, &res);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 244 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 244 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 245
 tex2DLayered(::cudaTextureObject_t texObject, float x, float y, int layer, bool *isResident) 
@@ -20931,7 +21382,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 254 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 254 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 255
 texCubemap(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z) 
@@ -20949,7 +21400,7 @@ __nv_tex_surf_handler("__itexCubemap", ptr, obj, x, y, z);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 261 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 261 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 262
 texCubemap(::cudaTextureObject_t texObject, float x, float y, float z) 
@@ -20971,7 +21422,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 270 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 270 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 271
 texCubemapLayered(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, int layer) 
@@ -20989,7 +21440,7 @@ __nv_tex_surf_handler("__itexCubemapLayered", ptr, obj, x, y, z, layer);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 276 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 277
 texCubemapLayered(::cudaTextureObject_t texObject, float x, float y, float z, int layer) 
@@ -21011,7 +21462,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 284 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 284 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 285
 tex2Dgather(T *ptr, ::cudaTextureObject_t obj, float x, float y, int comp = 0) 
@@ -21029,7 +21480,7 @@ __nv_tex_surf_handler("__itex2Dgather", ptr, obj, x, y, comp);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 290 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 290 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 291
 tex2Dgather(::cudaTextureObject_t to, float x, float y, int comp = 0) 
@@ -21051,7 +21502,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 299 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 299 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 300
 tex2Dgather(T *ptr, ::cudaTextureObject_t obj, float x, float y, bool *isResident, int comp = 0) 
@@ -21073,7 +21524,7 @@ __nv_tex_surf_handler("__itex2Dgather_sparse", ptr, obj, x, y, comp, &res);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 307 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 307 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 308
 tex2Dgather(::cudaTextureObject_t to, float x, float y, bool *isResident, int comp = 0) 
@@ -21095,7 +21546,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 317 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 318
 tex1DLod(T *ptr, ::cudaTextureObject_t obj, float x, float level) 
@@ -21113,7 +21564,7 @@ __nv_tex_surf_handler("__itex1DLod", ptr, obj, x, level);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 323 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 323 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 324
 tex1DLod(::cudaTextureObject_t texObject, float x, float level) 
@@ -21135,7 +21586,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 332 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 332 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 333
 tex2DLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, float level) 
@@ -21153,7 +21604,7 @@ __nv_tex_surf_handler("__itex2DLod", ptr, obj, x, y, level);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 338 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 338 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 339
 tex2DLod(::cudaTextureObject_t texObject, float x, float y, float level) 
@@ -21175,7 +21626,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 348 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 348 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 349
 tex2DLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, float level, bool *isResident) 
@@ -21197,7 +21648,7 @@ __nv_tex_surf_handler("__itex2DLod_sparse", ptr, obj, x, y, level, &res);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 356 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 356 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 357
 tex2DLod(::cudaTextureObject_t texObject, float x, float y, float level, bool *isResident) 
@@ -21219,7 +21670,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 367 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 367 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 368
 tex3DLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, float level) 
@@ -21237,7 +21688,7 @@ __nv_tex_surf_handler("__itex3DLod", ptr, obj, x, y, z, level);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 373 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 373 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 374
 tex3DLod(::cudaTextureObject_t texObject, float x, float y, float z, float level) 
@@ -21259,7 +21710,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 382 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 382 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 383
 tex3DLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, float level, bool *isResident) 
@@ -21281,7 +21732,7 @@ __nv_tex_surf_handler("__itex3DLod_sparse", ptr, obj, x, y, z, level, &res);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 390 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 391
 tex3DLod(::cudaTextureObject_t texObject, float x, float y, float z, float level, bool *isResident) 
@@ -21303,7 +21754,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 401 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 402
 tex1DLayeredLod(T *ptr, ::cudaTextureObject_t obj, float x, int layer, float level) 
@@ -21321,7 +21772,7 @@ __nv_tex_surf_handler("__itex1DLayeredLod", ptr, obj, x, layer, level);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 407 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 407 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 408
 tex1DLayeredLod(::cudaTextureObject_t texObject, float x, int layer, float level) 
@@ -21343,7 +21794,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 416 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 416 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 417
 tex2DLayeredLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, int layer, float level) 
@@ -21361,7 +21812,7 @@ __nv_tex_surf_handler("__itex2DLayeredLod", ptr, obj, x, y, layer, level);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 422 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 422 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 423
 tex2DLayeredLod(::cudaTextureObject_t texObject, float x, float y, int layer, float level) 
@@ -21383,7 +21834,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 431 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 431 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 432
 tex2DLayeredLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, int layer, float level, bool *isResident) 
@@ -21405,7 +21856,7 @@ __nv_tex_surf_handler("__itex2DLayeredLod_sparse", ptr, obj, x, y, layer, level,
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 439 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 439 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 440
 tex2DLayeredLod(::cudaTextureObject_t texObject, float x, float y, int layer, float level, bool *isResident) 
@@ -21427,7 +21878,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 448 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 448 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 449
 texCubemapLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, float level) 
@@ -21445,7 +21896,7 @@ __nv_tex_surf_handler("__itexCubemapLod", ptr, obj, x, y, z, level);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 454 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 454 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 455
 texCubemapLod(::cudaTextureObject_t texObject, float x, float y, float z, float level) 
@@ -21467,7 +21918,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 463 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 463 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 464
 texCubemapGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, ::float4 dPdx, ::float4 dPdy) 
@@ -21485,7 +21936,7 @@ __nv_tex_surf_handler("__itexCubemapGrad_v2", ptr, obj, x, y, z, &dPdx, &dPdy);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 469 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 469 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 470
 texCubemapGrad(::cudaTextureObject_t texObject, float x, float y, float z, ::float4 dPdx, ::float4 dPdy) 
@@ -21507,7 +21958,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 477 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 477 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 478
 texCubemapLayeredLod(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, int layer, float level) 
@@ -21525,7 +21976,7 @@ __nv_tex_surf_handler("__itexCubemapLayeredLod", ptr, obj, x, y, z, layer, level
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 483 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 483 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 484
 texCubemapLayeredLod(::cudaTextureObject_t texObject, float x, float y, float z, int layer, float level) 
@@ -21547,7 +21998,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 491 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 491 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 492
 tex1DGrad(T *ptr, ::cudaTextureObject_t obj, float x, float dPdx, float dPdy) 
@@ -21565,7 +22016,7 @@ __nv_tex_surf_handler("__itex1DGrad", ptr, obj, x, dPdx, dPdy);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 497 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 497 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 498
 tex1DGrad(::cudaTextureObject_t texObject, float x, float dPdx, float dPdy) 
@@ -21587,7 +22038,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 506 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 506 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 507
 tex2DGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, ::float2 dPdx, ::float2 dPdy) 
@@ -21605,7 +22056,7 @@ __nv_tex_surf_handler("__itex2DGrad_v2", ptr, obj, x, y, &dPdx, &dPdy);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 512 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 512 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 513
 tex2DGrad(::cudaTextureObject_t texObject, float x, float y, ::float2 dPdx, ::float2 dPdy) 
@@ -21627,7 +22078,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 521 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 521 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 522
 tex2DGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, ::float2 dPdx, ::float2 dPdy, bool *isResident) 
@@ -21649,7 +22100,7 @@ __nv_tex_surf_handler("__itex2DGrad_sparse", ptr, obj, x, y, &dPdx, &dPdy, &res)
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 529 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 529 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 530
 tex2DGrad(::cudaTextureObject_t texObject, float x, float y, ::float2 dPdx, ::float2 dPdy, bool *isResident) 
@@ -21671,7 +22122,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 539 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 539 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 540
 tex3DGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, ::float4 dPdx, ::float4 dPdy) 
@@ -21689,7 +22140,7 @@ __nv_tex_surf_handler("__itex3DGrad_v2", ptr, obj, x, y, z, &dPdx, &dPdy);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 545 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 545 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 546
 tex3DGrad(::cudaTextureObject_t texObject, float x, float y, float z, ::float4 dPdx, ::float4 dPdy) 
@@ -21711,7 +22162,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 554 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 554 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 555
 tex3DGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, ::float4 dPdx, ::float4 dPdy, bool *isResident) 
@@ -21733,7 +22184,7 @@ __nv_tex_surf_handler("__itex3DGrad_sparse", ptr, obj, x, y, z, &dPdx, &dPdy, &r
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 562 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 562 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 563
 tex3DGrad(::cudaTextureObject_t texObject, float x, float y, float z, ::float4 dPdx, ::float4 dPdy, bool *isResident) 
@@ -21755,7 +22206,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 573 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 573 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 574
 tex1DLayeredGrad(T *ptr, ::cudaTextureObject_t obj, float x, int layer, float dPdx, float dPdy) 
@@ -21773,7 +22224,7 @@ __nv_tex_surf_handler("__itex1DLayeredGrad", ptr, obj, x, layer, dPdx, dPdy);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 579 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 579 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 580
 tex1DLayeredGrad(::cudaTextureObject_t texObject, float x, int layer, float dPdx, float dPdy) 
@@ -21795,7 +22246,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 588 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 588 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 589
 tex2DLayeredGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, int layer, ::float2 dPdx, ::float2 dPdy) 
@@ -21813,7 +22264,7 @@ __nv_tex_surf_handler("__itex2DLayeredGrad_v2", ptr, obj, x, y, layer, &dPdx, &d
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 594 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 594 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 595
 tex2DLayeredGrad(::cudaTextureObject_t texObject, float x, float y, int layer, ::float2 dPdx, ::float2 dPdy) 
@@ -21835,7 +22286,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 603 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 603 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 604
 tex2DLayeredGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, int layer, ::float2 dPdx, ::float2 dPdy, bool *isResident) 
@@ -21857,7 +22308,7 @@ __nv_tex_surf_handler("__itex2DLayeredGrad_sparse", ptr, obj, x, y, layer, &dPdx
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 611 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 611 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 612
 tex2DLayeredGrad(::cudaTextureObject_t texObject, float x, float y, int layer, ::float2 dPdx, ::float2 dPdy, bool *isResident) 
@@ -21879,7 +22330,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 621 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 621 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static typename __nv_itex_trait< T> ::type 
 #line 622
 texCubemapLayeredGrad(T *ptr, ::cudaTextureObject_t obj, float x, float y, float z, int layer, ::float4 dPdx, ::float4 dPdy) 
@@ -21897,7 +22348,7 @@ __nv_tex_surf_handler("__itexCubemapLayeredGrad_v2", ptr, obj, x, y, z, layer, &
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 627 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\texture_indirect_functions.h"
+#line 627 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\texture_indirect_functions.h"
 template< class T> static T 
 #line 628
 texCubemapLayeredGrad(::cudaTextureObject_t texObject, float x, float y, float z, int layer, ::float4 dPdx, ::float4 dPdy) 
@@ -21915,7 +22366,7 @@ return ret;
 #line 633
 } 
 #endif
-#line 58 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 58 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> struct __nv_isurf_trait { }; 
 #line 59
 template<> struct __nv_isurf_trait< char>  { typedef void type; }; 
@@ -22008,7 +22459,7 @@ __nv_tex_surf_handler("__isurf1Dread", ptr, obj, x, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 104 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 105
 surf1Dread(::cudaSurfaceObject_t surfObject, int x, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22030,7 +22481,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 112 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 113
 surf2Dread(T *ptr, ::cudaSurfaceObject_t obj, int x, int y, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22048,7 +22499,7 @@ __nv_tex_surf_handler("__isurf2Dread", ptr, obj, x, y, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 118 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 119
 surf2Dread(::cudaSurfaceObject_t surfObject, int x, int y, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22070,7 +22521,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 127 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 128
 surf3Dread(T *ptr, ::cudaSurfaceObject_t obj, int x, int y, int z, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22088,7 +22539,7 @@ __nv_tex_surf_handler("__isurf3Dread", ptr, obj, x, y, z, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 133 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 134
 surf3Dread(::cudaSurfaceObject_t surfObject, int x, int y, int z, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22110,7 +22561,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 141 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 142
 surf1DLayeredread(T *ptr, ::cudaSurfaceObject_t obj, int x, int layer, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22128,7 +22579,7 @@ __nv_tex_surf_handler("__isurf1DLayeredread", ptr, obj, x, layer, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 147 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 148
 surf1DLayeredread(::cudaSurfaceObject_t surfObject, int x, int layer, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22150,7 +22601,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 155 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 156
 surf2DLayeredread(T *ptr, ::cudaSurfaceObject_t obj, int x, int y, int layer, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22168,7 +22619,7 @@ __nv_tex_surf_handler("__isurf2DLayeredread", ptr, obj, x, y, layer, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 161 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 161 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 162
 surf2DLayeredread(::cudaSurfaceObject_t surfObject, int x, int y, int layer, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22190,7 +22641,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 169 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 169 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 170
 surfCubemapread(T *ptr, ::cudaSurfaceObject_t obj, int x, int y, int face, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22208,7 +22659,7 @@ __nv_tex_surf_handler("__isurfCubemapread", ptr, obj, x, y, face, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 175 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 176
 surfCubemapread(::cudaSurfaceObject_t surfObject, int x, int y, int face, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22230,7 +22681,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 183 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 184
 surfCubemapLayeredread(T *ptr, ::cudaSurfaceObject_t obj, int x, int y, int layerface, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22248,7 +22699,7 @@ __nv_tex_surf_handler("__isurfCubemapLayeredread", ptr, obj, x, y, layerface, mo
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 189 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static T 
 #line 190
 surfCubemapLayeredread(::cudaSurfaceObject_t surfObject, int x, int y, int layerface, ::cudaSurfaceBoundaryMode boundaryMode = cudaBoundaryModeTrap) 
@@ -22270,7 +22721,7 @@ return ret;
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 197 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 197 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 198
 surf1Dwrite(T val, ::cudaSurfaceObject_t obj, int x, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22288,7 +22739,7 @@ __nv_tex_surf_handler("__isurf1Dwrite_v2", &val, obj, x, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 203 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 204
 surf2Dwrite(T val, ::cudaSurfaceObject_t obj, int x, int y, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22306,7 +22757,7 @@ __nv_tex_surf_handler("__isurf2Dwrite_v2", &val, obj, x, y, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 209 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 209 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 210
 surf3Dwrite(T val, ::cudaSurfaceObject_t obj, int x, int y, int z, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22324,7 +22775,7 @@ __nv_tex_surf_handler("__isurf3Dwrite_v2", &val, obj, x, y, z, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 215 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 216
 surf1DLayeredwrite(T val, ::cudaSurfaceObject_t obj, int x, int layer, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22342,7 +22793,7 @@ __nv_tex_surf_handler("__isurf1DLayeredwrite_v2", &val, obj, x, layer, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 221 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 221 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 222
 surf2DLayeredwrite(T val, ::cudaSurfaceObject_t obj, int x, int y, int layer, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22360,7 +22811,7 @@ __nv_tex_surf_handler("__isurf2DLayeredwrite_v2", &val, obj, x, y, layer, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 227 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 227 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 228
 surfCubemapwrite(T val, ::cudaSurfaceObject_t obj, int x, int y, int face, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22378,7 +22829,7 @@ __nv_tex_surf_handler("__isurfCubemapwrite_v2", &val, obj, x, y, face, mode);
 __pragma(warning(push))
 __pragma(warning(disable : 4505)) /* "unreferenced local function has been removed" */
 
-#line 233 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\surface_indirect_functions.h"
+#line 233 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\surface_indirect_functions.h"
 template< class T> static typename __nv_isurf_trait< T> ::type 
 #line 234
 surfCubemapLayeredwrite(T val, ::cudaSurfaceObject_t obj, int x, int y, int layerface, ::cudaSurfaceBoundaryMode mode = cudaBoundaryModeTrap) 
@@ -22392,11 +22843,41 @@ __nv_tex_surf_handler("__isurfCubemapLayeredwrite_v2", &val, obj, x, y, layerfac
 #line 237
 } 
 #endif
-#line 2912 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\crt/device_functions.h"
+#line 2924 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/device_functions.h"
 extern "C" unsigned __stdcall __cudaPushCallConfiguration(dim3 gridDim, dim3 blockDim, size_t sharedMem = 0, CUstream_st * stream = 0); 
-#line 68 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_launch_parameters.h"
+#line 2969 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\crt/device_functions.h"
+enum { 
+#line 2970
+__NV_ATOMIC_RELAXED, 
+#line 2971
+__NV_ATOMIC_CONSUME, 
+#line 2972
+__NV_ATOMIC_ACQUIRE, 
+#line 2973
+__NV_ATOMIC_RELEASE, 
+#line 2974
+__NV_ATOMIC_ACQ_REL, 
+#line 2975
+__NV_ATOMIC_SEQ_CST
+#line 2976
+}; 
+#line 2978
+enum { 
+#line 2979
+__NV_THREAD_SCOPE_THREAD, 
+#line 2980
+__NV_THREAD_SCOPE_BLOCK, 
+#line 2981
+__NV_THREAD_SCOPE_CLUSTER, 
+#line 2982
+__NV_THREAD_SCOPE_DEVICE, 
+#line 2983
+__NV_THREAD_SCOPE_SYSTEM
+#line 2984
+}; 
+#line 68 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_launch_parameters.h"
 extern "C" {
-#line 71 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.6\\include\\device_launch_parameters.h"
+#line 71 "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v12.8\\include\\device_launch_parameters.h"
 extern const uint3 __device_builtin_variable_threadIdx; 
 #line 72
 extern const uint3 __device_builtin_variable_blockIdx; 
@@ -25846,1114 +26327,1190 @@ using std::tuple_size;
 #line 985
 #pragma warning(pop)
 #pragma pack ( pop )
-#line 206 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
+#line 207 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
 template< class T> static __inline ::cudaError_t 
-#line 207
-cudaLaunchKernel(T *
 #line 208
-func, ::dim3 
+cudaLaunchKernel(T *
 #line 209
-gridDim, ::dim3 
-#line 210
-blockDim, void **
-#line 211
-args, ::size_t 
-#line 212
-sharedMem = 0, ::cudaStream_t 
-#line 213
-stream = 0) 
-#line 215
-{ 
-#line 216
-return ::cudaLaunchKernel((const void *)func, gridDim, blockDim, args, sharedMem, stream); 
-#line 217
-} 
-#line 277
-template< class ...ExpTypes, class ...ActTypes> static __inline ::cudaError_t 
-#line 278
-cudaLaunchKernelEx(const ::cudaLaunchConfig_t *
-#line 279
-config, void (*
-#line 280
-kernel)(ExpTypes ...), ActTypes &&...
-#line 281
-args) 
-#line 283
-{ 
-#line 284
-return [&](ExpTypes ...coercedArgs) { 
-#line 285
-void *pArgs[] = {(&coercedArgs)...}; 
-#line 286
-return ::cudaLaunchKernelExC(config, (const void *)(kernel), pArgs); 
-#line 287
-} (std::forward< ActTypes> (args)...); 
-#line 288
-} 
-#line 341 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
-template< class T> static __inline ::cudaError_t 
-#line 342
-cudaLaunchCooperativeKernel(T *
-#line 343
 func, ::dim3 
-#line 344
+#line 210
 gridDim, ::dim3 
-#line 345
+#line 211
 blockDim, void **
-#line 346
+#line 212
 args, ::size_t 
-#line 347
+#line 213
 sharedMem = 0, ::cudaStream_t 
-#line 348
+#line 214
 stream = 0) 
+#line 216
+{ 
+#line 217
+return ::cudaLaunchKernel((const void *)func, gridDim, blockDim, args, sharedMem, stream); 
+#line 218
+} 
+#line 279
+template< class ...ExpTypes, class ...ActTypes> static __inline ::cudaError_t 
+#line 280
+cudaLaunchKernelEx(const ::cudaLaunchConfig_t *
+#line 281
+config, void (*
+#line 282
+kernel)(ExpTypes ...), ActTypes &&...
+#line 283
+args) 
+#line 285
+{ 
+#line 286
+return [&](ExpTypes ...coercedArgs) { 
+#line 287
+void *pArgs[] = {(&coercedArgs)...}; 
+#line 288
+return ::cudaLaunchKernelExC(config, (const void *)(kernel), pArgs); 
+#line 289
+} (std::forward< ActTypes> (args)...); 
+#line 290
+} 
+#line 348
+template< class ...ActTypes> static __inline ::cudaError_t 
+#line 349
+cudaLaunchKernelEx(const ::cudaLaunchConfig_t *
 #line 350
-{ 
+config, const ::cudaKernel_t 
 #line 351
-return ::cudaLaunchCooperativeKernel((const void *)func, gridDim, blockDim, args, sharedMem, stream); 
+kernel, ActTypes &&...
 #line 352
+args) 
+#line 354
+{ 
+#line 355
+void *pArgs[] = {(&args)...}; 
+#line 356
+return ::cudaLaunchKernelExC(config, (const void *)kernel, pArgs); 
+#line 357
 } 
-#line 385
+#line 410 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
+template< class T> static __inline ::cudaError_t 
+#line 411
+cudaLaunchCooperativeKernel(T *
+#line 412
+func, ::dim3 
+#line 413
+gridDim, ::dim3 
+#line 414
+blockDim, void **
+#line 415
+args, ::size_t 
+#line 416
+sharedMem = 0, ::cudaStream_t 
+#line 417
+stream = 0) 
+#line 419
+{ 
+#line 420
+return ::cudaLaunchCooperativeKernel((const void *)func, gridDim, blockDim, args, sharedMem, stream); 
+#line 421
+} 
+#line 454
 static __inline cudaError_t cudaEventCreate(cudaEvent_t *
-#line 386
+#line 455
 event, unsigned 
-#line 387
+#line 456
 flags) 
-#line 389
+#line 458
 { 
-#line 390
+#line 459
 return ::cudaEventCreateWithFlags(event, flags); 
-#line 391
+#line 460
 } 
-#line 429
+#line 498
 static __inline cudaError_t cudaGraphInstantiate(cudaGraphExec_t *
-#line 430
+#line 499
 pGraphExec, cudaGraph_t 
-#line 431
-graph, cudaGraphNode_t *
-#line 432
-pErrorNode, char *
-#line 433
-pLogBuffer, size_t 
-#line 434
-bufferSize) 
-#line 436
-{ 
-#line 437
-(void)pErrorNode; 
-#line 438
-(void)pLogBuffer; 
-#line 439
-(void)bufferSize; 
-#line 440
-return ::cudaGraphInstantiate(pGraphExec, graph, 0); 
-#line 441
-} 
 #line 500
-static __inline cudaError_t cudaMallocHost(void **
+graph, cudaGraphNode_t *
 #line 501
-ptr, size_t 
+pErrorNode, char *
 #line 502
-size, unsigned 
+pLogBuffer, size_t 
 #line 503
-flags) 
+bufferSize) 
 #line 505
 { 
 #line 506
-return ::cudaHostAlloc(ptr, size, flags); 
+(void)pErrorNode; 
 #line 507
-} 
+(void)pLogBuffer; 
+#line 508
+(void)bufferSize; 
 #line 509
-template< class T> static __inline ::cudaError_t 
+return ::cudaGraphInstantiate(pGraphExec, graph, 0); 
 #line 510
-cudaHostAlloc(T **
-#line 511
-ptr, ::size_t 
-#line 512
-size, unsigned 
-#line 513
-flags) 
-#line 515
-{ 
-#line 516
-return ::cudaHostAlloc((void **)((void *)ptr), size, flags); 
-#line 517
 } 
-#line 519
-template< class T> static __inline ::cudaError_t 
-#line 520
-cudaHostGetDevicePointer(T **
-#line 521
-pDevice, void *
-#line 522
-pHost, unsigned 
-#line 523
-flags) 
-#line 525
-{ 
-#line 526
-return ::cudaHostGetDevicePointer((void **)((void *)pDevice), pHost, flags); 
-#line 527
-} 
-#line 629
-template< class T> static __inline ::cudaError_t 
-#line 630
-cudaMallocManaged(T **
-#line 631
-devPtr, ::size_t 
-#line 632
-size, unsigned 
-#line 633
-flags = 1) 
-#line 635
-{ 
-#line 636
-return ::cudaMallocManaged((void **)((void *)devPtr), size, flags); 
-#line 637
-} 
-#line 647
-template< class T> ::cudaError_t 
-#line 648
-cudaMemAdvise(T *
-#line 649
-devPtr, ::size_t 
-#line 650
-count, ::cudaMemoryAdvise 
-#line 651
-advice, ::cudaMemLocation 
-#line 652
-location) 
-#line 654
-{ 
-#line 655
-return ::cudaMemAdvise_v2((const void *)devPtr, count, advice, location); 
-#line 656
-} 
-#line 658
-template< class T> static __inline ::cudaError_t 
-#line 659
-cudaMemPrefetchAsync(T *
-#line 660
-devPtr, ::size_t 
-#line 661
-count, ::cudaMemLocation 
-#line 662
-location, unsigned 
-#line 663
-flags, ::cudaStream_t 
-#line 664
-stream = 0) 
-#line 666
-{ 
-#line 667
-return ::cudaMemPrefetchAsync_v2((const void *)devPtr, count, location, flags, stream); 
-#line 668
-} 
-#line 750
-template< class T> static __inline ::cudaError_t 
-#line 751
-cudaStreamAttachMemAsync(::cudaStream_t 
-#line 752
-stream, T *
-#line 753
-devPtr, ::size_t 
-#line 754
-length = 0, unsigned 
-#line 755
-flags = 4) 
-#line 757
-{ 
-#line 758
-return ::cudaStreamAttachMemAsync(stream, (void *)devPtr, length, flags); 
-#line 759
-} 
-#line 761
-template< class T> __inline ::cudaError_t 
-#line 762
-cudaMalloc(T **
-#line 763
-devPtr, ::size_t 
-#line 764
-size) 
-#line 766
-{ 
-#line 767
-return ::cudaMalloc((void **)((void *)devPtr), size); 
-#line 768
-} 
-#line 770
-template< class T> static __inline ::cudaError_t 
-#line 771
-cudaMallocHost(T **
-#line 772
-ptr, ::size_t 
-#line 773
-size, unsigned 
-#line 774
-flags = 0) 
-#line 776
-{ 
-#line 777
-return cudaMallocHost((void **)((void *)ptr), size, flags); 
-#line 778
-} 
-#line 780
-template< class T> static __inline ::cudaError_t 
-#line 781
-cudaMallocPitch(T **
-#line 782
-devPtr, ::size_t *
-#line 783
-pitch, ::size_t 
-#line 784
-width, ::size_t 
-#line 785
-height) 
-#line 787
-{ 
-#line 788
-return ::cudaMallocPitch((void **)((void *)devPtr), pitch, width, height); 
-#line 789
-} 
-#line 800
-static __inline cudaError_t cudaMallocAsync(void **
-#line 801
+#line 569
+static __inline cudaError_t cudaMallocHost(void **
+#line 570
 ptr, size_t 
-#line 802
-size, cudaMemPool_t 
-#line 803
-memPool, cudaStream_t 
-#line 804
-stream) 
-#line 806
+#line 571
+size, unsigned 
+#line 572
+flags) 
+#line 574
 { 
-#line 807
-return ::cudaMallocFromPoolAsync(ptr, size, memPool, stream); 
-#line 808
+#line 575
+return ::cudaHostAlloc(ptr, size, flags); 
+#line 576
 } 
-#line 810
+#line 578
 template< class T> static __inline ::cudaError_t 
-#line 811
-cudaMallocAsync(T **
-#line 812
+#line 579
+cudaHostAlloc(T **
+#line 580
 ptr, ::size_t 
-#line 813
-size, ::cudaMemPool_t 
-#line 814
-memPool, ::cudaStream_t 
-#line 815
-stream) 
-#line 817
+#line 581
+size, unsigned 
+#line 582
+flags) 
+#line 584
 { 
-#line 818
-return ::cudaMallocFromPoolAsync((void **)((void *)ptr), size, memPool, stream); 
+#line 585
+return ::cudaHostAlloc((void **)((void *)ptr), size, flags); 
+#line 586
+} 
+#line 588
+template< class T> static __inline ::cudaError_t 
+#line 589
+cudaHostGetDevicePointer(T **
+#line 590
+pDevice, void *
+#line 591
+pHost, unsigned 
+#line 592
+flags) 
+#line 594
+{ 
+#line 595
+return ::cudaHostGetDevicePointer((void **)((void *)pDevice), pHost, flags); 
+#line 596
+} 
+#line 698
+template< class T> static __inline ::cudaError_t 
+#line 699
+cudaMallocManaged(T **
+#line 700
+devPtr, ::size_t 
+#line 701
+size, unsigned 
+#line 702
+flags = 1) 
+#line 704
+{ 
+#line 705
+return ::cudaMallocManaged((void **)((void *)devPtr), size, flags); 
+#line 706
+} 
+#line 716
+template< class T> ::cudaError_t 
+#line 717
+cudaMemAdvise(T *
+#line 718
+devPtr, ::size_t 
+#line 719
+count, ::cudaMemoryAdvise 
+#line 720
+advice, ::cudaMemLocation 
+#line 721
+location) 
+#line 723
+{ 
+#line 724
+return ::cudaMemAdvise_v2((const void *)devPtr, count, advice, location); 
+#line 725
+} 
+#line 727
+template< class T> static __inline ::cudaError_t 
+#line 728
+cudaMemPrefetchAsync(T *
+#line 729
+devPtr, ::size_t 
+#line 730
+count, ::cudaMemLocation 
+#line 731
+location, unsigned 
+#line 732
+flags, ::cudaStream_t 
+#line 733
+stream = 0) 
+#line 735
+{ 
+#line 736
+return ::cudaMemPrefetchAsync_v2((const void *)devPtr, count, location, flags, stream); 
+#line 737
+} 
 #line 819
-} 
+template< class T> static __inline ::cudaError_t 
+#line 820
+cudaStreamAttachMemAsync(::cudaStream_t 
 #line 821
-template< class T> static __inline ::cudaError_t 
+stream, T *
 #line 822
-cudaMallocAsync(T **
+devPtr, ::size_t 
 #line 823
-ptr, ::size_t 
+length = 0, unsigned 
 #line 824
-size, ::cudaStream_t 
-#line 825
-stream) 
+flags = 4) 
+#line 826
+{ 
 #line 827
-{ 
+return ::cudaStreamAttachMemAsync(stream, (void *)devPtr, length, flags); 
 #line 828
-return ::cudaMallocAsync((void **)((void *)ptr), size, stream); 
-#line 829
 } 
+#line 830
+template< class T> __inline ::cudaError_t 
 #line 831
-template< class T> static __inline ::cudaError_t 
+cudaMalloc(T **
 #line 832
-cudaMallocFromPoolAsync(T **
+devPtr, ::size_t 
 #line 833
-ptr, ::size_t 
-#line 834
-size, ::cudaMemPool_t 
+size) 
 #line 835
-memPool, ::cudaStream_t 
-#line 836
-stream) 
-#line 838
 { 
+#line 836
+return ::cudaMalloc((void **)((void *)devPtr), size); 
+#line 837
+} 
 #line 839
-return ::cudaMallocFromPoolAsync((void **)((void *)ptr), size, memPool, stream); 
+template< class T> static __inline ::cudaError_t 
 #line 840
+cudaMallocHost(T **
+#line 841
+ptr, ::size_t 
+#line 842
+size, unsigned 
+#line 843
+flags = 0) 
+#line 845
+{ 
+#line 846
+return cudaMallocHost((void **)((void *)ptr), size, flags); 
+#line 847
+} 
+#line 849
+template< class T> static __inline ::cudaError_t 
+#line 850
+cudaMallocPitch(T **
+#line 851
+devPtr, ::size_t *
+#line 852
+pitch, ::size_t 
+#line 853
+width, ::size_t 
+#line 854
+height) 
+#line 856
+{ 
+#line 857
+return ::cudaMallocPitch((void **)((void *)devPtr), pitch, width, height); 
+#line 858
+} 
+#line 869
+static __inline cudaError_t cudaMallocAsync(void **
+#line 870
+ptr, size_t 
+#line 871
+size, cudaMemPool_t 
+#line 872
+memPool, cudaStream_t 
+#line 873
+stream) 
+#line 875
+{ 
+#line 876
+return ::cudaMallocFromPoolAsync(ptr, size, memPool, stream); 
+#line 877
 } 
 #line 879
 template< class T> static __inline ::cudaError_t 
 #line 880
-cudaMemcpyToSymbol(const T &
+cudaMallocAsync(T **
 #line 881
-symbol, const void *
+ptr, ::size_t 
 #line 882
-src, ::size_t 
+size, ::cudaMemPool_t 
 #line 883
-count, ::size_t 
+memPool, ::cudaStream_t 
 #line 884
-offset = 0, ::cudaMemcpyKind 
-#line 885
-kind = cudaMemcpyHostToDevice) 
-#line 887
+stream) 
+#line 886
 { 
+#line 887
+return ::cudaMallocFromPoolAsync((void **)((void *)ptr), size, memPool, stream); 
 #line 888
-return ::cudaMemcpyToSymbol((const void *)(&symbol), src, count, offset, kind); 
-#line 889
 } 
-#line 933
+#line 890
 template< class T> static __inline ::cudaError_t 
-#line 934
-cudaMemcpyToSymbolAsync(const T &
-#line 935
-symbol, const void *
-#line 936
-src, ::size_t 
-#line 937
-count, ::size_t 
+#line 891
+cudaMallocAsync(T **
+#line 892
+ptr, ::size_t 
+#line 893
+size, ::cudaStream_t 
+#line 894
+stream) 
+#line 896
+{ 
+#line 897
+return ::cudaMallocAsync((void **)((void *)ptr), size, stream); 
+#line 898
+} 
+#line 900
+template< class T> static __inline ::cudaError_t 
+#line 901
+cudaMallocFromPoolAsync(T **
+#line 902
+ptr, ::size_t 
+#line 903
+size, ::cudaMemPool_t 
+#line 904
+memPool, ::cudaStream_t 
+#line 905
+stream) 
+#line 907
+{ 
+#line 908
+return ::cudaMallocFromPoolAsync((void **)((void *)ptr), size, memPool, stream); 
+#line 909
+} 
+#line 919
+template< class T, class U> static __inline ::cudaError_t 
+#line 920
+cudaMemcpyBatchAsync(T **
+#line 921
+dsts, U **srcs, ::size_t *sizes, ::size_t count, ::cudaMemcpyAttributes *attrs, ::size_t *
+#line 922
+attrsIdxs, ::size_t numAttrs, ::size_t *failIdx, ::cudaStream_t hStream) 
+#line 924
+{ 
+#line 925
+return ::cudaMemcpyBatchAsync((void **)dsts, (void **)srcs, sizes, count, attrs, attrsIdxs, numAttrs, failIdx, hStream); 
+#line 926
+} 
 #line 938
-offset = 0, ::cudaMemcpyKind 
+template< class T, class U> static __inline ::cudaError_t 
 #line 939
-kind = cudaMemcpyHostToDevice, ::cudaStream_t 
+cudaMemcpyBatchAsync(T **
 #line 940
-stream = 0) 
+dsts, U **srcs, ::size_t *sizes, ::size_t count, ::cudaMemcpyAttributes attr, ::size_t *failIdx, ::cudaStream_t hStream) 
 #line 942
 { 
 #line 943
-return ::cudaMemcpyToSymbolAsync((const void *)(&symbol), src, count, offset, kind, stream); 
+::size_t attrsIdxs = (0); 
 #line 944
+return ::cudaMemcpyBatchAsync((void **)dsts, (void **)srcs, sizes, count, &attr, &attrsIdxs, 1, failIdx, hStream); 
+#line 945
 } 
-#line 981
-template< class T> static __inline ::cudaError_t 
-#line 982
-cudaMemcpyFromSymbol(void *
-#line 983
-dst, const T &
 #line 984
-symbol, ::size_t 
+template< class T> static __inline ::cudaError_t 
 #line 985
-count, ::size_t 
+cudaMemcpyToSymbol(const T &
 #line 986
-offset = 0, ::cudaMemcpyKind 
+symbol, const void *
 #line 987
-kind = cudaMemcpyDeviceToHost) 
+src, ::size_t 
+#line 988
+count, ::size_t 
 #line 989
-{ 
-#line 990
-return ::cudaMemcpyFromSymbol(dst, (const void *)(&symbol), count, offset, kind); 
-#line 991
-} 
-#line 1035
-template< class T> static __inline ::cudaError_t 
-#line 1036
-cudaMemcpyFromSymbolAsync(void *
-#line 1037
-dst, const T &
-#line 1038
-symbol, ::size_t 
-#line 1039
-count, ::size_t 
-#line 1040
 offset = 0, ::cudaMemcpyKind 
+#line 990
+kind = cudaMemcpyHostToDevice) 
+#line 992
+{ 
+#line 993
+return ::cudaMemcpyToSymbol((const void *)(&symbol), src, count, offset, kind); 
+#line 994
+} 
+#line 1038
+template< class T> static __inline ::cudaError_t 
+#line 1039
+cudaMemcpyToSymbolAsync(const T &
+#line 1040
+symbol, const void *
 #line 1041
-kind = cudaMemcpyDeviceToHost, ::cudaStream_t 
+src, ::size_t 
 #line 1042
-stream = 0) 
+count, ::size_t 
+#line 1043
+offset = 0, ::cudaMemcpyKind 
 #line 1044
-{ 
+kind = cudaMemcpyHostToDevice, ::cudaStream_t 
 #line 1045
+stream = 0) 
+#line 1047
+{ 
+#line 1048
+return ::cudaMemcpyToSymbolAsync((const void *)(&symbol), src, count, offset, kind, stream); 
+#line 1049
+} 
+#line 1086
+template< class T> static __inline ::cudaError_t 
+#line 1087
+cudaMemcpyFromSymbol(void *
+#line 1088
+dst, const T &
+#line 1089
+symbol, ::size_t 
+#line 1090
+count, ::size_t 
+#line 1091
+offset = 0, ::cudaMemcpyKind 
+#line 1092
+kind = cudaMemcpyDeviceToHost) 
+#line 1094
+{ 
+#line 1095
+return ::cudaMemcpyFromSymbol(dst, (const void *)(&symbol), count, offset, kind); 
+#line 1096
+} 
+#line 1140
+template< class T> static __inline ::cudaError_t 
+#line 1141
+cudaMemcpyFromSymbolAsync(void *
+#line 1142
+dst, const T &
+#line 1143
+symbol, ::size_t 
+#line 1144
+count, ::size_t 
+#line 1145
+offset = 0, ::cudaMemcpyKind 
+#line 1146
+kind = cudaMemcpyDeviceToHost, ::cudaStream_t 
+#line 1147
+stream = 0) 
+#line 1149
+{ 
+#line 1150
 return ::cudaMemcpyFromSymbolAsync(dst, (const void *)(&symbol), count, offset, kind, stream); 
-#line 1046
+#line 1151
 } 
-#line 1104
+#line 1209
 template< class T> static __inline ::cudaError_t 
-#line 1105
+#line 1210
 cudaGraphAddMemcpyNodeToSymbol(::cudaGraphNode_t *
-#line 1106
+#line 1211
 pGraphNode, ::cudaGraph_t 
-#line 1107
+#line 1212
 graph, const ::cudaGraphNode_t *
-#line 1108
+#line 1213
 pDependencies, ::size_t 
-#line 1109
+#line 1214
 numDependencies, const T &
-#line 1110
+#line 1215
 symbol, const void *
-#line 1111
+#line 1216
 src, ::size_t 
-#line 1112
+#line 1217
 count, ::size_t 
-#line 1113
+#line 1218
 offset, ::cudaMemcpyKind 
-#line 1114
+#line 1219
 kind) 
-#line 1115
+#line 1220
 { 
-#line 1116
+#line 1221
 return ::cudaGraphAddMemcpyNodeToSymbol(pGraphNode, graph, pDependencies, numDependencies, (const void *)(&symbol), src, count, offset, kind); 
-#line 1117
+#line 1222
 } 
-#line 1175
-template< class T> static __inline ::cudaError_t 
-#line 1176
-cudaGraphAddMemcpyNodeFromSymbol(::cudaGraphNode_t *
-#line 1177
-pGraphNode, ::cudaGraph_t 
-#line 1178
-graph, const ::cudaGraphNode_t *
-#line 1179
-pDependencies, ::size_t 
-#line 1180
-numDependencies, void *
-#line 1181
-dst, const T &
-#line 1182
-symbol, ::size_t 
-#line 1183
-count, ::size_t 
-#line 1184
-offset, ::cudaMemcpyKind 
-#line 1185
-kind) 
-#line 1186
-{ 
-#line 1187
-return ::cudaGraphAddMemcpyNodeFromSymbol(pGraphNode, graph, pDependencies, numDependencies, dst, (const void *)(&symbol), count, offset, kind); 
-#line 1188
-} 
-#line 1226
-template< class T> static __inline ::cudaError_t 
-#line 1227
-cudaGraphMemcpyNodeSetParamsToSymbol(::cudaGraphNode_t 
-#line 1228
-node, const T &
-#line 1229
-symbol, const void *
-#line 1230
-src, ::size_t 
-#line 1231
-count, ::size_t 
-#line 1232
-offset, ::cudaMemcpyKind 
-#line 1233
-kind) 
-#line 1234
-{ 
-#line 1235
-return ::cudaGraphMemcpyNodeSetParamsToSymbol(node, (const void *)(&symbol), src, count, offset, kind); 
-#line 1236
-} 
-#line 1274
-template< class T> static __inline ::cudaError_t 
-#line 1275
-cudaGraphMemcpyNodeSetParamsFromSymbol(::cudaGraphNode_t 
-#line 1276
-node, void *
-#line 1277
-dst, const T &
-#line 1278
-symbol, ::size_t 
-#line 1279
-count, ::size_t 
 #line 1280
-offset, ::cudaMemcpyKind 
+template< class T> static __inline ::cudaError_t 
 #line 1281
-kind) 
+cudaGraphAddMemcpyNodeFromSymbol(::cudaGraphNode_t *
 #line 1282
-{ 
+pGraphNode, ::cudaGraph_t 
 #line 1283
-return ::cudaGraphMemcpyNodeSetParamsFromSymbol(node, dst, (const void *)(&symbol), count, offset, kind); 
+graph, const ::cudaGraphNode_t *
 #line 1284
-} 
-#line 1332
-template< class T> static __inline ::cudaError_t 
-#line 1333
-cudaGraphExecMemcpyNodeSetParamsToSymbol(::cudaGraphExec_t 
-#line 1334
-hGraphExec, ::cudaGraphNode_t 
-#line 1335
-node, const T &
-#line 1336
-symbol, const void *
-#line 1337
-src, ::size_t 
-#line 1338
-count, ::size_t 
-#line 1339
-offset, ::cudaMemcpyKind 
-#line 1340
-kind) 
-#line 1341
-{ 
-#line 1342
-return ::cudaGraphExecMemcpyNodeSetParamsToSymbol(hGraphExec, node, (const void *)(&symbol), src, count, offset, kind); 
-#line 1343
-} 
-#line 1391
-template< class T> static __inline ::cudaError_t 
-#line 1392
-cudaGraphExecMemcpyNodeSetParamsFromSymbol(::cudaGraphExec_t 
-#line 1393
-hGraphExec, ::cudaGraphNode_t 
-#line 1394
-node, void *
-#line 1395
+pDependencies, ::size_t 
+#line 1285
+numDependencies, void *
+#line 1286
 dst, const T &
-#line 1396
+#line 1287
 symbol, ::size_t 
-#line 1397
+#line 1288
 count, ::size_t 
-#line 1398
+#line 1289
 offset, ::cudaMemcpyKind 
-#line 1399
+#line 1290
 kind) 
-#line 1400
+#line 1291
 { 
-#line 1401
-return ::cudaGraphExecMemcpyNodeSetParamsFromSymbol(hGraphExec, node, dst, (const void *)(&symbol), count, offset, kind); 
-#line 1402
+#line 1292
+return ::cudaGraphAddMemcpyNodeFromSymbol(pGraphNode, graph, pDependencies, numDependencies, dst, (const void *)(&symbol), count, offset, kind); 
+#line 1293
 } 
-#line 1405
-static __inline cudaError_t __stdcall cudaGraphExecUpdate(cudaGraphExec_t hGraphExec, cudaGraph_t hGraph, cudaGraphNode_t *hErrorNode_out, cudaGraphExecUpdateResult *updateResult_out) 
-#line 1406
+#line 1331
+template< class T> static __inline ::cudaError_t 
+#line 1332
+cudaGraphMemcpyNodeSetParamsToSymbol(::cudaGraphNode_t 
+#line 1333
+node, const T &
+#line 1334
+symbol, const void *
+#line 1335
+src, ::size_t 
+#line 1336
+count, ::size_t 
+#line 1337
+offset, ::cudaMemcpyKind 
+#line 1338
+kind) 
+#line 1339
 { 
-#line 1407
-cudaGraphExecUpdateResultInfo resultInfo; 
-#line 1408
-cudaError_t status = cudaGraphExecUpdate(hGraphExec, hGraph, &resultInfo); 
-#line 1409
-if (hErrorNode_out) { 
-#line 1410
-(*hErrorNode_out) = (resultInfo.errorNode); 
-#line 1411
-}  
-#line 1412
-if (updateResult_out) { 
-#line 1413
-(*updateResult_out) = (resultInfo.result); 
-#line 1414
-}  
-#line 1415
-return status; 
-#line 1416
+#line 1340
+return ::cudaGraphMemcpyNodeSetParamsToSymbol(node, (const void *)(&symbol), src, count, offset, kind); 
+#line 1341
 } 
+#line 1379
+template< class T> static __inline ::cudaError_t 
+#line 1380
+cudaGraphMemcpyNodeSetParamsFromSymbol(::cudaGraphNode_t 
+#line 1381
+node, void *
+#line 1382
+dst, const T &
+#line 1383
+symbol, ::size_t 
+#line 1384
+count, ::size_t 
+#line 1385
+offset, ::cudaMemcpyKind 
+#line 1386
+kind) 
+#line 1387
+{ 
+#line 1388
+return ::cudaGraphMemcpyNodeSetParamsFromSymbol(node, dst, (const void *)(&symbol), count, offset, kind); 
+#line 1389
+} 
+#line 1437
+template< class T> static __inline ::cudaError_t 
+#line 1438
+cudaGraphExecMemcpyNodeSetParamsToSymbol(::cudaGraphExec_t 
+#line 1439
+hGraphExec, ::cudaGraphNode_t 
+#line 1440
+node, const T &
+#line 1441
+symbol, const void *
+#line 1442
+src, ::size_t 
+#line 1443
+count, ::size_t 
 #line 1444
-template< class T> static __inline ::cudaError_t 
+offset, ::cudaMemcpyKind 
 #line 1445
-cudaUserObjectCreate(::cudaUserObject_t *
+kind) 
 #line 1446
-object_out, T *
+{ 
 #line 1447
-objectToWrap, unsigned 
+return ::cudaGraphExecMemcpyNodeSetParamsToSymbol(hGraphExec, node, (const void *)(&symbol), src, count, offset, kind); 
 #line 1448
-initialRefcount, unsigned 
-#line 1449
-flags) 
-#line 1450
-{ 
-#line 1451
-return ::cudaUserObjectCreate(object_out, objectToWrap, [](void *
-#line 1454
-vpObj) { delete (reinterpret_cast< T *>(vpObj)); } , initialRefcount, flags); 
-#line 1457
 } 
-#line 1459
-template< class T> static __inline ::cudaError_t 
-#line 1460
-cudaUserObjectCreate(::cudaUserObject_t *
-#line 1461
-object_out, T *
-#line 1462
-objectToWrap, unsigned 
-#line 1463
-initialRefcount, ::cudaUserObjectFlags 
-#line 1464
-flags) 
-#line 1465
-{ 
-#line 1466
-return cudaUserObjectCreate(object_out, objectToWrap, initialRefcount, (unsigned)flags); 
-#line 1467
-} 
-#line 1494 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
-template< class T> static __inline ::cudaError_t 
-#line 1495
-cudaGetSymbolAddress(void **
 #line 1496
-devPtr, const T &
+template< class T> static __inline ::cudaError_t 
 #line 1497
-symbol) 
+cudaGraphExecMemcpyNodeSetParamsFromSymbol(::cudaGraphExec_t 
+#line 1498
+hGraphExec, ::cudaGraphNode_t 
 #line 1499
-{ 
+node, void *
 #line 1500
-return ::cudaGetSymbolAddress(devPtr, (const void *)(&symbol)); 
+dst, const T &
 #line 1501
+symbol, ::size_t 
+#line 1502
+count, ::size_t 
+#line 1503
+offset, ::cudaMemcpyKind 
+#line 1504
+kind) 
+#line 1505
+{ 
+#line 1506
+return ::cudaGraphExecMemcpyNodeSetParamsFromSymbol(hGraphExec, node, dst, (const void *)(&symbol), count, offset, kind); 
+#line 1507
 } 
-#line 1526
+#line 1510
+static __inline cudaError_t __stdcall cudaGraphExecUpdate(cudaGraphExec_t hGraphExec, cudaGraph_t hGraph, cudaGraphNode_t *hErrorNode_out, cudaGraphExecUpdateResult *updateResult_out) 
+#line 1511
+{ 
+#line 1512
+cudaGraphExecUpdateResultInfo resultInfo; 
+#line 1513
+cudaError_t status = cudaGraphExecUpdate(hGraphExec, hGraph, &resultInfo); 
+#line 1514
+if (hErrorNode_out) { 
+#line 1515
+(*hErrorNode_out) = (resultInfo.errorNode); 
+#line 1516
+}  
+#line 1517
+if (updateResult_out) { 
+#line 1518
+(*updateResult_out) = (resultInfo.result); 
+#line 1519
+}  
+#line 1520
+return status; 
+#line 1521
+} 
+#line 1549
 template< class T> static __inline ::cudaError_t 
-#line 1527
-cudaGetSymbolSize(::size_t *
-#line 1528
-size, const T &
-#line 1529
-symbol) 
-#line 1531
-{ 
-#line 1532
-return ::cudaGetSymbolSize(size, (const void *)(&symbol)); 
-#line 1533
-} 
-#line 1578
-template< class T> static __inline ::cudaError_t 
-#line 1579
-cudaFuncSetCacheConfig(T *
-#line 1580
-func, ::cudaFuncCache 
-#line 1581
-cacheConfig) 
-#line 1583
-{ 
-#line 1584
-return ::cudaFuncSetCacheConfig((const void *)func, cacheConfig); 
-#line 1585
-} 
-#line 1587
-template< class T> 
-#line 1589
-__declspec(deprecated) static __inline ::cudaError_t 
-#line 1590
-cudaFuncSetSharedMemConfig(T *
-#line 1591
-func, ::cudaSharedMemConfig 
-#line 1592
-config) 
-#line 1594
-{ 
-#line 1599 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
-#pragma warning(suppress: 4996)
-#line 1601 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
-return ::cudaFuncSetSharedMemConfig((const void *)func, config); 
-#line 1605 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
-} 
-#line 1637 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
-template< class T> __inline ::cudaError_t 
-#line 1638
-cudaOccupancyMaxActiveBlocksPerMultiprocessor(int *
-#line 1639
-numBlocks, T 
-#line 1640
-func, int 
-#line 1641
-blockSize, ::size_t 
-#line 1642
-dynamicSMemSize) 
-#line 1643
-{ 
-#line 1644
-return ::cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(numBlocks, (const void *)func, blockSize, dynamicSMemSize, 0); 
-#line 1645
-} 
-#line 1689
-template< class T> __inline ::cudaError_t 
-#line 1690
-cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(int *
-#line 1691
-numBlocks, T 
-#line 1692
-func, int 
-#line 1693
-blockSize, ::size_t 
-#line 1694
-dynamicSMemSize, unsigned 
-#line 1695
+#line 1550
+cudaUserObjectCreate(::cudaUserObject_t *
+#line 1551
+object_out, T *
+#line 1552
+objectToWrap, unsigned 
+#line 1553
+initialRefcount, unsigned 
+#line 1554
 flags) 
+#line 1555
+{ 
+#line 1556
+return ::cudaUserObjectCreate(object_out, objectToWrap, [](void *
+#line 1559
+vpObj) { delete (reinterpret_cast< T *>(vpObj)); } , initialRefcount, flags); 
+#line 1562
+} 
+#line 1564
+template< class T> static __inline ::cudaError_t 
+#line 1565
+cudaUserObjectCreate(::cudaUserObject_t *
+#line 1566
+object_out, T *
+#line 1567
+objectToWrap, unsigned 
+#line 1568
+initialRefcount, ::cudaUserObjectFlags 
+#line 1569
+flags) 
+#line 1570
+{ 
+#line 1571
+return cudaUserObjectCreate(object_out, objectToWrap, initialRefcount, (unsigned)flags); 
+#line 1572
+} 
+#line 1599 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
+template< class T> static __inline ::cudaError_t 
+#line 1600
+cudaGetSymbolAddress(void **
+#line 1601
+devPtr, const T &
+#line 1602
+symbol) 
+#line 1604
+{ 
+#line 1605
+return ::cudaGetSymbolAddress(devPtr, (const void *)(&symbol)); 
+#line 1606
+} 
+#line 1631
+template< class T> static __inline ::cudaError_t 
+#line 1632
+cudaGetSymbolSize(::size_t *
+#line 1633
+size, const T &
+#line 1634
+symbol) 
+#line 1636
+{ 
+#line 1637
+return ::cudaGetSymbolSize(size, (const void *)(&symbol)); 
+#line 1638
+} 
+#line 1683
+template< class T> static __inline ::cudaError_t 
+#line 1684
+cudaFuncSetCacheConfig(T *
+#line 1685
+func, ::cudaFuncCache 
+#line 1686
+cacheConfig) 
+#line 1688
+{ 
+#line 1689
+return ::cudaFuncSetCacheConfig((const void *)func, cacheConfig); 
+#line 1690
+} 
+#line 1692
+template< class T> 
+#line 1694
+__declspec(deprecated) static __inline ::cudaError_t 
+#line 1695
+cudaFuncSetSharedMemConfig(T *
 #line 1696
-{ 
+func, ::cudaSharedMemConfig 
 #line 1697
-return ::cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(numBlocks, (const void *)func, blockSize, dynamicSMemSize, flags); 
-#line 1698
-} 
-#line 1703
-class __cudaOccupancyB2DHelper { 
-#line 1704
-size_t n; 
-#line 1706
-public: __cudaOccupancyB2DHelper(size_t n_) : n(n_) { } 
-#line 1707
-size_t operator()(int) 
-#line 1708
+config) 
+#line 1699
 { 
-#line 1709
-return n; 
-#line 1710
+#line 1704 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
+#pragma warning(suppress: 4996)
+#line 1706 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
+return ::cudaFuncSetSharedMemConfig((const void *)func, config); 
+#line 1710 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
 } 
-#line 1711
-}; 
-#line 1759
-template< class UnaryFunction, class T> static __inline ::cudaError_t 
-#line 1760
-cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(int *
-#line 1761
-minGridSize, int *
-#line 1762
-blockSize, T 
-#line 1763
-func, UnaryFunction 
-#line 1764
-blockSizeToDynamicSMemSize, int 
-#line 1765
-blockSizeLimit = 0, unsigned 
-#line 1766
-flags = 0) 
-#line 1767
+#line 1743 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
+template< class T> __inline ::cudaError_t 
+#line 1744
+cudaOccupancyMaxActiveBlocksPerMultiprocessor(int *
+#line 1745
+numBlocks, T 
+#line 1746
+func, int 
+#line 1747
+blockSize, ::size_t 
+#line 1748
+dynamicSMemSize) 
+#line 1749
 { 
-#line 1768
-::cudaError_t status; 
-#line 1771
-int device; 
-#line 1772
-::cudaFuncAttributes attr; 
-#line 1775
-int maxThreadsPerMultiProcessor; 
-#line 1776
-int warpSize; 
-#line 1777
-int devMaxThreadsPerBlock; 
-#line 1778
-int multiProcessorCount; 
-#line 1779
-int funcMaxThreadsPerBlock; 
-#line 1780
-int occupancyLimit; 
-#line 1781
-int granularity; 
-#line 1784
-int maxBlockSize = 0; 
-#line 1785
-int numBlocks = 0; 
-#line 1786
-int maxOccupancy = 0; 
-#line 1789
-int blockSizeToTryAligned; 
-#line 1790
-int blockSizeToTry; 
-#line 1791
-int blockSizeLimitAligned; 
-#line 1792
-int occupancyInBlocks; 
-#line 1793
-int occupancyInThreads; 
-#line 1794
-::size_t dynamicSMemSize; 
+#line 1750
+return ::cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(numBlocks, (const void *)func, blockSize, dynamicSMemSize, 0); 
+#line 1751
+} 
+#line 1796
+template< class T> __inline ::cudaError_t 
+#line 1797
+cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(int *
+#line 1798
+numBlocks, T 
+#line 1799
+func, int 
 #line 1800
-if (((!minGridSize) || (!blockSize)) || (!func)) { 
+blockSize, ::size_t 
 #line 1801
-return cudaErrorInvalidValue; 
+dynamicSMemSize, unsigned 
 #line 1802
-}  
-#line 1808
-status = ::cudaGetDevice(&device); 
-#line 1809
-if (status != (cudaSuccess)) { 
+flags) 
+#line 1803
+{ 
+#line 1804
+return ::cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(numBlocks, (const void *)func, blockSize, dynamicSMemSize, flags); 
+#line 1805
+} 
 #line 1810
-return status; 
+class __cudaOccupancyB2DHelper { 
 #line 1811
-}  
+size_t n; 
 #line 1813
-status = cudaDeviceGetAttribute(&maxThreadsPerMultiProcessor, cudaDevAttrMaxThreadsPerMultiProcessor, device); 
+public: __cudaOccupancyB2DHelper(size_t n_) : n(n_) { } 
+#line 1814
+size_t operator()(int) 
+#line 1815
+{ 
+#line 1816
+return n; 
 #line 1817
-if (status != (cudaSuccess)) { 
+} 
 #line 1818
-return status; 
-#line 1819
-}  
-#line 1821
-status = cudaDeviceGetAttribute(&warpSize, cudaDevAttrWarpSize, device); 
-#line 1825
-if (status != (cudaSuccess)) { 
-#line 1826
-return status; 
-#line 1827
-}  
-#line 1829
-status = cudaDeviceGetAttribute(&devMaxThreadsPerBlock, cudaDevAttrMaxThreadsPerBlock, device); 
-#line 1833
-if (status != (cudaSuccess)) { 
-#line 1834
-return status; 
-#line 1835
-}  
-#line 1837
-status = cudaDeviceGetAttribute(&multiProcessorCount, cudaDevAttrMultiProcessorCount, device); 
-#line 1841
-if (status != (cudaSuccess)) { 
-#line 1842
-return status; 
-#line 1843
-}  
-#line 1845
-status = cudaFuncGetAttributes(&attr, func); 
-#line 1846
-if (status != (cudaSuccess)) { 
-#line 1847
-return status; 
-#line 1848
-}  
-#line 1850
-funcMaxThreadsPerBlock = (attr.maxThreadsPerBlock); 
-#line 1856
-occupancyLimit = maxThreadsPerMultiProcessor; 
-#line 1857
-granularity = warpSize; 
-#line 1859
-if (blockSizeLimit == 0) { 
-#line 1860
-blockSizeLimit = devMaxThreadsPerBlock; 
-#line 1861
-}  
-#line 1863
-if (devMaxThreadsPerBlock < blockSizeLimit) { 
-#line 1864
-blockSizeLimit = devMaxThreadsPerBlock; 
-#line 1865
-}  
+}; 
+#line 1866
+template< class UnaryFunction, class T> static __inline ::cudaError_t 
 #line 1867
-if (funcMaxThreadsPerBlock < blockSizeLimit) { 
+cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(int *
 #line 1868
-blockSizeLimit = funcMaxThreadsPerBlock; 
+minGridSize, int *
 #line 1869
-}  
+blockSize, T 
+#line 1870
+func, UnaryFunction 
 #line 1871
-blockSizeLimitAligned = (((blockSizeLimit + (granularity - 1)) / granularity) * granularity); 
+blockSizeToDynamicSMemSize, int 
+#line 1872
+blockSizeLimit = 0, unsigned 
 #line 1873
-for (blockSizeToTryAligned = blockSizeLimitAligned; blockSizeToTryAligned > 0; blockSizeToTryAligned -= granularity) { 
-#line 1877
-if (blockSizeLimit < blockSizeToTryAligned) { 
+flags = 0) 
+#line 1874
+{ 
+#line 1875
+::cudaError_t status; 
 #line 1878
-blockSizeToTry = blockSizeLimit; 
+int device; 
 #line 1879
-} else { 
-#line 1880
-blockSizeToTry = blockSizeToTryAligned; 
-#line 1881
-}  
+::cudaFuncAttributes attr; 
+#line 1882
+int maxThreadsPerMultiProcessor; 
 #line 1883
-dynamicSMemSize = blockSizeToDynamicSMemSize(blockSizeToTry); 
+int warpSize; 
+#line 1884
+int devMaxThreadsPerBlock; 
 #line 1885
-status = cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(&occupancyInBlocks, func, blockSizeToTry, dynamicSMemSize, flags); 
+int multiProcessorCount; 
+#line 1886
+int funcMaxThreadsPerBlock; 
+#line 1887
+int occupancyLimit; 
+#line 1888
+int granularity; 
+#line 1891
+int maxBlockSize = 0; 
 #line 1892
-if (status != (cudaSuccess)) { 
+int numBlocks = 0; 
 #line 1893
-return status; 
-#line 1894
-}  
+int maxOccupancy = 0; 
 #line 1896
-occupancyInThreads = (blockSizeToTry * occupancyInBlocks); 
+int blockSizeToTryAligned; 
+#line 1897
+int blockSizeToTry; 
 #line 1898
-if (occupancyInThreads > maxOccupancy) { 
+int blockSizeLimitAligned; 
 #line 1899
-maxBlockSize = blockSizeToTry; 
+int occupancyInBlocks; 
 #line 1900
-numBlocks = occupancyInBlocks; 
+int occupancyInThreads; 
 #line 1901
-maxOccupancy = occupancyInThreads; 
-#line 1902
-}  
-#line 1906
-if (occupancyLimit == maxOccupancy) { 
+::size_t dynamicSMemSize; 
 #line 1907
-break; 
+if (((!minGridSize) || (!blockSize)) || (!func)) { 
 #line 1908
-}  
+return cudaErrorInvalidValue; 
 #line 1909
 }  
+#line 1915
+status = ::cudaGetDevice(&device); 
+#line 1916
+if (status != (cudaSuccess)) { 
 #line 1917
-(*minGridSize) = (numBlocks * multiProcessorCount); 
-#line 1918
-(*blockSize) = maxBlockSize; 
-#line 1920
 return status; 
-#line 1921
-} 
+#line 1918
+}  
+#line 1920
+status = cudaDeviceGetAttribute(&maxThreadsPerMultiProcessor, cudaDevAttrMaxThreadsPerMultiProcessor, device); 
+#line 1924
+if (status != (cudaSuccess)) { 
+#line 1925
+return status; 
+#line 1926
+}  
+#line 1928
+status = cudaDeviceGetAttribute(&warpSize, cudaDevAttrWarpSize, device); 
+#line 1932
+if (status != (cudaSuccess)) { 
+#line 1933
+return status; 
+#line 1934
+}  
+#line 1936
+status = cudaDeviceGetAttribute(&devMaxThreadsPerBlock, cudaDevAttrMaxThreadsPerBlock, device); 
+#line 1940
+if (status != (cudaSuccess)) { 
+#line 1941
+return status; 
+#line 1942
+}  
+#line 1944
+status = cudaDeviceGetAttribute(&multiProcessorCount, cudaDevAttrMultiProcessorCount, device); 
+#line 1948
+if (status != (cudaSuccess)) { 
+#line 1949
+return status; 
+#line 1950
+}  
+#line 1952
+status = cudaFuncGetAttributes(&attr, func); 
+#line 1953
+if (status != (cudaSuccess)) { 
+#line 1954
+return status; 
 #line 1955
-template< class UnaryFunction, class T> static __inline ::cudaError_t 
-#line 1956
-cudaOccupancyMaxPotentialBlockSizeVariableSMem(int *
+}  
 #line 1957
-minGridSize, int *
-#line 1958
-blockSize, T 
-#line 1959
-func, UnaryFunction 
-#line 1960
-blockSizeToDynamicSMemSize, int 
-#line 1961
-blockSizeLimit = 0) 
-#line 1962
-{ 
+funcMaxThreadsPerBlock = (attr.maxThreadsPerBlock); 
 #line 1963
-return cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(minGridSize, blockSize, func, blockSizeToDynamicSMemSize, blockSizeLimit, 0); 
+occupancyLimit = maxThreadsPerMultiProcessor; 
 #line 1964
-} 
+granularity = warpSize; 
+#line 1966
+if (blockSizeLimit == 0) { 
+#line 1967
+blockSizeLimit = devMaxThreadsPerBlock; 
+#line 1968
+}  
+#line 1970
+if (devMaxThreadsPerBlock < blockSizeLimit) { 
+#line 1971
+blockSizeLimit = devMaxThreadsPerBlock; 
+#line 1972
+}  
+#line 1974
+if (funcMaxThreadsPerBlock < blockSizeLimit) { 
+#line 1975
+blockSizeLimit = funcMaxThreadsPerBlock; 
+#line 1976
+}  
+#line 1978
+blockSizeLimitAligned = (((blockSizeLimit + (granularity - 1)) / granularity) * granularity); 
+#line 1980
+for (blockSizeToTryAligned = blockSizeLimitAligned; blockSizeToTryAligned > 0; blockSizeToTryAligned -= granularity) { 
+#line 1984
+if (blockSizeLimit < blockSizeToTryAligned) { 
+#line 1985
+blockSizeToTry = blockSizeLimit; 
+#line 1986
+} else { 
+#line 1987
+blockSizeToTry = blockSizeToTryAligned; 
+#line 1988
+}  
+#line 1990
+dynamicSMemSize = blockSizeToDynamicSMemSize(blockSizeToTry); 
+#line 1992
+status = cudaOccupancyMaxActiveBlocksPerMultiprocessorWithFlags(&occupancyInBlocks, func, blockSizeToTry, dynamicSMemSize, flags); 
+#line 1999
+if (status != (cudaSuccess)) { 
+#line 2000
+return status; 
 #line 2001
-template< class T> static __inline ::cudaError_t 
-#line 2002
-cudaOccupancyMaxPotentialBlockSize(int *
+}  
 #line 2003
-minGridSize, int *
-#line 2004
-blockSize, T 
+occupancyInThreads = (blockSizeToTry * occupancyInBlocks); 
 #line 2005
-func, ::size_t 
+if (occupancyInThreads > maxOccupancy) { 
 #line 2006
-dynamicSMemSize = 0, int 
+maxBlockSize = blockSizeToTry; 
 #line 2007
-blockSizeLimit = 0) 
+numBlocks = occupancyInBlocks; 
 #line 2008
-{ 
+maxOccupancy = occupancyInThreads; 
 #line 2009
-return cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(minGridSize, blockSize, func, ((::__cudaOccupancyB2DHelper)(dynamicSMemSize)), blockSizeLimit, 0); 
-#line 2010
+}  
+#line 2013
+if (occupancyLimit == maxOccupancy) { 
+#line 2014
+break; 
+#line 2015
+}  
+#line 2016
+}  
+#line 2024
+(*minGridSize) = (numBlocks * multiProcessorCount); 
+#line 2025
+(*blockSize) = maxBlockSize; 
+#line 2027
+return status; 
+#line 2028
 } 
-#line 2039
-template< class T> static __inline ::cudaError_t 
-#line 2040
-cudaOccupancyAvailableDynamicSMemPerBlock(::size_t *
-#line 2041
-dynamicSmemSize, T *
-#line 2042
-func, int 
-#line 2043
-numBlocks, int 
-#line 2044
-blockSize) 
-#line 2045
-{ 
-#line 2046
-return ::cudaOccupancyAvailableDynamicSMemPerBlock(dynamicSmemSize, (const void *)func, numBlocks, blockSize); 
-#line 2047
-} 
-#line 2098
-template< class T> static __inline ::cudaError_t 
-#line 2099
-cudaOccupancyMaxPotentialBlockSizeWithFlags(int *
-#line 2100
+#line 2062
+template< class UnaryFunction, class T> static __inline ::cudaError_t 
+#line 2063
+cudaOccupancyMaxPotentialBlockSizeVariableSMem(int *
+#line 2064
 minGridSize, int *
-#line 2101
+#line 2065
 blockSize, T 
-#line 2102
-func, ::size_t 
-#line 2103
-dynamicSMemSize = 0, int 
-#line 2104
-blockSizeLimit = 0, unsigned 
-#line 2105
-flags = 0) 
-#line 2106
+#line 2066
+func, UnaryFunction 
+#line 2067
+blockSizeToDynamicSMemSize, int 
+#line 2068
+blockSizeLimit = 0) 
+#line 2069
 { 
-#line 2107
-return cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(minGridSize, blockSize, func, ((::__cudaOccupancyB2DHelper)(dynamicSMemSize)), blockSizeLimit, flags); 
+#line 2070
+return cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(minGridSize, blockSize, func, blockSizeToDynamicSMemSize, blockSizeLimit, 0); 
+#line 2071
+} 
 #line 2108
-} 
-#line 2142
 template< class T> static __inline ::cudaError_t 
-#line 2143
-cudaOccupancyMaxPotentialClusterSize(int *
-#line 2144
-clusterSize, T *
-#line 2145
-func, const ::cudaLaunchConfig_t *
-#line 2146
-config) 
+#line 2109
+cudaOccupancyMaxPotentialBlockSize(int *
+#line 2110
+minGridSize, int *
+#line 2111
+blockSize, T 
+#line 2112
+func, ::size_t 
+#line 2113
+dynamicSMemSize = 0, int 
+#line 2114
+blockSizeLimit = 0) 
+#line 2115
+{ 
+#line 2116
+return cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(minGridSize, blockSize, func, ((::__cudaOccupancyB2DHelper)(dynamicSMemSize)), blockSizeLimit, 0); 
+#line 2117
+} 
 #line 2147
-{ 
+template< class T> static __inline ::cudaError_t 
 #line 2148
-return ::cudaOccupancyMaxPotentialClusterSize(clusterSize, (const void *)func, config); 
+cudaOccupancyAvailableDynamicSMemPerBlock(::size_t *
 #line 2149
+dynamicSmemSize, T *
+#line 2150
+func, int 
+#line 2151
+numBlocks, int 
+#line 2152
+blockSize) 
+#line 2153
+{ 
+#line 2154
+return ::cudaOccupancyAvailableDynamicSMemPerBlock(dynamicSmemSize, (const void *)func, numBlocks, blockSize); 
+#line 2155
 } 
-#line 2185
+#line 2206
 template< class T> static __inline ::cudaError_t 
-#line 2186
-cudaOccupancyMaxActiveClusters(int *
-#line 2187
-numClusters, T *
-#line 2188
+#line 2207
+cudaOccupancyMaxPotentialBlockSizeWithFlags(int *
+#line 2208
+minGridSize, int *
+#line 2209
+blockSize, T 
+#line 2210
+func, ::size_t 
+#line 2211
+dynamicSMemSize = 0, int 
+#line 2212
+blockSizeLimit = 0, unsigned 
+#line 2213
+flags = 0) 
+#line 2214
+{ 
+#line 2215
+return cudaOccupancyMaxPotentialBlockSizeVariableSMemWithFlags(minGridSize, blockSize, func, ((::__cudaOccupancyB2DHelper)(dynamicSMemSize)), blockSizeLimit, flags); 
+#line 2216
+} 
+#line 2251
+template< class T> static __inline ::cudaError_t 
+#line 2252
+cudaOccupancyMaxPotentialClusterSize(int *
+#line 2253
+clusterSize, T *
+#line 2254
 func, const ::cudaLaunchConfig_t *
-#line 2189
+#line 2255
 config) 
-#line 2190
+#line 2256
 { 
-#line 2191
-return ::cudaOccupancyMaxActiveClusters(numClusters, (const void *)func, config); 
-#line 2192
+#line 2257
+return ::cudaOccupancyMaxPotentialClusterSize(clusterSize, (const void *)func, config); 
+#line 2258
 } 
-#line 2225
-template< class T> __inline ::cudaError_t 
-#line 2226
-cudaFuncGetAttributes(::cudaFuncAttributes *
-#line 2227
-attr, T *
-#line 2228
-entry) 
-#line 2230
-{ 
-#line 2231
-return ::cudaFuncGetAttributes(attr, (const void *)entry); 
-#line 2232
-} 
-#line 2290
+#line 2295
 template< class T> static __inline ::cudaError_t 
-#line 2291
-cudaFuncSetAttribute(T *
-#line 2292
-func, ::cudaFuncAttribute 
-#line 2293
-attr, int 
-#line 2294
-value) 
 #line 2296
-{ 
+cudaOccupancyMaxActiveClusters(int *
 #line 2297
-return ::cudaFuncSetAttribute((const void *)func, attr, value); 
+numClusters, T *
 #line 2298
-} 
-#line 2322
-template< class T> static __inline ::cudaError_t __stdcall 
-#line 2323
-cudaFuncGetName(const char **
-#line 2324
-name, T *
-#line 2325
-func) 
-#line 2327
+func, const ::cudaLaunchConfig_t *
+#line 2299
+config) 
+#line 2300
 { 
-#line 2328
-return ::cudaFuncGetName(name, (const void *)func); 
-#line 2329
+#line 2301
+return ::cudaOccupancyMaxActiveClusters(numClusters, (const void *)func, config); 
+#line 2302
 } 
-#line 2345
+#line 2336
+template< class T> __inline ::cudaError_t 
+#line 2337
+cudaFuncGetAttributes(::cudaFuncAttributes *
+#line 2338
+attr, T *
+#line 2339
+entry) 
+#line 2341
+{ 
+#line 2342
+return ::cudaFuncGetAttributes(attr, (const void *)entry); 
+#line 2343
+} 
+#line 2402
 template< class T> static __inline ::cudaError_t 
-#line 2346
-cudaGetKernel(::cudaKernel_t *
-#line 2347
-kernelPtr, T *
-#line 2348
-func) 
-#line 2350
+#line 2403
+cudaFuncSetAttribute(T *
+#line 2404
+func, ::cudaFuncAttribute 
+#line 2405
+attr, int 
+#line 2406
+value) 
+#line 2408
 { 
-#line 2351
-return ::cudaGetKernel(kernelPtr, (const void *)func); 
-#line 2352
+#line 2409
+return ::cudaFuncSetAttribute((const void *)func, attr, value); 
+#line 2410
 } 
-#line 2367 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/../include\\cuda_runtime.h"
+#line 2435
+template< class T> static __inline ::cudaError_t __stdcall 
+#line 2436
+cudaFuncGetName(const char **
+#line 2437
+name, T *
+#line 2438
+func) 
+#line 2440
+{ 
+#line 2441
+return ::cudaFuncGetName(name, (const void *)func); 
+#line 2442
+} 
+#line 2458
+template< class T> static __inline ::cudaError_t 
+#line 2459
+cudaGetKernel(::cudaKernel_t *
+#line 2460
+kernelPtr, T *
+#line 2461
+func) 
+#line 2463
+{ 
+#line 2464
+return ::cudaGetKernel(kernelPtr, (const void *)func); 
+#line 2465
+} 
+#line 2496
+template< class T> static __inline ::cudaError_t 
+#line 2497
+cudaLibraryGetGlobal(T **dptr, ::size_t *bytes, ::cudaLibrary_t library, const char *name) 
+#line 2498
+{ 
+#line 2499
+return ::cudaLibraryGetGlobal((void **)((void *)dptr), bytes, library, name); 
+#line 2500
+} 
+#line 2530
+template< class T> static __inline ::cudaError_t 
+#line 2531
+cudaLibraryGetManaged(T **dptr, ::size_t *bytes, ::cudaLibrary_t library, const char *name) 
+#line 2532
+{ 
+#line 2533
+return ::cudaLibraryGetManaged((void **)((void *)dptr), bytes, library, name); 
+#line 2534
+} 
+#line 2560
+template< class T> static __inline ::cudaError_t 
+#line 2561
+cudaLibraryGetUnifiedFunction(T **fptr, ::cudaLibrary_t library, const char *symbol) 
+#line 2562
+{ 
+#line 2563
+return ::cudaLibraryGetUnifiedFunction((void **)((void *)fptr), library, symbol); 
+#line 2564
+} 
+#line 2579 "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/../include\\cuda_runtime.h"
 #pragma warning(pop)
 #line 64 "CMakeCUDACompilerId.cu"
 const char *info_compiler = ("INFO:compiler[NVIDIA]"); 
 #line 66
 const char *info_simulate = ("INFO:simulate[MSVC]"); 
 #line 377 "CMakeCUDACompilerId.cu"
-const char info_version[] = {'I', 'N', 'F', 'O', ':', 'c', 'o', 'm', 'p', 'i', 'l', 'e', 'r', '_', 'v', 'e', 'r', 's', 'i', 'o', 'n', '[', (('0') + ((12 / 10000000) % 10)), (('0') + ((12 / 1000000) % 10)), (('0') + ((12 / 100000) % 10)), (('0') + ((12 / 10000) % 10)), (('0') + ((12 / 1000) % 10)), (('0') + ((12 / 100) % 10)), (('0') + ((12 / 10) % 10)), (('0') + (12 % 10)), '.', (('0') + ((6 / 10000000) % 10)), (('0') + ((6 / 1000000) % 10)), (('0') + ((6 / 100000) % 10)), (('0') + ((6 / 10000) % 10)), (('0') + ((6 / 1000) % 10)), (('0') + ((6 / 100) % 10)), (('0') + ((6 / 10) % 10)), (('0') + (6 % 10)), '.', (('0') + ((77 / 10000000) % 10)), (('0') + ((77 / 1000000) % 10)), (('0') + ((77 / 100000) % 10)), (('0') + ((77 / 10000) % 10)), (('0') + ((77 / 1000) % 10)), (('0') + ((77 / 100) % 10)), (('0') + ((77 / 10) % 10)), (('0') + (77 % 10)), ']', '\000'}; 
+const char info_version[] = {'I', 'N', 'F', 'O', ':', 'c', 'o', 'm', 'p', 'i', 'l', 'e', 'r', '_', 'v', 'e', 'r', 's', 'i', 'o', 'n', '[', (('0') + ((12 / 10000000) % 10)), (('0') + ((12 / 1000000) % 10)), (('0') + ((12 / 100000) % 10)), (('0') + ((12 / 10000) % 10)), (('0') + ((12 / 1000) % 10)), (('0') + ((12 / 100) % 10)), (('0') + ((12 / 10) % 10)), (('0') + (12 % 10)), '.', (('0') + ((8 / 10000000) % 10)), (('0') + ((8 / 1000000) % 10)), (('0') + ((8 / 100000) % 10)), (('0') + ((8 / 10000) % 10)), (('0') + ((8 / 1000) % 10)), (('0') + ((8 / 100) % 10)), (('0') + ((8 / 10) % 10)), (('0') + (8 % 10)), '.', (('0') + ((61 / 10000000) % 10)), (('0') + ((61 / 1000000) % 10)), (('0') + ((61 / 100000) % 10)), (('0') + ((61 / 10000) % 10)), (('0') + ((61 / 1000) % 10)), (('0') + ((61 / 100) % 10)), (('0') + ((61 / 10) % 10)), (('0') + (61 % 10)), ']', '\000'}; 
 #line 406 "CMakeCUDACompilerId.cu"
 const char info_simulate_version[] = {'I', 'N', 'F', 'O', ':', 's', 'i', 'm', 'u', 'l', 'a', 't', 'e', '_', 'v', 'e', 'r', 's', 'i', 'o', 'n', '[', (('0') + (((1942 / 100) / 10000000) % 10)), (('0') + (((1942 / 100) / 1000000) % 10)), (('0') + (((1942 / 100) / 100000) % 10)), (('0') + (((1942 / 100) / 10000) % 10)), (('0') + (((1942 / 100) / 1000) % 10)), (('0') + (((1942 / 100) / 100) % 10)), (('0') + (((1942 / 100) / 10) % 10)), (('0') + ((1942 / 100) % 10)), '.', (('0') + (((1942 % 100) / 10000000) % 10)), (('0') + (((1942 % 100) / 1000000) % 10)), (('0') + (((1942 % 100) / 100000) % 10)), (('0') + (((1942 % 100) / 10000) % 10)), (('0') + (((1942 % 100) / 1000) % 10)), (('0') + (((1942 % 100) / 100) % 10)), (('0') + (((1942 % 100) / 10) % 10)), (('0') + ((1942 % 100) % 10)), ']', '\000'}; 
 #line 426 "CMakeCUDACompilerId.cu"

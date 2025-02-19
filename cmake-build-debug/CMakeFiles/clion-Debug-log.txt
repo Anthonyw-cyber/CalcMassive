@@ -1,6 +1,6 @@
 C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/awilhelm/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\awilhelm\CLionProjects\CalcMassive -B C:\Users\awilhelm\CLionProjects\CalcMassive\cmake-build-debug
 -- The CXX compiler identification is GNU 13.1.0
--- The CUDA compiler identification is NVIDIA 12.6.77
+-- The CUDA compiler identification is NVIDIA 12.8.61
 -- Detecting CXX compiler ABI info
 -- Detecting CXX compiler ABI info - done
 -- Check for working CXX compiler: C:/Users/awilhelm/AppData/Local/Programs/CLion/bin/mingw/bin/g++.exe - skipped
@@ -8,27 +8,28 @@ C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -
 -- Detecting CXX compile features - done
 -- Detecting CUDA compiler ABI info
 -- Detecting CUDA compiler ABI info - failed
--- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/nvcc.exe
--- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/nvcc.exe - broken
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/nvcc.exe
+-- Check for working CUDA compiler: C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/nvcc.exe - broken
 CMake Error at C:/Users/awilhelm/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeTestCUDACompiler.cmake:59 (message):
   The CUDA compiler
 
-    "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/bin/nvcc.exe"
+    "C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/bin/nvcc.exe"
 
   is not able to compile a simple test program.
 
   It fails with the following output:
 
-    Change Dir: 'C:/Users/awilhelm/CLionProjects/CalcMassive/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-1nwciq'
+    Change Dir: 'C:/Users/awilhelm/CLionProjects/CalcMassive/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-w17y3e'
     
-    Run Build Command(s): C:/Users/awilhelm/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_9870f
-    [1/2] C:\PROGRA~1\NVIDIA~2\CUDA\v12.6\bin\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler=" -Zi -Ob0 -Od /RTC1" "--generate-code=arch=compute_52,code=[compute_52,sm_52]" -Xcompiler=-MDd -MD -MT CMakeFiles\cmTC_9870f.dir\main.cu.obj -MF CMakeFiles\cmTC_9870f.dir\main.cu.obj.d -x cu -c C:\Users\awilhelm\CLionProjects\CalcMassive\cmake-build-debug\CMakeFiles\CMakeScratch\TryCompile-1nwciq\main.cu -o CMakeFiles\cmTC_9870f.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_9870f.dir\,-FS
+    Run Build Command(s): C:/Users/awilhelm/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -v cmTC_82be3
+    [1/2] C:\PROGRA~1\NVIDIA~2\CUDA\v12.8\bin\nvcc.exe -forward-unknown-to-host-compiler   -D_WINDOWS -Xcompiler=" /GR /EHsc"  -Xcompiler=" -Zi -Ob0 -Od /RTC1" "--generate-code=arch=compute_52,code=[compute_52,sm_52]" -Xcompiler=-MDd -MD -MT CMakeFiles\cmTC_82be3.dir\main.cu.obj -MF CMakeFiles\cmTC_82be3.dir\main.cu.obj.d -x cu -c C:\Users\awilhelm\CLionProjects\CalcMassive\cmake-build-debug\CMakeFiles\CMakeScratch\TryCompile-w17y3e\main.cu -o CMakeFiles\cmTC_82be3.dir\main.cu.obj -Xcompiler=-FdCMakeFiles\cmTC_82be3.dir\,-FS
+    nvcc warning : Support for offline compilation for architectures prior to '<compute/sm/lto>_75' will be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).
     main.cu
-    tmpxft_00006f70_00000000-10_main.cudafe1.cpp
-    [2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_9870f.dir --rc=C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe --mt="" --manifests  -- C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\ld.exe /nologo CMakeFiles\cmTC_9870f.dir\main.cu.obj  /out:cmTC_9870f.exe /implib:cmTC_9870f.lib /pdb:cmTC_9870f.pdb /version:0.0 /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/lib/x64" && cd ."
-    FAILED: cmTC_9870f.exe 
-    C:\WINDOWS\system32\cmd.exe /C "cd . && C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_9870f.dir --rc=C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe --mt="" --manifests  -- C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\ld.exe /nologo CMakeFiles\cmTC_9870f.dir\main.cu.obj  /out:cmTC_9870f.exe /implib:cmTC_9870f.lib /pdb:cmTC_9870f.pdb /version:0.0 /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/lib/x64" && cd ."
-    RC Pass 1: command "C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe /fo CMakeFiles\cmTC_9870f.dir/manifest.res CMakeFiles\cmTC_9870f.dir/manifest.rc" failed (exit code 1) with the following output:
+    tmpxft_00003e48_00000000-10_main.cudafe1.cpp
+    [2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_82be3.dir --rc=C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe --mt="" --manifests  -- C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\ld.exe /nologo CMakeFiles\cmTC_82be3.dir\main.cu.obj  /out:cmTC_82be3.exe /implib:cmTC_82be3.lib /pdb:cmTC_82be3.pdb /version:0.0 /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/lib/x64" && cd ."
+    FAILED: cmTC_82be3.exe 
+    C:\WINDOWS\system32\cmd.exe /C "cd . && C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\cmTC_82be3.dir --rc=C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe --mt="" --manifests  -- C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\ld.exe /nologo CMakeFiles\cmTC_82be3.dir\main.cu.obj  /out:cmTC_82be3.exe /implib:cmTC_82be3.lib /pdb:cmTC_82be3.pdb /version:0.0 /debug /INCREMENTAL  cudadevrt.lib  cudart_static.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib -LIBPATH:"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.8/lib/x64" && cd ."
+    RC Pass 1: command "C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe /fo CMakeFiles\cmTC_82be3.dir/manifest.res CMakeFiles\cmTC_82be3.dir/manifest.rc" failed (exit code 1) with the following output:
     Usage: C:\Users\awilhelm\AppData\Local\Programs\CLion\bin\mingw\bin\windres.exe [option(s)] [input-file] [output-file]
      The options are:
       -i --input=<file>            Name input file
